@@ -16,16 +16,16 @@ The study and practice of designing regenerative, cooperatively owned, place-bas
 
 ## Related terms
 
-- [[glossary/biohub|BioHub]]
-- [[glossary/bioregion|BioRegion]]
-- [[glossary/two-machines|Two Machines]]
-- [[glossary/federated-cooperative|Federated cooperative]]
-- [[glossary/cosmo-local-production|Cosmo-local production]]
-- [[glossary/bioregional-financing-facility-bff|Bioregional Financing Facility (BFF)]]
-- [[glossary/transvestment|Transvestment]]
-- [[glossary/needed-vs-needy|Needed vs. Needy]]
-- [[glossary/biohub-field-sense|BioHub (field sense)]]
-- [[glossary/prosocial|Prosocial]]
+- [[biohub|BioHub]]
+- [[bioregion|BioRegion]]
+- [[two-machines|Two Machines]]
+- [[federated-cooperative|Federated cooperative]]
+- [[cosmo-local-production|Cosmo-local production]]
+- [[bioregional-financing-facility-bff|Bioregional Financing Facility (BFF)]]
+- [[transvestment|Transvestment]]
+- [[needed-vs-needy|Needed vs. Needy]]
+- [[biohub-field-sense|BioHub (field sense)]]
+- [[prosocial|Prosocial]]
 
 ## Sources and associated figures
 

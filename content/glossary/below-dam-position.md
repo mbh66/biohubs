@@ -16,8 +16,8 @@ A structural geographic position in which a bioregion sits downstream of a major
 
 ## Related terms
 
-- [[glossary/ecological-science|Ecological science]]
-- [[glossary/watershed-mapping|Watershed Mapping]]
+- [[ecological-science|Ecological science]]
+- [[watershed-mapping|Watershed Mapping]]
 
 ## Provenance
 

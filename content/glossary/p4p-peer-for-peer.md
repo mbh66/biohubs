@@ -16,7 +16,7 @@ Jeff Emmett's coinage, adopted by Michel Bauwens, naming the transition from pee
 
 ## Related terms
 
-- [[glossary/e-form-emergent|E form (Emergent)]]
+- [[e-form-emergent|E form (Emergent)]]
 
 ## Sources and associated figures
 

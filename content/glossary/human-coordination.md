@@ -16,9 +16,9 @@ The ways humans organize collective action.
 
 ## Related terms
 
-- [[glossary/coordination-node|Coordination Node]]
-- [[glossary/timn-framework|TIMN Framework]]
-- [[glossary/time-framework|TIME Framework]]
+- [[coordination-node|Coordination Node]]
+- [[timn-framework|TIMN Framework]]
+- [[time-framework|TIME Framework]]
 
 ## Sources and associated figures
 

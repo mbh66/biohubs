@@ -16,7 +16,7 @@ The principle that an asset's resistance to alienation can preserve the coordina
 
 ## Related terms
 
-- [[glossary/e-form-emergent|E form (Emergent)]]
+- [[e-form-emergent|E form (Emergent)]]
 
 ## Provenance
 

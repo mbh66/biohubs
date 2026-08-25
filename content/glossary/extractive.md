@@ -16,9 +16,9 @@ Producing value by drawing down the substrate the production depends on.
 
 ## Related terms
 
-- [[glossary/regenerative|Regenerative]]
-- [[glossary/throughput-economics|Throughput Economics]]
-- [[glossary/two-machines|Two Machines]]
+- [[regenerative|Regenerative]]
+- [[throughput-economics|Throughput Economics]]
+- [[two-machines|Two Machines]]
 
 ## Provenance
 

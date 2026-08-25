@@ -16,7 +16,7 @@ Under South Africa's National Water Act of 1998, the first-priority allocation o
 
 ## Related terms
 
-- [[glossary/ecological-science|Ecological science]]
+- [[ecological-science|Ecological science]]
 
 ## Provenance
 

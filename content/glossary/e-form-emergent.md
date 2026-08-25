@@ -16,15 +16,15 @@ Coordination through pooled commitments toward outcomes no single actor can prod
 
 ## Related terms
 
-- [[glossary/time-framework|TIME Framework]]
-- [[glossary/commons|Commons]]
-- [[glossary/subsidiarity|Subsidiarity]]
-- [[glossary/protective-illiquidity|Protective illiquidity]]
-- [[glossary/commitment-pool|Commitment pool]]
-- [[glossary/p4p-peer-for-peer|P4P (Peer FOR Peer)]]
-- [[glossary/archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]]
-- [[glossary/bioscore|BioScore]]
-- [[glossary/missing-middle|Missing middle]]
+- [[time-framework|TIME Framework]]
+- [[commons|Commons]]
+- [[subsidiarity|Subsidiarity]]
+- [[protective-illiquidity|Protective illiquidity]]
+- [[commitment-pool|Commitment pool]]
+- [[p4p-peer-for-peer|P4P (Peer FOR Peer)]]
+- [[archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]]
+- [[bioscore|BioScore]]
+- [[missing-middle|Missing middle]]
 
 ## Provenance
 

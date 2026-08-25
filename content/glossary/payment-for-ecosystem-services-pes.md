@@ -16,7 +16,7 @@ A market mechanism in which a beneficiary of an ecological service (such as a do
 
 ## Related terms
 
-- [[glossary/m-form-market|M form (Market)]]
+- [[m-form-market|M form (Market)]]
 
 ## Provenance
 

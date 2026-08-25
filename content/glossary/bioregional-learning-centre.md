@@ -20,7 +20,7 @@ It is a community-facing learning lab for real-world resilience and inspiration,
 
 ## Related terms
 
-- [[glossary/biohub|BioHub]]
+- [[biohub|BioHub]]
 
 ## Sources and associated figures
 

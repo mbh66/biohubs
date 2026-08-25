@@ -16,8 +16,8 @@ Every form of intelligence that is not human-made: empathy, intuition, indigenou
 
 ## Related terms
 
-- [[glossary/indigenous-knowledge|Indigenous Knowledge]]
-- [[glossary/intelligence-silicon|Intelligence, Silicon]]
+- [[indigenous-knowledge|Indigenous Knowledge]]
+- [[intelligence-silicon|Intelligence, Silicon]]
 
 ## Provenance
 

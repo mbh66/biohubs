@@ -16,8 +16,8 @@ Coordination through hierarchy, codified rules, and formalized authority, where 
 
 ## Related terms
 
-- [[glossary/time-framework|TIME Framework]]
-- [[glossary/stacked-entity-structure|Stacked entity structure]]
+- [[time-framework|TIME Framework]]
+- [[stacked-entity-structure|Stacked entity structure]]
 
 ## Sources and associated figures
 

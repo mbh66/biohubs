@@ -16,7 +16,7 @@ A shared resource governed by its users through collectively agreed rules, as di
 
 ## Related terms
 
-- [[glossary/e-form-emergent|E form (Emergent)]]
+- [[e-form-emergent|E form (Emergent)]]
 
 ## Sources and associated figures
 

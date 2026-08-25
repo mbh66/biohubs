@@ -16,8 +16,8 @@ The default posture of the regenerative and bioregional movement in its current 
 
 ## Related terms
 
-- [[glossary/needed-vs-needy|Needed vs. Needy]]
-- [[glossary/needed|Needed]]
+- [[needed-vs-needy|Needed vs. Needy]]
+- [[needed|Needed]]
 
 ## Provenance
 

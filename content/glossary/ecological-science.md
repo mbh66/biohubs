@@ -16,11 +16,11 @@ The body of peer-reviewed and field-tested knowledge through which a BioHub unde
 
 ## Related terms
 
-- [[glossary/water-retention-landscape|Water Retention Landscape]]
-- [[glossary/soil-carbon-sponge|Soil Carbon Sponge]]
-- [[glossary/below-dam-position|Below-dam Position]]
-- [[glossary/ecological-reserve|Ecological Reserve]]
-- [[glossary/strategic-water-source-area-swsa|Strategic Water Source Area (SWSA)]]
+- [[water-retention-landscape|Water Retention Landscape]]
+- [[soil-carbon-sponge|Soil Carbon Sponge]]
+- [[below-dam-position|Below-dam Position]]
+- [[ecological-reserve|Ecological Reserve]]
+- [[strategic-water-source-area-swsa|Strategic Water Source Area (SWSA)]]
 
 ## Provenance
 

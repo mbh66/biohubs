@@ -20,8 +20,8 @@ Each of these forms represents a distinct system of beliefs, structures, and dyn
 
 ## Related terms
 
-- [[glossary/time-framework|TIME Framework]]
-- [[glossary/human-coordination|Human Coordination]]
+- [[time-framework|TIME Framework]]
+- [[human-coordination|Human Coordination]]
 
 ## Sources and associated figures
 

@@ -16,7 +16,7 @@ A governance architecture using multiple legal forms (NPC, cooperative, operatin
 
 ## Related terms
 
-- [[glossary/i-form-institutional|I form (Institutional)]]
+- [[i-form-institutional|I form (Institutional)]]
 
 ## Provenance
 

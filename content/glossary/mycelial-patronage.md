@@ -16,7 +16,7 @@ A funding architecture in which capital enters the commons substrate and becomes
 
 ## Related terms
 
-- [[glossary/m-form-market|M form (Market)]]
+- [[m-form-market|M form (Market)]]
 
 ## Provenance
 

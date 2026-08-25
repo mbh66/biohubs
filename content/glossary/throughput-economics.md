@@ -16,8 +16,8 @@ Economic activity organized around the conversion of natural resources into good
 
 ## Related terms
 
-- [[glossary/regeneration-economics|Regeneration Economics]]
-- [[glossary/extractive|Extractive]]
+- [[regeneration-economics|Regeneration Economics]]
+- [[extractive|Extractive]]
 
 ## Provenance
 

@@ -16,7 +16,7 @@ The four functions of Ruddick's Commitment Pooling Protocol: what commitments ar
 
 ## Related terms
 
-- [[glossary/commitment-pool|Commitment pool]]
+- [[commitment-pool|Commitment pool]]
 
 ## Sources and associated figures
 

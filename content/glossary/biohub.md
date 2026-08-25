@@ -16,12 +16,12 @@ A BioHub is a bioregional coordination body that convenes the people, institutio
 
 ## Related terms
 
-- [[glossary/bioregion|BioRegion]]
-- [[glossary/bioregional-economics|Bioregional Economics]]
-- [[glossary/biohub-field-sense|BioHub (field sense)]]
-- [[glossary/bioregional-learning-centre|Bioregional Learning Centre]]
-- [[glossary/bioconomy|BioConomy]]
-- [[glossary/biostack|BioStack]]
+- [[bioregion|BioRegion]]
+- [[bioregional-economics|Bioregional Economics]]
+- [[biohub-field-sense|BioHub (field sense)]]
+- [[bioregional-learning-centre|Bioregional Learning Centre]]
+- [[bioconomy|BioConomy]]
+- [[biostack|BioStack]]
 
 ## Sources and associated figures
 

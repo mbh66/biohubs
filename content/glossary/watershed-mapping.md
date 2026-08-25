@@ -16,7 +16,7 @@ Tools for delineating the drainage boundary, stream network, and land cover of t
 
 ## Related terms
 
-- [[glossary/below-dam-position|Below-dam Position]]
+- [[below-dam-position|Below-dam Position]]
 
 ## Provenance
 

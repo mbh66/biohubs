@@ -16,10 +16,10 @@ The characteristic physical structure a coordination form produces as it matures
 
 ## Related terms
 
-- [[glossary/time-framework|TIME Framework]]
-- [[glossary/t-form-tribal|T form (Tribal)]]
-- [[glossary/m-form-market|M form (Market)]]
-- [[glossary/human-coordination|Human Coordination]]
+- [[time-framework|TIME Framework]]
+- [[t-form-tribal|T form (Tribal)]]
+- [[m-form-market|M form (Market)]]
+- [[human-coordination|Human Coordination]]
 
 ## Sources and associated figures
 

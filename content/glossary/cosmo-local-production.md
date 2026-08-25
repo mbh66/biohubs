@@ -16,7 +16,7 @@ Michel Bauwens's formulation: share knowledge globally, adapt it locally, produc
 
 ## Related terms
 
-- [[glossary/bioregional-economics|Bioregional Economics]]
+- [[bioregional-economics|Bioregional Economics]]
 
 ## Sources and associated figures
 

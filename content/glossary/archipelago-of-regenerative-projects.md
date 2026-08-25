@@ -16,7 +16,7 @@ Bauwens' framing of the emerging field as a third attractor alongside Chinese st
 
 ## Related terms
 
-- [[glossary/e-form-emergent|E form (Emergent)]]
+- [[e-form-emergent|E form (Emergent)]]
 
 ## Sources and associated figures
 

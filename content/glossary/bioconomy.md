@@ -16,9 +16,9 @@ The economic system that emerges when bioregions coordinate their productive act
 
 ## Related terms
 
-- [[glossary/bioregion|BioRegion]]
-- [[glossary/biohub|BioHub]]
-- [[glossary/biostack|BioStack]]
+- [[bioregion|BioRegion]]
+- [[biohub|BioHub]]
+- [[biostack|BioStack]]
 
 ## Provenance
 

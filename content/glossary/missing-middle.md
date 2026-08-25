@@ -16,7 +16,7 @@ Benjamin Life's term for the institutional gap between the design principles of 
 
 ## Related terms
 
-- [[glossary/e-form-emergent|E form (Emergent)]]
+- [[e-form-emergent|E form (Emergent)]]
 
 ## Provenance
 

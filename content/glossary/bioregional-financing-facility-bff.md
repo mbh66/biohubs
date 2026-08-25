@@ -16,7 +16,7 @@ A phased institutional architecture (bioregional trust, venture studio, investme
 
 ## Related terms
 
-- [[glossary/bioregional-economics|Bioregional Economics]]
+- [[bioregional-economics|Bioregional Economics]]
 
 ## Sources and associated figures
 

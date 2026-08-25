@@ -16,7 +16,7 @@ The structural risk that a legibility signal detaches from the reality it claims
 
 ## Related terms
 
-- [[glossary/time-framework|TIME Framework]]
+- [[time-framework|TIME Framework]]
 
 ## Provenance
 

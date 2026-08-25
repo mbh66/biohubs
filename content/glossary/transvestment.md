@@ -16,7 +16,7 @@ Capital flowing from extractive to regenerative circuits without expectation of 
 
 ## Related terms
 
-- [[glossary/bioregional-economics|Bioregional Economics]]
+- [[bioregional-economics|Bioregional Economics]]
 
 ## Sources and associated figures
 

@@ -16,7 +16,7 @@ A rotating communal labor tradition among the Mijikenda peoples of coastal Kenya
 
 ## Related terms
 
-- [[glossary/commitment-pool|Commitment pool]]
+- [[commitment-pool|Commitment pool]]
 
 ## Sources and associated figures
 

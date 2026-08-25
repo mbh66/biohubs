@@ -16,9 +16,9 @@ Coordination through kinship, identity, belonging, and reciprocal obligation, wh
 
 ## Related terms
 
-- [[glossary/time-framework|TIME Framework]]
-- [[glossary/coordination-node|Coordination Node]]
-- [[glossary/indigenous-knowledge|Indigenous Knowledge]]
+- [[time-framework|TIME Framework]]
+- [[coordination-node|Coordination Node]]
+- [[indigenous-knowledge|Indigenous Knowledge]]
 
 ## Sources and associated figures
 

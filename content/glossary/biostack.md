@@ -20,9 +20,9 @@ The BioHub provides the place-based coordination that makes a BioRegion function
 
 ## Related terms
 
-- [[glossary/biohub|BioHub]]
-- [[glossary/bioconomy|BioConomy]]
-- [[glossary/bioregion|BioRegion]]
+- [[biohub|BioHub]]
+- [[bioconomy|BioConomy]]
+- [[bioregion|BioRegion]]
 
 ## Provenance
 

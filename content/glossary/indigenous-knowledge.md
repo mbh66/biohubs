@@ -16,8 +16,8 @@ Knowledge that arises from sustained relationship with a specific place: its soi
 
 ## Related terms
 
-- [[glossary/t-form-tribal|T form (Tribal)]]
-- [[glossary/intelligence-carbon|Intelligence, Carbon]]
+- [[t-form-tribal|T form (Tribal)]]
+- [[intelligence-carbon|Intelligence, Carbon]]
 
 ## Provenance
 

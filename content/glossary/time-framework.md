@@ -16,16 +16,16 @@ An analytical vocabulary that names four coordination forms (Tribal, Institution
 
 ## Related terms
 
-- [[glossary/timn-framework|TIMN Framework]]
-- [[glossary/t-form-tribal|T form (Tribal)]]
-- [[glossary/i-form-institutional|I form (Institutional)]]
-- [[glossary/m-form-market|M form (Market)]]
-- [[glossary/e-form-emergent|E form (Emergent)]]
-- [[glossary/coordination-node|Coordination Node]]
-- [[glossary/legibility-signal|Legibility signal]]
-- [[glossary/decoupling-risk|Decoupling risk]]
-- [[glossary/polycentricity|Polycentricity]]
-- [[glossary/human-coordination|Human Coordination]]
+- [[timn-framework|TIMN Framework]]
+- [[t-form-tribal|T form (Tribal)]]
+- [[i-form-institutional|I form (Institutional)]]
+- [[m-form-market|M form (Market)]]
+- [[e-form-emergent|E form (Emergent)]]
+- [[coordination-node|Coordination Node]]
+- [[legibility-signal|Legibility signal]]
+- [[decoupling-risk|Decoupling risk]]
+- [[polycentricity|Polycentricity]]
+- [[human-coordination|Human Coordination]]
 
 ## Sources and associated figures
 

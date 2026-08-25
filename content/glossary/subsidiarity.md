@@ -16,7 +16,7 @@ The principle that decisions should be made at the most local level competent to
 
 ## Related terms
 
-- [[glossary/e-form-emergent|E form (Emergent)]]
+- [[e-form-emergent|E form (Emergent)]]
 
 ## Provenance
 

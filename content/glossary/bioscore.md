@@ -16,7 +16,7 @@ A composite index on the Guardians of Earth platform, built from five sub-scores
 
 ## Related terms
 
-- [[glossary/e-form-emergent|E form (Emergent)]]
+- [[e-form-emergent|E form (Emergent)]]
 
 ## Provenance
 

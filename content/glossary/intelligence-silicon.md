@@ -16,7 +16,7 @@ The full spectrum of human-made computational infrastructure: telecommunications
 
 ## Related terms
 
-- [[glossary/intelligence-carbon|Intelligence, Carbon]]
+- [[intelligence-carbon|Intelligence, Carbon]]
 
 ## Provenance
 

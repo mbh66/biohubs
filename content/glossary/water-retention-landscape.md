@@ -16,7 +16,7 @@ The operational science of catchment restoration, in which intact soil biology, 
 
 ## Related terms
 
-- [[glossary/ecological-science|Ecological science]]
+- [[ecological-science|Ecological science]]
 
 ## Sources and associated figures
 

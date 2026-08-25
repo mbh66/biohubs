@@ -16,7 +16,7 @@ A single compressed indicator that makes a coordination form's activity readable
 
 ## Related terms
 
-- [[glossary/time-framework|TIME Framework]]
+- [[time-framework|TIME Framework]]
 
 ## Provenance
 

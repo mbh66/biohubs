@@ -16,8 +16,8 @@ Benjamin Life's diagnosis of two structural drivers of extraction in the dominan
 
 ## Related terms
 
-- [[glossary/bioregional-economics|Bioregional Economics]]
-- [[glossary/extractive|Extractive]]
+- [[bioregional-economics|Bioregional Economics]]
+- [[extractive|Extractive]]
 
 ## Sources and associated figures
 

@@ -16,11 +16,11 @@ A structure in which participants make binding forward promises to one another, 
 
 ## Related terms
 
-- [[glossary/promise-theory|Promise Theory]]
-- [[glossary/curation-valuation-limitation-exchange|Curation, valuation, limitation, exchange]]
-- [[glossary/mweria|Mweria]]
-- [[glossary/e-form-emergent|E form (Emergent)]]
-- [[glossary/needed|Needed]]
+- [[promise-theory|Promise Theory]]
+- [[curation-valuation-limitation-exchange|Curation, valuation, limitation, exchange]]
+- [[mweria|Mweria]]
+- [[e-form-emergent|E form (Emergent)]]
+- [[needed|Needed]]
 
 ## Sources and associated figures
 

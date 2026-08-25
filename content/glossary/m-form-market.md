@@ -16,11 +16,11 @@ Coordination through price signals, exchange, and competition between self-inter
 
 ## Related terms
 
-- [[glossary/time-framework|TIME Framework]]
-- [[glossary/performance-based-bond|Performance-based bond]]
-- [[glossary/mycelial-patronage|Mycelial Patronage]]
-- [[glossary/payment-for-ecosystem-services-pes|Payment for ecosystem services (PES)]]
-- [[glossary/coordination-node|Coordination Node]]
+- [[time-framework|TIME Framework]]
+- [[performance-based-bond|Performance-based bond]]
+- [[mycelial-patronage|Mycelial Patronage]]
+- [[payment-for-ecosystem-services-pes|Payment for ecosystem services (PES)]]
+- [[coordination-node|Coordination Node]]
 
 ## Sources and associated figures
 

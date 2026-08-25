@@ -16,7 +16,7 @@ A designation identifying areas that supply a disproportionate share of a countr
 
 ## Related terms
 
-- [[glossary/ecological-science|Ecological science]]
+- [[ecological-science|Ecological science]]
 
 ## Provenance
 

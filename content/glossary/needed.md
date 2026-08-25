@@ -16,9 +16,9 @@ The posture a BioHub is designed to achieve: tendering a verified ecological ser
 
 ## Related terms
 
-- [[glossary/needed-vs-needy|Needed vs. Needy]]
-- [[glossary/needy|Needy]]
-- [[glossary/commitment-pool|Commitment pool]]
+- [[needed-vs-needy|Needed vs. Needy]]
+- [[needy|Needy]]
+- [[commitment-pool|Commitment pool]]
 
 ## Provenance
 

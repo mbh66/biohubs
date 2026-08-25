@@ -16,9 +16,9 @@ Economic activity organized around maintaining and restoring the substrate on wh
 
 ## Related terms
 
-- [[glossary/prosocial|Prosocial]]
-- [[glossary/throughput-economics|Throughput Economics]]
-- [[glossary/regenerative|Regenerative]]
+- [[prosocial|Prosocial]]
+- [[throughput-economics|Throughput Economics]]
+- [[regenerative|Regenerative]]
 
 ## Provenance
 

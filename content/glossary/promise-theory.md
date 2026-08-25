@@ -16,7 +16,7 @@ A formal framework (Burgess and Bergstra) modeling cooperation as a system built
 
 ## Related terms
 
-- [[glossary/commitment-pool|Commitment pool]]
+- [[commitment-pool|Commitment pool]]
 
 ## Sources and associated figures
 

@@ -16,11 +16,11 @@ A BioRegion is a geographical area defined by ecological systems rather than pol
 
 ## Related terms
 
-- [[glossary/biohub|BioHub]]
-- [[glossary/bioregional-economics|Bioregional Economics]]
-- [[glossary/biohub-field-sense|BioHub (field sense)]]
-- [[glossary/bioconomy|BioConomy]]
-- [[glossary/biostack|BioStack]]
+- [[biohub|BioHub]]
+- [[bioregional-economics|Bioregional Economics]]
+- [[biohub-field-sense|BioHub (field sense)]]
+- [[bioconomy|BioConomy]]
+- [[biostack|BioStack]]
 
 ## Provenance
 

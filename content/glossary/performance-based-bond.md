@@ -16,7 +16,7 @@ A debt instrument in which a portion of investor returns is contingent on indepe
 
 ## Related terms
 
-- [[glossary/m-form-market|M form (Market)]]
+- [[m-form-market|M form (Market)]]
 
 ## Provenance
 

@@ -16,7 +16,7 @@ Walter Jehne's framework linking soil biology to water retention and hydrologica
 
 ## Related terms
 
-- [[glossary/ecological-science|Ecological science]]
+- [[ecological-science|Ecological science]]
 
 ## Sources and associated figures
 

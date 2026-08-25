@@ -16,7 +16,7 @@ John Fullerton's framework (2015) arguing that the universal patterns and princi
 
 ## Related terms
 
-- [[glossary/regenerative|Regenerative]]
+- [[regenerative|Regenerative]]
 
 ## Sources and associated figures
 
