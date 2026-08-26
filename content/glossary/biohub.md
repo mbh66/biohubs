@@ -12,7 +12,7 @@ epistemic_status: "documented-framework"
 ---
 
 
-A BioHub is a bioregional coordination body that convenes the people, institutions, and economic actors whose activity shapes a BioEconomy in a BioRegion.
+A BioHub is a bioregional coordination body that convenes the people, institutions, and economic actors whose activity shapes a BioConomy in a BioRegion.
 
 ## Related terms
 
@@ -22,6 +22,8 @@ A BioHub is a bioregional coordination body that convenes the people, institutio
 - [[bioregional-learning-centre|Bioregional Learning Centre]]
 - [[bioconomy|BioConomy]]
 - [[biostack|BioStack]]
+- [[templates/index|The Templates: Joining the BioConomy]]
+- [[templates/biohub-identity-template|BioHub Identity Template]]
 
 ## Sources and associated figures
 

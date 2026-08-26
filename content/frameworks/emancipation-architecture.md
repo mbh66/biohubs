@@ -92,6 +92,7 @@ The Valley of Grace prototype at Genadendal (in South Africa's Western Cape, a b
 - [[regenerative-participation-income-rpi|Regenerative Participation Income (glossary)]]
 - [[demurrage|Demurrage (glossary)]]
 
+- [[templates/index|The Templates]] (the practical instruments through which the Emancipation Architecture is instantiated in a specific place)
 ## Sources
 
 - Haupt, M. (2026). *III Emancipation Architecture* (Movement III of the three-movement Emancipation Architecture, March 2026).

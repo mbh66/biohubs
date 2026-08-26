@@ -57,6 +57,10 @@ Four bodies of work carry the economic architecture a functioning BioHub draws o
 
 Two forms of intelligence are converging in bioregional work, and the relationship between them determines whether the work succeeds. The [[concepts/carbon-silicon-partnership|Carbon-Silicon Partnership]] page treats [[intelligence-silicon|Silicon Intelligence]] (computational infrastructure) and [[intelligence-carbon|Carbon Intelligence]] (lived, situated, relational knowledge) as differently shaped, differently paced, and irreducibly complementary. Neither can replace the other. The BioHub is the institution where they operate together.
 
+## Running this in your bioregion
+
+This wiki is a guide for establishing your own. The four-template [[templates/index|founding suite]] is where that guide sits. Start with [[essays/how-to-engage-your-bioregion|How to Engage Your Bioregion]] for the bridge from the orientation above to the templates themselves.
+
 ## Related pages
 
 - [[frameworks/time-framework|The TIME Framework]]

@@ -70,6 +70,11 @@ This connection matters because it determines who captures the value. Standard [
 - [[curation-valuation-limitation-exchange|Curation, valuation, limitation, exchange (glossary)]]
 - [[people/will-ruddick|Will Ruddick]]
 
+- [[templates/index|The Templates]]
+- [[templates/value-proposition-template|BioConomy Value Proposition Template]]
+- [[glossary/founding-compact|Founding Compact]]
+- [[glossary/tender-compact|Tender Compact]]
+- [[glossary/alignment-compact|Alignment Compact]]
 ## Sources
 
 - [[sources/burgess-thinking-in-promises|Burgess, M. (2015). *Thinking in Promises*]]

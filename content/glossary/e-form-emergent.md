@@ -14,6 +14,10 @@ epistemic_status: "documented-framework"
 
 Coordination through pooled commitments toward outcomes no single actor can produce alone, organized at the scale of the watershed or bioregion.
 
+## Compacts as +E instruments
+
+The three co-signed Compacts produced by the founding-suite templates ([[founding-compact|Founding Compact]], [[tender-compact|Tender Compact]], and [[alignment-compact|Alignment Compact]]) are +E coordination instruments. Their authority is voluntary, commitment-based, transparent, and revisable by the cohort through the decision-making forms established at the founding. They do not derive authority from any state, market, or prior institution. Where a Compact coexists with a legal entity form or a market contract, the Compact remains the governing document of the coordination work; the entity or contract serves the Compact.
+
 ## Related terms
 
 - [[time-framework|TIME Framework]]
@@ -25,6 +29,9 @@ Coordination through pooled commitments toward outcomes no single actor can prod
 - [[archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]]
 - [[bioscore|BioScore]]
 - [[missing-middle|Missing middle]]
+- [[founding-compact|Founding Compact]]
+- [[tender-compact|Tender Compact]]
+- [[alignment-compact|Alignment Compact]]
 
 ## Provenance
 

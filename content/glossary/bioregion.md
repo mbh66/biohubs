@@ -21,6 +21,8 @@ A BioRegion is a geographical area defined by ecological systems rather than pol
 - [[biohub-field-sense|BioHub (field sense)]]
 - [[bioconomy|BioConomy]]
 - [[biostack|BioStack]]
+- [[templates/index|The Templates]]
+- [[templates/bioregion-establishment-template|BioRegion Establishment Template]]
 
 ## Provenance
 

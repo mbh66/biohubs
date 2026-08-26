@@ -14,6 +14,10 @@ epistemic_status: "documented-framework"
 
 A structure in which participants make binding forward promises to one another, and those promises become the basis for coordination and exchange.
 
+## Usage in the templates
+
+The commitment pool operates at two scales in the founding-suite templates. At the cohort scale, the [[founding-compact|Founding Compact]] pools the cohort's founding commitments to each other. At the tender scale, the [[tender-compact|Tender Compact]] pools the cohort's commitments to counterparties and participants. Where a BioHub aligns to a specific financial instrument, the [[alignment-compact|Alignment Compact]] pools the cohort's build-out commitments toward instrument readiness. All three are [[e-form-emergent|+E coordination instruments]] and are co-signed.
+
 ## Related terms
 
 - [[promise-theory|Promise Theory]]
@@ -21,6 +25,9 @@ A structure in which participants make binding forward promises to one another, 
 - [[mweria|Mweria]]
 - [[e-form-emergent|E form (Emergent)]]
 - [[needed|Needed]]
+- [[founding-compact|Founding Compact]]
+- [[tender-compact|Tender Compact]]
+- [[alignment-compact|Alignment Compact]]
 
 ## Sources and associated figures
 

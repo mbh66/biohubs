@@ -61,6 +61,8 @@ The distinction matters at the design stage. Regeneration is the direction of tr
 - [[deceleration-indicators|Deceleration Indicators]]
 - [[federated-cooperative-supply-chains|Federated Cooperative Supply Chains]]
 - [[commitment-pooling|Commitment Pooling]]
+- [[templates/value-proposition-template|BioConomy Value Proposition Template]]
+- [[templates/bankable-service-alignment-template|Bankable Service Alignment Template]]
 
 ## Sources
 
