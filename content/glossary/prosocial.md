@@ -17,7 +17,7 @@ A catch-all label for the broad field of activity oriented toward collective wel
 ## Related terms
 
 - [[bioregional-economics|Bioregional Economics]]
-- [[regeneration-economics|Regeneration Economics]]
+- [[regenerative-economics|Regeneration Economics]]
 
 ## Provenance
 

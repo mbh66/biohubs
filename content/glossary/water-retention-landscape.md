@@ -20,7 +20,7 @@ The operational science of catchment restoration, in which intact soil biology, 
 
 ## Sources and associated figures
 
-- [[people/michal-kravčík|Michal Kravčík]]
+- [[people/michal-kravcik|Michal Kravčík]]
 - [[people/walter-jehne|Walter Jehne]]
 - [[people/sepp-holzer|Sepp Holzer]]
 - [[people/zach-weiss|Zach Weiss]]

@@ -19,6 +19,13 @@ The economic system that emerges when bioregions coordinate their productive act
 - [[bioregion|BioRegion]]
 - [[biohub|BioHub]]
 - [[biostack|BioStack]]
+- [[regenerative-economics|Regenerative Economics]]
+- [[retention-economics|Retention Economics]]
+
+## Related pages
+
+- [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]], the long arc and why the moment is ripe.
+- [[frameworks/three-lineages|Throughput, Retention, Regenerative: The Three Lineages]]
 
 ## Provenance
 

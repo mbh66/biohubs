@@ -18,7 +18,7 @@ Producing value while restoring the substrate the production depends on.
 
 - [[regenerative-capitalism|Regenerative Capitalism]]
 - [[extractive|Extractive]]
-- [[regeneration-economics|Regeneration Economics]]
+- [[regenerative-economics|Regeneration Economics]]
 
 ## Provenance
 

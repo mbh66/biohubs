@@ -6,7 +6,7 @@ tags:
 term_type: borrowed-technical
 first_defined_in: ""
 related_terms:
-  - regeneration-economics
+  - regenerative-economics
   - extractive
   - throughput-economics
 source_project: BioConomy
@@ -25,7 +25,7 @@ _Throughput Economics_ is a specific application of this general measure: an eco
 ## Related terms
 
 - [[throughput-economics|Throughput Economics]]
-- [[regeneration-economics|Regeneration Economics]]
+- [[regenerative-economics|Regenerative Economics]]
 - [[extractive|Extractive]]
 
 ## Provenance

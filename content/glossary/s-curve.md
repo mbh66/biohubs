@@ -31,6 +31,14 @@ Applied to human civilization, the Logistic Growth Principle frames the industri
 
 - [[economy]]
 - [[bioconomy]]
+- [[deceleration-phase|Deceleration Phase]]
+- [[structural-prematurity|Structural Prematurity]]
+
+## Related pages
+
+- [[concepts/deceleration-indicators|Deceleration Indicators]], the empirical evidence for the current phase.
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]], how retention figures map onto the curve.
+- [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
 
 ## Provenance
 
