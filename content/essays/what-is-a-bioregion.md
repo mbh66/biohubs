@@ -3,19 +3,19 @@ title: "What Is a BioRegion"
 aliases: ["what is a bioregion", "bioregion orientation"]
 tags: ["essay", "orientation", "bioregion", "bioconomy"]
 created: 2026-08-26
-updated: 2026-08-26
+updated: 2026-08-27
 source_project: "BioConomy"
 source_documents: ["BioRegion_Establishment_Template.md", "bioregion.md", "bioregional-economics.md"]
 epistemic_status: "documented-framework"
 ---
 
-A [[bioregion|BioRegion]] is a geographical area with a common ecosystem, typically characterized by a watershed system, at a scale where actors are bound by shared geography, climate, water, soil, species, communities, and cultural history. It is the unit of economic organization the [[bioconomy|BioConomy]] framework is built around.
+A [[bioregion|bioregion]] is a geographical area with a common ecosystem, typically characterized by a watershed system, at a scale where actors are bound by shared geography, climate, water, soil, species, communities, and cultural history. A [[bioregion|BioRegion]] is a bioregion whose people have organized their coordination around the [[bioconomy|BioConomy]] framework. The BioRegion is the unit of economic organization the BioConomy is built around. This essay describes both, and [[essays/from-bioregion-to-bioregion|From a Bioregion to a BioRegion]] describes the transition between them.
 
 ## Overview
 
 Political boundaries were drawn by treaties, wars, and administrative convenience. They do not track the ecological systems inside them. A city's water may fall on catchments in another province. A watershed's forests may span three municipal boundaries and two national parks. A cultural territory may cover part of a river system without the state's map recognizing it.
 
-The BioRegion is what an economy looks like when its boundary follows the ecosystem rather than the state. A specific watershed. A specific biome. A specific set of communities whose lives are tied to the same soil, the same rainfall pattern, the same species mix. Coordination inside that boundary can hold the ecosystem's function; coordination that ignores the boundary cannot.
+The bioregion is what remains when the political overlay is set aside: a specific watershed, a specific biome, a specific set of communities whose lives are tied to the same soil, the same rainfall pattern, the same species mix. Coordination inside that boundary can hold the ecosystem's function. Coordination that ignores it cannot.
 
 Every [[biohub|BioHub]] is anchored in a BioRegion. That is what makes it a bioregional coordination body rather than a national NGO or a global network. The BioHub coordinates people, institutions, and economic actors whose activity shapes one specific living landscape.
 
@@ -83,6 +83,7 @@ The bioregion is where the ecology and the finance meet. It is the scale at whic
 - [[bioregion|BioRegion (glossary)]]
 - [[essays/what-is-a-biohub|What Is a BioHub]]
 - [[essays/what-is-a-bioconomy|What Is a BioConomy]]
+- [[essays/from-bioregion-to-bioregion|From a Bioregion to a BioRegion]]
 - [[essays/how-to-engage-your-bioregion|How to Engage Your Bioregion]]
 - [[biohub|BioHub]]
 - [[biostack|BioStack]]
@@ -104,3 +105,5 @@ The bioregion is where the ecology and the finance meet. It is the scale at whic
 ## Provenance
 
 Written as the second of three orientation essays commissioned by the wiki's engagement pathway. Draws on `glossary/bioregion.md` (one-line stub extended into essay-length treatment), the *BioRegion Establishment Template* v0.2 in the VoG as Patron Project Prototype knowledge base (for the definition of the bioregion as a coordination object and the size classifications), `concepts/bioregional-economics.md` and `concepts/water-retention-landscapes.md` for the ecological and economic substance, and `concepts/retention-logic.md` for the retention framing at the end.
+
+Updated 27 August 2026 to introduce the bioregion (lowercase, the underlying ecological-cultural unit) and BioRegion (capitalized, the formally coordinated form) case-sensitive convention in the opening definition, to tighten the third paragraph so it does the ecological-coherence work the opening no longer needs to repeat, and to link the sibling essay [[essays/from-bioregion-to-bioregion|From a Bioregion to a BioRegion]].

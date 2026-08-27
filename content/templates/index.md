@@ -1,5 +1,5 @@
 ---
-title: The BioHub Templates
+title: Templates
 aliases:
   - template suite
   - founding suite

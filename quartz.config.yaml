@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: BioConomy
+  pageTitleSuffix: " - a human- and machine-readable wiki"
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -10,7 +10,6 @@ configuration:
   baseUrl: wiki.bioconomy.earth
   ignorePatterns:
     - private
-    - templates
     - .obsidian
   theme:
     fontOrigin: googleFonts

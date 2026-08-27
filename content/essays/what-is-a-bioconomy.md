@@ -3,7 +3,7 @@ title: "What Is a BioConomy"
 aliases: ["what is a bioconomy", "bioconomy orientation", "bioconomy vs economy"]
 tags: ["essay", "orientation", "bioconomy", "core-framework"]
 created: 2026-08-26
-updated: 2026-08-26
+updated: 2026-08-27
 source_project: "BioConomy"
 source_documents: ["bioconomy.md", "bioconomy-developmental-arc.md", "retention-logic.md", "bioregional-economics.md", "s-curve-thesis.md"]
 epistemic_status: "documented-framework"
@@ -55,13 +55,13 @@ The BioConomy extends the retention tradition along four dimensions the historic
 
 **Commons governance.** Coordination happens through governance forms that are neither the market nor the state. [[people/elinor-ostrom|Elinor Ostrom]]'s empirical work on the commons showed that communities can govern shared resources sustainably at scales the market and the state cannot reach. The BioConomy treats commons governance as a first-class coordination form.
 
-**Bioregional rather than national scale.** The unit of coordination is the [[bioregion|bioregion]], not the nation state. Watersheds, biomes, and cultural territories do not follow political borders, and coordinating at the wrong scale produces coordination that cannot hold what it claims to hold. See [[essays/what-is-a-bioregion|What Is a BioRegion]].
+**Bioregional rather than national scale.** The unit of coordination is the [[bioregion|BioRegion]], not the nation state. Watersheds, biomes, and cultural territories do not follow political borders, and coordinating at the wrong scale produces coordination that cannot hold what it claims to hold. See [[essays/what-is-a-bioregion|What Is a BioRegion]] and [[essays/from-bioregion-to-bioregion|From a Bioregion to a BioRegion]].
 
 **Cooperative rather than competitive coordination.** Productive enterprise is organized as [[federated-cooperative|federated cooperatives]], with cooperatives cooperating through shared infrastructure they jointly capitalize. The precedent is Mondragón. The pattern extends to food, housing, health, energy, childcare, fabrication, education, and media.
 
 ## From needy to needed
 
-The regenerative movement, taken as a whole, has operated from a dependency posture. Constantly underfunded, seeking grants, writing applications, trying to find creative ways to keep going. A bioregion that asks funders for money to do restoration work is [[needy|needy]]. A bioregion that offers a verified ecological service to a market that has already signaled it will pay is [[needed|needed]]. The difference between the two is the difference between a movement and a functioning economy.
+The regenerative movement, taken as a whole, has operated from a dependency posture. Constantly underfunded, seeking grants, writing applications, trying to find creative ways to keep going. A bioregion that asks funders for money to do restoration work is [[needy|needy]]. A BioRegion that offers a verified ecological service to a market that has already signaled it will pay is [[needed|needed]]. The difference between the two is the difference between a movement and a functioning economy.
 
 The signal is now on the table. In April 2026, FirstRand Bank listed the Cape Water [[performance-based-bond|Performance-Based Bond]] (JSE ticker FR31PB) at ZAR 2.5 billion, arranged by Rand Merchant Bank. A portion of investor returns is tied to independently verified ecological restoration in the mountain catchments that feed Cape Town's water supply. If bioregionally set targets are met, outcomes funders pay. If targets are not met, they do not. The bond is designed as the first in a replicable series covering South Africa's [[strategic-water-source-area-swsa|Strategic Water Source Areas]]. The architects built it to be copied.
 
@@ -94,6 +94,7 @@ Each of these is a partial instantiation. None yet holds the full BioStack (BioH
 - [[bioconomy|BioConomy (glossary)]]
 - [[essays/what-is-a-biohub|What Is a BioHub]]
 - [[essays/what-is-a-bioregion|What Is a BioRegion]]
+- [[essays/from-bioregion-to-bioregion|From a Bioregion to a BioRegion]]
 - [[essays/how-to-engage-your-bioregion|How to Engage Your Bioregion]]
 - [[biohub|BioHub]]
 - [[bioregion|BioRegion]]
@@ -125,3 +126,5 @@ Each of these is a partial instantiation. None yet holds the full BioStack (BioH
 ## Provenance
 
 Written as the third of three orientation essays commissioned by the wiki's engagement pathway. Absorbs the "Why?" and "Why Now?" material from `content/index.md` (which the home-page rewrite removes) and extends it with the BioConomy-Economy contrast, the retention-tradition inheritance, and the four dimensions the BioConomy adds to the historical tradition. Draws on `concepts/bioregional-economics.md` for the Two Machines diagnosis and the needy-to-needed argument, `concepts/bioconomy-developmental-arc.md` for the historical arc and the four extensions, and `concepts/retention-logic.md` for the retention framing.
+
+Updated 27 August 2026 to align the four-dimensions section and the needy-to-needed passage with the bioregion / BioRegion case-sensitive convention (the unit of coordination and the needed-by-society form are both the BioRegion), and to link the sibling essay [[essays/from-bioregion-to-bioregion|From a Bioregion to a BioRegion]].

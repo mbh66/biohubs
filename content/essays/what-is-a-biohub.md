@@ -3,7 +3,7 @@ title: "What Is a BioHub"
 aliases: ["getting started in a biohub", "getting started"]
 tags: ["essay", "orientation", "biohub", "bioconomy"]
 created: 2026-09-01
-updated: 2026-08-25
+updated: 2026-08-27
 source_project: "BioConomy"
 source_documents: ["Getting_Started_in_a_BioHub_Notion_Export"]
 epistemic_status: "documented-framework"
@@ -17,7 +17,7 @@ The BioHub makes visible a form of [[human-coordination|human coordination]] tha
 
 Most bioregions already include groups of people doing [[regenerative|regenerative]] work, as distinctly different from [[extractive|extractive]] work. What is usually missing is the coordination layer that connects these activities into a single, fundable offer. A BioHub provides that layer. It redefines the work already being done in a bioregion, by organizing distributed contributions into verifiable commitments to the cities, corporations, and investors that need what the bioregion produces: functioning watersheds, biological complexity, carbon sequestration, and the data to prove it.
 
-The shift is structural. A bioregion that asks for funding is [[needy|needy]]. A bioregion that makes commitments to those who need its services is [[needed|needed]] by society. That is the distinction between a BioHub, the [[bioregion|BioRegion]] itself, and a [[bioregional-learning-centre|Bioregional Learning Centre]].
+The shift is structural. A bioregion that asks for funding is [[needy|needy]]. A BioRegion that makes commitments to those who need its services is [[needed|needed]] by society. That is the distinction between a BioHub, the [[bioregion|BioRegion]] itself, and a [[bioregional-learning-centre|Bioregional Learning Centre]]. See [[essays/from-bioregion-to-bioregion|From a Bioregion to a BioRegion]] for the transition from the first state to the second.
 
 ## An emergent global field
 
@@ -63,6 +63,7 @@ This wiki is a guide for establishing your own. The four-template [[templates/in
 
 ## Related pages
 
+- [[essays/from-bioregion-to-bioregion|From a Bioregion to a BioRegion]]
 - [[frameworks/time-framework|The TIME Framework]]
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
 - [[concepts/commitment-pooling|Commitment Pooling]]
@@ -80,3 +81,5 @@ This wiki is a guide for establishing your own. The four-template [[templates/in
 ## Provenance
 
 Extracted from *Getting Started in a BioHub* (Notion export, September 2026). The personal note and Overberg-specific framing in the source have been trimmed for the international-audience wiki, per extraction instructions. Section headings preserve the source's organization; internal Notion links have been resolved to wikilinks against the current wiki structure or noted for future resolution.
+
+Updated 27 August 2026 to align the needed-by-society sentence with the bioregion / BioRegion case-sensitive convention (the commitment-making state is the BioRegion, not the bare bioregion) and to link the sibling essay [[essays/from-bioregion-to-bioregion|From a Bioregion to a BioRegion]].
