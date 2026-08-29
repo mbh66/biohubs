@@ -13,15 +13,15 @@ The [[index|founding suite]] is not one-shot. More than one [[biohub|BioHub]] ca
 
 ## Multi-BioHub coordination within a BioRegion
 
-The templates treat multi-BioHub coordination as the default case, not the exception. Ronfeldt's [[timn|TIMN]] framework holds that no coordination form suits every task; a BioRegion with several coordination bodies working different aspects of the same landscape is normal, not anomalous.
+The templates treat multi-BioHub coordination as the default case, not the exception. Ronfeldt's [[content/frameworks/timn|TIMN]] framework holds that no coordination form suits every task; a BioRegion with several coordination bodies working different aspects of the same landscape is normal, not anomalous.
 
 Multi-BioHub context appears in three places across the suite:
 
-**The Founding Compact.** Section 6 establishes working multi-BioHub coordination protocols for the founding BioHub. These protocols cover mutual recognition, shared governance where relevant, and dispute handling. They anticipate a BioRegion within which other BioHubs may operate, even where no adjacent BioHubs are currently identified.
+**The [[glossary/founding-compact|Founding Compact]].** Section 6 establishes working multi-BioHub coordination protocols for the founding BioHub. These protocols cover mutual recognition, shared governance where relevant, and dispute handling. They anticipate a BioRegion within which other BioHubs may operate, even where no adjacent BioHubs are currently identified.
 
 **The BioRegion Charter.** Section 5 refines the working protocols established in the Founding Compact once the BioRegion has been established and any other BioHubs operating within it have been identified. The Charter's protocols cover how shared governance is exercised, how disputes and overlaps are handled, and how co-signature by participating bodies is provided for.
 
-**The Tender Compact.** Section 6 refines the Charter's protocols for tender-level coordination. Where more than one BioHub tenders services in the same BioRegion, the Tender Compact specifies which services are tendered jointly, which independently, and which through peer recognition arrangements.
+**The [[glossary/tender-compact|Tender Compact]].** Section 6 refines the Charter's protocols for tender-level coordination. Where more than one BioHub tenders services in the same BioRegion, the Tender Compact specifies which services are tendered jointly, which independently, and which through peer recognition arrangements.
 
 Across the three layers, the more specific layer refines rather than contradicts the more general one. A BioHub joining an established BioRegion inherits the Charter's protocols and may then negotiate specific Tender Compact provisions.
 
@@ -37,11 +37,11 @@ Where two instruments have conflicting requirements (a different verification me
 
 ## Running the same template against a series
 
-Some financial instruments are designed as a series (multiple tranches covering different geographies or ecosystems). The Cape Water Performance-Based Bond, for instance, is described by its arrangers as the first in a replicable series covering South Africa's [[strategic-water-source-area-swsa|Strategic Water Source Areas]].
+Some financial instruments are designed as a series (multiple tranches covering different geographies or ecosystems). The Cape Water [[glossary/performance-based-bond|Performance-Based Bond]], for instance, is described by its arrangers as the first in a replicable series covering South Africa's [[strategic-water-source-area-swsa|Strategic Water Source Areas]].
 
-Where the target instrument is part of a series, the alignment template runs against the specific tranche the BioHub is targeting. Where no tranche exists for the BioHub's geography, the alignment template assesses whether the instrument's design accommodates expansion to the BioHub's context, and the Alignment Compact commits the BioHub to the readiness build-out that a subsequent tranche would require.
+Where the target instrument is part of a series, the alignment template runs against the specific tranche the BioHub is targeting. Where no tranche exists for the BioHub's geography, the alignment template assesses whether the instrument's design accommodates expansion to the BioHub's context, and the [[glossary/alignment-compact|Alignment Compact]] commits the BioHub to the readiness build-out that a subsequent tranche would require.
 
-Each tranche can be a separate alignment run, producing its own Alignment Statement, Evidence Pack, and Compact. Where the tranches share a verification methodology and implementation agent structure, the runs cross-reference rather than duplicate.
+Each tranche can be a separate alignment run, producing its own [[glossary/alignment-statement|Alignment Statement]], Evidence Pack, and Compact. Where the tranches share a verification methodology and implementation agent structure, the runs cross-reference rather than duplicate.
 
 ## Multi-BioHub, multi-instrument coordination
 
@@ -76,7 +76,7 @@ This is a working area. Global precedent is thin. Where the overlap is substanti
 - [[bankable-service-alignment-template|Bankable Service Alignment Template]]
 - [[polycentricity|Polycentricity]]
 - [[subsidiarity|Subsidiarity]]
-- [[timn|TIMN Framework]]
+- [[content/frameworks/timn|TIMN Framework]]
 
 ## Provenance
 

@@ -12,9 +12,9 @@ updated: 2026-08-25
 source_project: "BioConomy"
 ---
 
-Life, B. (2026). *An Introduction to Bioregional Economics (Part I): Design Principles of a Bioregional Economy.* 3 August 2026.
+Life, B. (2026). *An Introduction to Bioregional Economics (Part I): Design Principles of a Bioregional [[glossary/economy|Economy]].* 3 August 2026.
 
-The fullest current specification of bioregional economics as a discipline. Life defines the field as the study and practice of designing regenerative, cooperatively owned, place-based economies within the carrying capacity of their landscapes. The essay lays out the Two Machines diagnosis (debt-based money and the shareholder corporation as structural drivers of extraction), four pillars (multi-capital circulation, cooperative ownership, mutuality, holistic wellbeing) and two commitments (subsidiarity and consent) as design principles, and closes with the missing-middle question that Part II is understood to address.
+The fullest current specification of bioregional economics as a discipline. Life defines the field as the study and practice of designing [[glossary/regenerative|regenerative]], cooperatively owned, place-based economies within the carrying capacity of their landscapes. The essay lays out the Two Machines diagnosis (debt-based money and the shareholder corporation as structural drivers of extraction), four pillars (multi-capital circulation, cooperative ownership, mutuality, holistic wellbeing) and two commitments ([[glossary/subsidiarity|subsidiarity]] and consent) as design principles, and closes with the missing-middle question that Part II is understood to address.
 
 ## Cited by
 
@@ -23,4 +23,4 @@ The fullest current specification of bioregional economics as a discipline. Life
 - [[essays/what-is-a-biohub|What Is a BioHub]]
 - [[glossary/two-machines|Two Machines (glossary)]]
 - [[glossary/bioregional-economics|Bioregional Economics (glossary)]]
-- [[people/benjamin-life|Benjamin Life]]
+- [[benjamin-life|Benjamin Life]]

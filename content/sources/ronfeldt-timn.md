@@ -1,24 +1,24 @@
 ---
-title: "Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution"
+title: "Tribes, Institutions, Markets, Networks"
 author: "David Ronfeldt"
 year: 1996
-type: "paper"
-publisher: "RAND Corporation, P-7967"
-url: "https://www.rand.org/content/dam/rand/pubs/papers/2005/P7967.pdf"
+type: "monograph"
+publisher: "RAND Corporation"
+url: "https://www.rand.org/pubs/papers/P7967.html"
 doi: ""
-tags: ["source", "timn", "coordination", "societal-evolution"]
-created: 2026-08-25
-updated: 2026-08-25
-source_project: "BioConomy"
+tags: ["source", "coordination", "civilizational-form", "networks", "political-science"]
 ---
 
-Ronfeldt, D. (1996). *Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution.* RAND P-7967. Santa Monica, CA: RAND Corporation.
+Ronfeldt, D. (1996). *Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution.* RAND Corporation, P-7967.
 
-Ronfeldt's founding statement of the TIMN framework. The paper argues that four forms of coordination have shaped societal evolution: Tribes (kinship-based), Institutions (hierarchical), Markets (competitive exchange), and Networks (collaborative interconnection). Each form gained strength at a different rate, matured in a different historical epoch, and rests on its predecessors. The paper is the direct antecedent of the wiki's TIME framework, which retains the first three forms and renames the fourth from Networks to Emergent.
+Proposes that human societies evolve through four successive forms of organization: Tribes (kinship-based), Institutions (hierarchical authority), Markets (competitive exchange), and Networks (distributed coordination). Each form does not replace the previous one but layers on top of it; a mature society integrates all four. Societies that fail to develop the next form, or that allow one form to dominate the others, become dysfunctional.
 
-## Cited by
+The BioConomy corpus uses TIMN as one of several convergent frameworks mapping the [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]]. Ronfeldt's Networks correspond to what the corpus calls [[glossary/mycelial-consciousness|Mycelial Consciousness]] applied to coordination: the capacity to organize without centralized control. His observation that each new form requires but does not replace the previous forms parallels the corpus's claim that Mycelial coordination does not abolish markets, institutions, or tribal bonds but integrates them within a more complex substrate.
 
-- [[frameworks/timn|The TIMN Framework]]
-- [[frameworks/time-framework|The TIME Framework]]
-- [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
-- [[people/david-ronfeldt|David Ronfeldt]]
+Ronfeldt's TIMN framework also informs the corpus's analysis of [[concepts/three-futures|Three Futures]]: Technofeudalism represents Markets colonizing the Network form (platform monopolies mimicking distributed coordination while centralizing control), while Transcendence represents genuine Network emergence that rebalances all four forms.
+
+## Citing Pages
+
+- [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]]
+- [[concepts/three-futures|Three Futures]]
+- [[concepts/consciousness-and-value-creation|Consciousness and Value Creation]]

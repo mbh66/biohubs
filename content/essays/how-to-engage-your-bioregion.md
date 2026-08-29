@@ -21,13 +21,13 @@ The coordination layer is what the four templates in [[templates/index|the templ
 
 Each template answers one of four questions. In order:
 
-**Who are we?** The [[templates/biohub-identity-template|BioHub Identity Template]] establishes the BioHub itself. Its three outputs (Identity Statement, Field and Lineage Positioning, Founding Compact) state who has convened, on what grounds, under what governance, with what patronage architecture, and where the BioHub sits in the emerging global field.
+**Who are we?** The [[templates/biohub-identity-template|BioHub Identity Template]] establishes the BioHub itself. Its three outputs ([[glossary/identity-statement|Identity Statement]], Field and Lineage Positioning, [[glossary/founding-compact|Founding Compact]]) state who has convened, on what grounds, under what governance, with what patronage architecture, and where the BioHub sits in the emerging global field.
 
 **What is our BioRegion?** The [[templates/bioregion-establishment-template|BioRegion Establishment Template]] establishes the geography within which the BioHub coordinates. Its three outputs (BioRegion Definition, BioRegion Atlas, BioRegion Charter) state the boundaries, the ecological and cultural profiles, the coordination bodies already active, and the principles under which coordination happens.
 
-**What do we tender?** The [[templates/value-proposition-template|BioConomy Value Proposition Template]] establishes what the BioHub offers markets. Its three outputs (Value Proposition Statement, Value Proposition Evidence Pack, [[glossary/tender-compact|Tender Compact]]) state the six-service portfolio (water yield, carbon sequestration, biodiversity data, heritage and tourism, food systems, coordination-as-employment) with the [[retention-logic|retention logic]] governing each, the counterparties who purchase each, and the participants whose commitments each depends on.
+**What do we tender?** The [[templates/value-proposition-template|BioConomy Value Proposition Template]] establishes what the BioHub offers markets. Its three outputs (Value Proposition Statement, Value Proposition Evidence Pack, [[glossary/tender-compact|Tender Compact]]) state the [[glossary/tenderable-services-portfolio|six-service portfolio]] (water yield, carbon sequestration, biodiversity data, heritage and tourism, food systems, coordination-as-employment) with the [[retention-logic|retention logic]] governing each, the counterparties who purchase each, and the participants whose commitments each depends on.
 
-**Which instrument does what we tender fit into?** The [[templates/bankable-service-alignment-template|Bankable Service Alignment Template]] maps the BioHub's services onto a specific financial instrument. Its three outputs (Alignment Statement, Alignment Evidence Pack, Alignment Compact) state what aligns, what is alignable with build-out, what is misaligned, and what the cohort commits to build to reach instrument readiness.
+**Which instrument does what we tender fit into?** The [[templates/bankable-service-alignment-template|Bankable Service Alignment Template]] maps the BioHub's services onto a specific financial instrument. Its three outputs ([[glossary/alignment-statement|Alignment Statement]], Alignment Evidence Pack, [[glossary/alignment-compact|Alignment Compact]]) state what aligns, what is alignable with build-out, what is misaligned, and what the cohort commits to build to reach instrument readiness.
 
 The first three templates are the establishment work. The fourth is the alignment work. Run the establishment templates before the alignment template; run each template's three prompts in sequence; do the cohort review between prompts.
 
@@ -53,7 +53,7 @@ The first three templates are the establishment work. The fourth is the alignmen
 
 **Permission.** The BioHub's authority to convene is grounded in the cohort's willingness to commit. It is not granted by an existing institution. Where an existing institution's mandate overlaps with the BioHub's coordination work, the BioRegion Charter's principles for recognizing prior custodial and coordination bodies govern the relationship.
 
-**Complete information.** Every template's evidence pack includes a gap register. Gaps are named, not filled with confabulation. The [[glossary/readiness-diagnostic|readiness diagnostic]] tells the cohort which services are contractable now, which after specified build-out, and which are speculative pending research.
+**Complete information.** Every template's evidence pack includes a [[glossary/gap-register|gap register]]. Gaps are named, not filled with confabulation. The [[glossary/readiness-diagnostic|readiness diagnostic]] tells the cohort which services are contractable now, which after specified build-out, and which are speculative pending research.
 
 ## Where the templates cannot substitute for cohort work
 
@@ -97,4 +97,4 @@ Where a BioHub has run the four templates and produced its own outputs, the outp
 
 ## Provenance
 
-Written as the bridge essay between the orientation piece (*What Is a BioHub*) and the templates folder. Draws on the four template documents in the VoG as Patron Project Prototype knowledge base for the substance of what each template does and requires. The distinction between what is needed and what is not needed before starting is drawn from the templates' own "When to Run This Template" sections. The contribution channel named at the end reflects the current published wiki architecture; the wiki editors may direct contributions elsewhere as the project's governance develops.
+Written as the bridge essay between the orientation piece (*What Is a BioHub*) and the templates folder. Draws on the four template documents in the VoG as Patron Project Prototype knowledge base for the substance of what each template does and requires. The distinction between what is [[glossary/needed|needed]] and what is not needed before starting is drawn from the templates' own "When to Run This Template" sections. The contribution channel named at the end reflects the current published wiki architecture; the wiki editors may direct contributions elsewhere as the project's governance develops.

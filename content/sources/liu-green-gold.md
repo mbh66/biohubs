@@ -19,4 +19,4 @@ Liu's documentary account of the restoration of the Loess Plateau in China, one 
 ## Cited by
 
 - [[concepts/water-retention-landscapes|Water Retention Landscapes]]
-- [[people/john-d-liu|John D. Liu]]
+- [[john-d-liu|John D. Liu]]

@@ -20,7 +20,7 @@ The three co-signed Compacts produced by the founding-suite templates ([[foundin
 
 ## Related terms
 
-- [[time-framework|TIME Framework]]
+- [[time|TIME Framework]]
 - [[commons|Commons]]
 - [[subsidiarity|Subsidiarity]]
 - [[protective-illiquidity|Protective illiquidity]]

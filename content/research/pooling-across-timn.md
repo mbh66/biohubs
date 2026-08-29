@@ -17,7 +17,7 @@ Kinship-based societies pool labor and food through rotating obligation systems 
 
 Each is pooling. Each solves a coordination failure specific to its era. The mechanism, the medium of account, the governance structure, and the relationship to state authority differ in each case, and those differences are structural rather than incidental. They are expressions of the coordination form itself.
 
-The brief focuses on three transition points: the +M form at its most mature (Outspan and Sunkist as agricultural cooperative-marketing cases), the +M/+N boundary (WIR and Sardex as mutual-credit currency cases), and the +N form (Grassroots Economics's three phases from Eco-Pesa through Sarafu to Commitment Pooling). The T-form Mweria tradition sits underneath the +N form as the ancestral substrate it digitizes.
+The brief focuses on three transition points: the +M form at its most mature (Outspan and Sunkist as agricultural cooperative-marketing cases), the +M/+N boundary (WIR and Sardex as mutual-credit currency cases), and the +N form (Grassroots Economics's three phases from Eco-Pesa through Sarafu to Commitment Pooling). The [[glossary/t-form-tribal|T-form]] Mweria tradition sits underneath the +N form as the ancestral substrate it digitizes.
 
 ## +M pooling: cooperative marketing as mature market coordination
 
@@ -51,7 +51,7 @@ The pooling dimensions parallel Outspan closely. The structural difference is th
 
 The WIR (Wirtschaftsring-Genossenschaft) was founded in 1934 by Werner Zimmermann and Paul Enz, inspired by Silvio Gesell's free-money theory, as a mutual-credit system for Swiss small and medium enterprises. The WIR franc (CHW) is pegged 1:1 to the Swiss franc, carries no interest, and is not convertible to cash. Membership has exceeded 50,000 businesses (approximately 17 percent of all Swiss businesses), and turnover reached 1.43 billion Swiss francs in 2013.
 
-Stodder and Lietaer's econometric analysis found WIR turnover is countercyclical: firms use it more in recessions, and the countercyclical multiplier is highly leveraged relative to its turnover share of the Swiss economy.
+Stodder and Lietaer's econometric analysis found WIR turnover is countercyclical: firms use it more in recessions, and the countercyclical multiplier is highly leveraged relative to its turnover share of the Swiss [[glossary/economy|economy]].
 
 **Classification.** WIR sits at the +M/+N boundary. Its medium of account is a complementary currency, its governance is cooperative, and its function (providing liquidity to SMEs when bank credit contracts) addresses a market failure. It operates entirely within the Swiss legal and banking framework and has done so for over ninety years. It is +M pooling with proto-+N characteristics: the mutual-credit mechanism, the interest-free design, and the countercyclical function all point toward coordination logic that serves community resilience over competitive advantage.
 
@@ -119,7 +119,7 @@ Active-user numbers are far smaller in Phase 3 (roughly 3,000-4,500) than at the
 
 Three findings.
 
-**The +N transition is structural, not just technological.** The move from +M to +N is not primarily about switching from national currency to a complementary token. It is about changing the coordination logic itself: from competitive advantage to reciprocity, from state-enabled to state-independent, from convertible to non-convertible, from private ownership to commons stewardship, from ecology-blind to ecology-central.
+**The +N transition is structural, not just technological.** The move from +M to +N is not primarily about switching from national currency to a complementary token. It is about changing the coordination logic itself: from competitive advantage to reciprocity, from state-enabled to state-independent, from convertible to non-convertible, from private ownership to [[glossary/commons|commons]] stewardship, from ecology-blind to ecology-central.
 
 **The +N transition requires a T-form substrate.** Ruddick's model works where Mweria-type rotating labor traditions persist. Where the T-form social cohesion is not present or has been eroded, the +N technology has nothing to route trust through.
 
@@ -132,7 +132,7 @@ Three findings.
 - [[mweria|Mweria (glossary)]]
 - [[curation-valuation-limitation-exchange|Curation, Valuation, Limitation, Exchange (glossary)]]
 - [[federated-cooperative-supply-chains|Federated Cooperative Supply Chains]]
-- [[people/will-ruddick|Will Ruddick]]
+- [[will-ruddick|Will Ruddick]]
 
 ## Sources
 
@@ -146,4 +146,4 @@ Three findings.
 
 ## Provenance
 
-Extracted from *Pooling_Across_TIMN_Research_Brief.md* in the BioConomy project. Valley-of-Grace-specific implications from the source (Section 6) have been removed for this international-audience version. The structural mapping of pooling systems to TIMN coordination forms is the author's own inference and is presented as such; Ronfeldt has not made these specific claims. All empirical figures are attributed to the sources cited on each case.
+Extracted from *Pooling_Across_TIMN_Research_Brief.md* in the [[glossary/bioconomy|BioConomy]] project. Valley-of-Grace-specific implications from the source (Section 6) have been removed for this international-audience version. The structural mapping of pooling systems to TIMN coordination forms is the author's own inference and is presented as such; Ronfeldt has not made these specific claims. All empirical figures are attributed to the sources cited on each case.

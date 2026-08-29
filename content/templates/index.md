@@ -33,10 +33,10 @@ Each template's third prompt produces three documents in a consistent tripartite
 
 ## The four templates
 
-1. [[biohub-identity-template|BioHub Identity Template]]. Establishes the BioHub itself. Produces the Identity Statement, the Field and Lineage Positioning, and the Founding Compact.
+1. [[biohub-identity-template|BioHub Identity Template]]. Establishes the BioHub itself. Produces the [[glossary/identity-statement|Identity Statement]], the Field and Lineage Positioning, and the [[glossary/founding-compact|Founding Compact]].
 2. [[bioregion-establishment-template|BioRegion Establishment Template]]. Establishes the BioRegion within which the BioHub operates. Produces the BioRegion Definition, the BioRegion Atlas, and the BioRegion Charter.
-3. [[value-proposition-template|BioConomy Value Proposition Template]]. Establishes what the BioHub tenders into markets. Produces the Value Proposition Statement, the Value Proposition Evidence Pack, and the Tender Compact.
-4. [[bankable-service-alignment-template|Bankable Service Alignment Template]]. Maps the BioHub's retention services onto a specific financial instrument (a nature-linked performance-based bond, a payment for ecosystem services mechanism, a biodiversity credit instrument, or comparable). Produces the Alignment Statement, the Alignment Evidence Pack, and the Alignment Compact.
+3. [[value-proposition-template|BioConomy Value Proposition Template]]. Establishes what the BioHub tenders into markets. Produces the Value Proposition Statement, the Value Proposition Evidence Pack, and the [[glossary/tender-compact|Tender Compact]].
+4. [[bankable-service-alignment-template|Bankable Service Alignment Template]]. Maps the BioHub's [[glossary/retention-economics|retention]] services onto a specific financial instrument (a nature-linked [[glossary/performance-based-bond|performance-based bond]], a [[glossary/payment-for-ecosystem-services-pes|payment for ecosystem services]] mechanism, a biodiversity credit instrument, or comparable). Produces the [[glossary/alignment-statement|Alignment Statement]], the Alignment Evidence Pack, and the [[glossary/alignment-compact|Alignment Compact]].
 
 The first three templates produce nine outputs together. The fourth produces three more, and can be run again against a second instrument (and a third) with each run producing another three. The [[the-nine-outputs|Nine Outputs]] reference page lists each output with the audience it is written for.
 

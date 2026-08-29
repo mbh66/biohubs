@@ -13,17 +13,17 @@ Briefs on specific empirical questions (water governance, historical patronage, 
 
 ## Overview
 
-Research briefs sit between the conceptual layer (concepts, frameworks) and the operational layer (templates). They investigate specific empirical questions and produce evidence a coordinator can act on. Each brief opens with a thesis, presents the evidence with clear tagging of documented facts, academic inferences, structural inferences, and speculative projections, and closes with implications for BioConomy practice.
+Research briefs sit between the conceptual layer (concepts, frameworks) and the operational layer (templates). They investigate specific empirical questions and produce evidence a coordinator can act on. Each brief opens with a thesis, presents the evidence with clear tagging of documented facts, academic inferences, structural inferences, and speculative projections, and closes with implications for [[glossary/bioconomy|BioConomy]] practice.
 
-Research briefs are the wiki's most detailed layer. A concept page tells you what retention logic is; a research brief tells you the empirical case for why retention is legible now. Briefs are updated when the underlying evidence shifts.
+Research briefs are the wiki's most detailed layer. A concept page tells you what [[glossary/retention-economics|retention]] logic is; a research brief tells you the empirical case for why retention is legible now. Briefs are updated when the underlying evidence shifts.
 
 ## Where to start
 
-- [[research/growth-economics|The S-Curve Research Brief]]. The deepest empirical treatment of the retention thesis, running from Hamilton through the 2023 planetary boundaries update.
+- [[research/growth-economics|The S-Curve Research Brief]]. The deepest empirical treatment of the retention thesis, running from Hamilton through the 2023 [[glossary/planetary-boundaries|planetary boundaries]] update.
 - [[research/corporate-partnerships-protected-areas|Corporate Partnerships in Protected-Area Landscapes]]. The current state of corporate ESG funding for landscape-scale restoration.
 - [[research/bioprecipitation|Bioprecipitation]]. A careful reading of the vegetation-rainfall evidence, separating defensible claims from overreaching ones.
 - [[research/pooling-across-timn|Pooling Across TIMN]]. The coordination-form basis for commitment pooling.
-- [[research/historical-patronage-three-feature-test|Historical Patronage and the Three-Feature Test]]. The case for the emerging Mycelial Patronage architecture.
+- [[research/historical-patronage-three-feature-test|Historical Patronage and the Three-Feature Test]]. The case for the emerging [[glossary/mycelial-patronage|Mycelial Patronage]] architecture.
 - [[research/comenius-to-schmidt-chain|The Comenius-to-Schmidt Chain]]. A four-century case study of portable pedagogical code surviving the removal of its founding institution.
 - [[research/abouleish-sekem|Abouleish and SEKEM]]. The Egyptian precedent for cooperative bioregional development at scale.
 

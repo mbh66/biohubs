@@ -19,4 +19,4 @@ Andrews's book-length account of the Natural Sequence Farming method: a landscap
 ## Cited by
 
 - [[concepts/water-retention-landscapes|Water Retention Landscapes]]
-- [[people/peter-andrews|Peter Andrews]]
+- [[peter-andrews|Peter Andrews]]

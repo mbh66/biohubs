@@ -20,7 +20,7 @@ Bauwens' framing of the emerging field as a third attractor alongside Chinese st
 
 ## Sources and associated figures
 
-- [[people/michel-bauwens|Michel Bauwens]]
+- [[michel-bauwens|Michel Bauwens]]
 
 ## Provenance
 

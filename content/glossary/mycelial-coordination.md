@@ -24,7 +24,7 @@ The operating pattern of the [[e-form-emergent|Emergent (E) form]] in the TIME f
 
 - [[concepts/mycelial-coordination|Mycelial Coordination (concept)]]
 - [[frameworks/timn|TIMN]]
-- [[time-framework|TIME Framework]]
+- [[time|TIME Framework]]
 
 ## Sources
 

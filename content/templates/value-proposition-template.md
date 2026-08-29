@@ -21,7 +21,7 @@ Where the [[bankable-service-alignment-template|Bankable Service Alignment Templ
 
 ## When to run this template
 
-Run this template after both preceding templates have been completed and the cohort agrees that the BioHub is ready to move from establishment work to tendering work. The six preceding outputs (Identity Statement, Field and Lineage Positioning, Founding Compact, BioRegion Definition, BioRegion Atlas, BioRegion Charter) are all in hand and accepted.
+Run this template after both preceding templates have been completed and the cohort agrees that the BioHub is ready to move from establishment work to tendering work. The six preceding outputs ([[glossary/identity-statement|Identity Statement]], Field and Lineage Positioning, [[glossary/founding-compact|Founding Compact]], BioRegion Definition, BioRegion Atlas, BioRegion Charter) are all in hand and accepted.
 
 Do not run this template as a discovery exercise for a BioHub still forming or still establishing its BioRegion. Run it when the establishment work is complete and the cohort needs a coherent value proposition to bring to counterparties and community.
 
@@ -29,9 +29,9 @@ Do not run this template as a discovery exercise for a BioHub still forming or s
 
 - The three Identity outputs: Identity Statement, Field and Lineage Positioning, Founding Compact.
 - The three BioRegion outputs: BioRegion Definition, BioRegion Atlas, BioRegion Charter.
-- BioStack and BioConomy foundational document.
+- [[glossary/biostack|BioStack]] and [[glossary/bioconomy|BioConomy]] foundational document.
 - Framework of coordination forms ([[frameworks/time-framework|TIME]], or an equivalent).
-- Commitment pooling document (the [[people/will-ruddick|Ruddick]] and Burgess-Bergstra basis, and the local adaptation).
+- Commitment pooling document (the [[will-ruddick|Ruddick]] and Burgess-Bergstra basis, and the local adaptation).
 
 The Metabolic BioHubs Best Practices Research Brief is inherited through the Field and Lineage Positioning document. Prior essays and research establishing the BioHub's positioning are inherited through the Identity documents.
 
@@ -39,7 +39,7 @@ The Metabolic BioHubs Best Practices Research Brief is inherited through the Fie
 
 **Prompt 1: Draft the BioConomy Value Proposition.** Produces a first-pass draft, populated to the six-panel Canvas. Covers the full portfolio of six services this BioHub can tender: water yield, carbon sequestration, biodiversity data, heritage and tourism, food systems, and coordination-as-employment. Includes an executive statement and a portfolio summary. Treated as a hypothesis for cohort review.
 
-**Prompt 2: Build the evidence pack.** Takes the confirmed draft and builds a service-by-service evidence dossier (counterparty identification, market signal quantification, contractable mechanism mapping, precedent case citation, price-discovery evidence, retention economics scaffolding), plus external-face evidence, internal-face evidence, multi-BioHub tender context, a [[glossary/readiness-diagnostic|readiness diagnostic]], and a [[glossary/gap-register|gap register]].
+**Prompt 2: Build the evidence pack.** Takes the confirmed draft and builds a service-by-service evidence dossier (counterparty identification, market signal quantification, contractable mechanism mapping, precedent case citation, price-discovery evidence, [[glossary/retention-economics|retention economics]] scaffolding), plus external-face evidence, internal-face evidence, multi-BioHub tender context, a [[glossary/readiness-diagnostic|readiness diagnostic]], and a [[glossary/gap-register|gap register]].
 
 **Prompt 3: The three final documents.** Produces the Value Proposition Statement, the Value Proposition Evidence Pack, and the Tender Compact.
 
@@ -67,7 +67,7 @@ The Canvas is the working structure that populates the Value Proposition Stateme
 2. **The Coordination Layer.** What the BioHub holds that no participant holds alone. Stakeholders coordinated, commitments verified, pools operated, contracts held. Populated from the Founding Compact and BioRegion Charter.
 3. **The Tenderable Services Portfolio.** Six service categories: water yield, carbon sequestration, biodiversity data, heritage and tourism, food systems, and coordination-as-employment. Coordination-as-employment has a dual character: a service offered to external counterparties (convening and verification capacity) and an employment pathway for community members.
 4. **The Counterparty Portfolio (external face).** Metropolitan utilities, corporate ESG buyers, philanthropic patrons via [[transvestment|transvestment]], tourism markets, food supply chains, research institutions.
-5. **The Participant Portfolio (internal face).** Landowners, farmers, custodial knowledge-holders, service providers, cooperative members, employees. What each contributes, what each receives, and how [[gainful employment|gainful employment]] is generated for those who want it.
+5. **The Participant Portfolio (internal face).** Landowners, farmers, custodial knowledge-holders, service providers, cooperative members, employees. What each contributes, what each receives, and how gainful employment is generated for those who want it.
 6. **The Retention Guarantee.** How each service is designed so value circulates within the BioRegion, substrate function increases, and coordination-form capture is prevented (the Market colonizing the Emergent).
 
 The Canvas is distinct from the Osterwalder Value Proposition Canvas. Osterwalder frames value as gain creators and pain relievers for a customer segment. The BioConomy canvas frames value as retention services tendered by a coordinated BioRegion into markets already structured to purchase them, with substrate health as the mandatory measurement. Where Osterwalder elements prove useful in specific BioHub contexts, they can be integrated inside Panel 4.
@@ -100,7 +100,7 @@ This is the third and terminal establishment template. The three outputs feed th
 
 **Participant onboarding and pool operation.** Founding Compact and Tender Compact together specify what participants receive and on what terms; Evidence Pack's Participant Portfolio supplies the operational detail.
 
-Where a specific financial instrument (a nature-linked performance-based bond, a payment for ecosystem services mechanism, a biodiversity credit instrument, or comparable) is being targeted, the [[bankable-service-alignment-template|Bankable Service Alignment Template]] runs next. It maps the BioHub's retention services onto the instrument's architecture and produces the alignment documents the instrument's parties will read.
+Where a specific financial instrument (a nature-linked [[glossary/performance-based-bond|performance-based bond]], a payment for ecosystem services mechanism, a biodiversity credit instrument, or comparable) is being targeted, the [[bankable-service-alignment-template|Bankable Service Alignment Template]] runs next. It maps the BioHub's retention services onto the instrument's architecture and produces the alignment documents the instrument's parties will read.
 
 ## Related pages
 

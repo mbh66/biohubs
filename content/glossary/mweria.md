@@ -20,7 +20,7 @@ A rotating communal labor tradition among the Mijikenda peoples of coastal Kenya
 
 ## Sources and associated figures
 
-- [[people/will-ruddick|Will Ruddick]]
+- [[will-ruddick|Will Ruddick]]
 
 ## Provenance
 

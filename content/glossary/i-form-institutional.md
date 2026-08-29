@@ -16,13 +16,13 @@ Coordination through hierarchy, codified rules, and formalized authority, where 
 
 ## Related terms
 
-- [[time-framework|TIME Framework]]
+- [[time|TIME Framework]]
 - [[stacked-entity-structure|Stacked entity structure]]
 
 ## Sources and associated figures
 
-- [[people/georges-duby|Georges Duby]]
-- [[people/robert-scott|Robert Scott]]
+- [[georges-duby|Georges Duby]]
+- [[robert-scott|Robert Scott]]
 
 ## Provenance
 

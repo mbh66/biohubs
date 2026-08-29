@@ -17,12 +17,12 @@ The ways humans organize collective action.
 ## Related terms
 
 - [[coordination-node|Coordination Node]]
-- [[timn-framework|TIMN Framework]]
-- [[time-framework|TIME Framework]]
+- [[content/glossary/timn|TIMN Framework]]
+- [[time|TIME Framework]]
 
 ## Sources and associated figures
 
-- [[people/david-ronfeldt|David Ronfeldt]]
+- [[david-ronfeldt|David Ronfeldt]]
 
 ## Provenance
 

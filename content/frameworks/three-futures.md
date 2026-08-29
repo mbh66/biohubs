@@ -25,7 +25,7 @@ Termination is not an event. It is a process already underway.
 
 The evidence is convergent across independent lines. Nafeez Ahmed's Planetary Phase Shift framework demonstrates that all five foundational sectors of civilization's production system (energy, transport, food, information, materials) are simultaneously entering phase transition. Global energy return on investment for fossil fuels has been declining since the 1960s; by 2030, the global oil industry will consume approximately 25 percent of the energy it produces simply to keep producing, and by 2050, approximately 50 percent. Joseph Tainter's collapse framework identifies the mechanism: societies collapse from diminishing returns on complexity, not from external shocks. Peter Turchin's structural-demographic theory identifies the specific triggers (elite overproduction, popular immiseration, state fiscal distress) and, in a 2010 *Nature* paper, correctly predicted the peak of political instability in the United States in the early 2020s.
 
-The S-curve of human civilization (twelve thousand years of growth since the Neolithic Revolution) is entering its deceleration phase. This is not environmentalism. It is mathematics. The growth assumption embedded in every pension fund, business plan, national budget, and retirement strategy is structurally compromised.
+The S-curve of human civilization (twelve thousand years of growth since the Neolithic Revolution) is entering its [[glossary/deceleration-phase|deceleration phase]]. This is not environmentalism. It is mathematics. The growth assumption embedded in every pension fund, business plan, national budget, and retirement strategy is structurally compromised.
 
 Termination is the default trajectory if nothing changes. Not because anyone chooses it, but because complex systems that overshoot their carrying capacity and fail to reorganize at a lower level of complexity undergo involuntary simplification. The question is not whether the current system will change. It will. The question is whether what replaces it will be chosen consciously or imposed by physics.
 
@@ -43,7 +43,7 @@ The legal architecture has already been reconfigured. The 1994 revision of UCC A
 
 Digital identity systems (from India's Aadhaar to the EU's eIDAS 2.0 framework) create the infrastructure for conditional access to services, markets, and public goods. Surveillance capitalism, as documented by Shoshana Zuboff, has demonstrated that behavioral prediction and modification can be industrialized at planetary scale.
 
-Technofeudalism is what Ronfeldt's TIMN framework identifies as the Market form's attempt to capture network technology for centralized control. It uses the infrastructure of the Network age (distributed computing, real-time data, platform architecture) but subordinates it to the logic of the Market: efficiency, extraction, and control. The nodes are servers. The flows are behavioral data. The organizing principle is the commodification of human attention and the algorithmic management of human activity.
+Technofeudalism is what Ronfeldt's [[content/glossary/timn|TIMN framework]] identifies as the [[glossary/m-form-market|Market form]]'s attempt to capture network technology for centralized control. It uses the infrastructure of the Network age (distributed computing, real-time data, platform architecture) but subordinates it to the logic of the Market: efficiency, extraction, and control. The nodes are servers. The flows are behavioral data. The organizing principle is the commodification of human attention and the algorithmic management of human activity.
 
 Ronfeldt's own observation applies directly: "Bad actors may prove initially more adept than good actors at using a new form." Warlords mastered hierarchy before legitimate states. Pirates mastered trade before lawful merchants. Surveillance platforms have mastered network technology before communities of reciprocity.
 
@@ -59,7 +59,7 @@ The biological precedent is [[endosymbiosis|endosymbiosis]]. Approximately 3.7 b
 
 Elisabet Sahtouris extends this into a general principle: mature ecosystems are characterized by mutual aid, not competition. Young ecosystems (newly disturbed, resource-rich, low-diversity) are dominated by competitive, opportunistic species. Mature ecosystems (complex, resource-constrained, high-diversity) are dominated by cooperative, integrated networks. The trajectory of biological evolution is from hostile competition to cooperative negotiation. This is a statement about fitness, not about morality.
 
-Human civilization, on the S-curve of its twelve-thousand-year growth cycle, is at precisely the inflection point where this transition becomes structurally necessary. The competitive, extractive logic that drove the steep ascent cannot navigate the deceleration phase. It is the wrong operating system for the conditions now emerging.
+Human civilization, on the S-curve of its twelve-thousand-year growth cycle, is at precisely the inflection point where this transition becomes structurally necessary. The competitive, [[glossary/extractive|extractive]] logic that drove the steep ascent cannot navigate the deceleration phase. It is the wrong operating system for the conditions now emerging.
 
 What Graves called Second Tier thinking, and what this framework calls [[mycelial-consciousness|Mycelial Consciousness]], is the human expression of this biological pattern. It is the capacity to hold multiple perspectives simultaneously without collapsing into any single one; to collaborate with people whose worldview one does not share, because the challenges facing the species cannot be addressed by any single perspective operating alone.
 
@@ -71,7 +71,7 @@ Culture-dominant empires (Egypt, Sumer, Babylon) organized the steep ascent of t
 
 Rights-dominant empires (Greece, Rome, the medieval Church-State complex) organized the acceleration further up the curve. Political-legal authority became the organizing principle. The citizen replaced the devotee as the basic social unit.
 
-Economy-dominant empires (the Portuguese, Dutch, British, American sequences, culminating in globalized finance) organized the peak and overshoot. Economic extraction and commercial logic subordinated both cultural life and political life to the requirements of capital return.
+[[glossary/economy|Economy]]-dominant empires (the Portuguese, Dutch, British, American sequences, culminating in globalized finance) organized the peak and overshoot. Economic extraction and commercial logic subordinated both cultural life and political life to the requirements of capital return.
 
 There is no fourth sphere to take over. Culture, Rights, and Economy have each had their turn at dominance. Each has been exhausted. The only remaining structural options are collapse (Termination), capture (Technofeudalism), or conscious integration of all three into a differentiated but cooperating whole (Transcendence).
 
@@ -93,12 +93,12 @@ If the choice is real, and Graves insisted it was, then the determining variable
 - [[endosymbiosis|Endosymbiosis (glossary)]]
 - [[second-tier-thinking|Second Tier Thinking (glossary)]]
 - [[threefolding|Threefolding (glossary)]]
-- [[people/clare-graves|Clare Graves]]
-- [[people/rudolf-steiner|Rudolf Steiner]]
-- [[people/lynn-margulis|Lynn Margulis]]
-- [[people/elisabet-sahtouris|Elisabet Sahtouris]]
-- [[people/nafeez-ahmed|Nafeez Ahmed]]
-- [[people/peter-turchin|Peter Turchin]]
+- [[clare-graves|Clare Graves]]
+- [[rudolf-steiner|Rudolf Steiner]]
+- [[lynn-margulis|Lynn Margulis]]
+- [[elisabet-sahtouris|Elisabet Sahtouris]]
+- [[nafeez-ahmed|Nafeez Ahmed]]
+- [[peter-turchin|Peter Turchin]]
 
 ## Sources
 

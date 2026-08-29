@@ -21,13 +21,13 @@ The extraction convention is that a source page is written every time a work is 
 
 The sources most heavily cited across the corpus, useful as entry points into the framework's intellectual lineage:
 
-- [[sources/ronfeldt-timn|Ronfeldt (1996). *Tribes, Institutions, Markets, Networks*]]. The TIMN framework.
-- [[sources/ostrom-governing-commons|Ostrom (1990). *Governing the Commons*]]. Commons governance.
-- [[sources/polanyi-great-transformation|Polanyi (1944). *The Great Transformation*]]. The double movement and fictitious commodities.
+- [[sources/ronfeldt-timn|Ronfeldt (1996). *Tribes, Institutions, Markets, Networks*]]. The [[content/glossary/timn|TIMN framework]].
+- [[sources/ostrom-governing-commons|Ostrom (1990). *Governing the Commons*]]. [[glossary/commons|Commons]] governance.
+- [[sources/polanyi-great-transformation|Polanyi (1944). *The Great Transformation*]]. The [[glossary/double-movement|double movement]] and [[glossary/fictitious-commodities|fictitious commodities]].
 - [[sources/richardson-planetary-boundaries|Richardson et al. (2023). *Earth beyond six of nine planetary boundaries*]]. The measurement anchor for planetary limits.
 - [[sources/gladek-metabolic-biohubs|Gladek et al. (2026). *BioHubs: A Pathway to Regional Resilience*]]. The field mapping of 152 initiatives.
-- [[sources/life-bioregional-economics|Life (2026). *An Introduction to Bioregional Economics (Part I)*]]. The foundational definition of bioregional economics as the wiki uses it.
-- [[sources/margulis-symbiotic-planet|Margulis (1998). *Symbiotic Planet*]]. The biological precedent for Mycelial Consciousness.
+- [[sources/life-bioregional-economics|Life (2026). *An Introduction to Bioregional Economics (Part I)*]]. The foundational definition of [[glossary/bioregional-economics|bioregional economics]] as the wiki uses it.
+- [[sources/margulis-symbiotic-planet|Margulis (1998). *Symbiotic Planet*]]. The biological precedent for [[glossary/mycelial-consciousness|Mycelial Consciousness]].
 
 ## Related pages
 

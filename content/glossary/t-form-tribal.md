@@ -16,14 +16,14 @@ Coordination through kinship, identity, belonging, and reciprocal obligation, wh
 
 ## Related terms
 
-- [[time-framework|TIME Framework]]
+- [[time|TIME Framework]]
 - [[coordination-node|Coordination Node]]
 - [[indigenous-knowledge|Indigenous Knowledge]]
 
 ## Sources and associated figures
 
-- [[people/mircea-eliade|Mircea Eliade]]
-- [[people/christian-bromberger|Christian Bromberger]]
+- [[mircea-eliade|Mircea Eliade]]
+- [[christian-bromberger|Christian Bromberger]]
 
 ## Provenance
 

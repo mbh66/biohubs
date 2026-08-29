@@ -33,7 +33,7 @@ This framework is a structural extension of Ronfeldt's original TIMN work. Ronfe
 
 **Decoupling risk.** The mark can be worn without the underlying kinship or obligation. Imitation, appropriation, and hollow display are the failure modes.
 
-**Modern residue.** Sports fandom persists as T-form coordination inside later forms. Christian Bromberger's 1995 study of football supporters in Marseille, Naples, and Turin analyzes the stadium as ritual space, describes supporter culture as pseudo-kinship, and identifies fixed pre-match, match, and post-match rhythms including a pre-match fast recalling the fast before communion. The jersey functions as clan mark, the anthem as ritual song, face paint as body marking.
+**Modern residue.** Sports fandom persists as [[glossary/t-form-tribal|T-form]] coordination inside later forms. Christian Bromberger's 1995 study of football supporters in Marseille, Naples, and Turin analyzes the stadium as ritual space, describes supporter culture as pseudo-kinship, and identifies fixed pre-match, match, and post-match rhythms including a pre-match fast recalling the fast before communion. The jersey functions as clan mark, the anthem as ritual song, face paint as body marking.
 
 ## +I (Institutions): the cathedral
 
@@ -65,9 +65,9 @@ This framework is a structural extension of Ronfeldt's original TIMN work. Ronfe
 
 ## +N (Networks): the bioregional hub and the BioScore (emergent / speculative)
 
-**Coordination logic.** Reciprocity, commons, and stewardship, found in the web-like ties among NGOs and civil-society actors, and in bioregional regeneration.
+**Coordination logic.** Reciprocity, [[glossary/commons|commons]], and stewardship, found in the web-like ties among NGOs and civil-society actors, and in bioregional regeneration.
 
-**Characteristic node.** The [[biohub|BioHub]]. Concentrating nodes include Joe Brewer's Design School for Regenerating Earth (organized around bioregions and a planetary network of learning exchanges), Regenerate Cascadia (founded April 2023, now six staff supporting 10 landscape groups with 43 landscape stewards and an online community of over 600 individuals from over 150 organizations), Salmon Nation, and the 152 initiatives documented in Metabolic's 2026 BioHub Assessment. The Cascadia bioregion is defined by watersheds rather than political borders, stretching more than 2,500 kilometers along the Pacific Rim.
+**Characteristic node.** The [[biohub|BioHub]]. Concentrating nodes include Joe Brewer's Design School for Regenerating Earth (organized around bioregions and a planetary network of learning exchanges), Regenerate Cascadia (founded April 2023, now six staff supporting 10 landscape groups with 43 landscape stewards and an online community of over 600 individuals from over 150 organizations), Salmon Nation, and the 152 initiatives documented in Metabolic's 2026 BioHub Assessment. The Cascadia [[glossary/bioregion|bioregion]] is defined by watersheds rather than political borders, stretching more than 2,500 kilometers along the Pacific Rim.
 
 **Distillation object.** The hypothesis: +N awe is produced not by a single monumental structure but by the visible recovery of a living system. A degraded watershed regenerating. A species count climbing. A community feeding itself from its own soil. The bioregional literature supports this framing (organizing at the scale of watersheds so that every person can walk out their front door and act) but does not yet document a singular awe-inducing structure. The +N distillation object is a living system rather than a built monument.
 
@@ -120,4 +120,4 @@ The absence of a mature +N portable symbol is the strongest single indicator of 
 
 ## Provenance
 
-Extracted from *TIMN Nodes Comparative Analysis.md* in the BioConomy project. The structural rhymes across the four columns are the source document's own analysis. The +N column is presented, as in the source, with clear epistemic tagging (speculative projection for the awe-producing distillation object; structural inference for the BioScore-as-legibility-signal claim; documented fact for the observable properties of the current bioregional-hub initiatives). Ronfeldt himself has not made these specific claims about physical manifestations; the mapping is the author's structural inference and is presented as such.
+Extracted from *TIMN Nodes Comparative Analysis.md* in the [[glossary/bioconomy|BioConomy]] project. The structural rhymes across the four columns are the source document's own analysis. The +N column is presented, as in the source, with clear epistemic tagging (speculative projection for the awe-producing distillation object; structural inference for the BioScore-as-legibility-signal claim; documented fact for the observable properties of the current bioregional-hub initiatives). Ronfeldt himself has not made these specific claims about physical manifestations; the mapping is the author's structural inference and is presented as such.

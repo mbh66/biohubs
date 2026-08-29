@@ -28,16 +28,16 @@ Run this template after the [[value-proposition-template|BioConomy Value Proposi
 - Access to the instrument's public documentation (prospectus, term sheet, implementation plan, verification methodology) or, where the instrument does not yet exist, access to comparable instruments in the same class.
 - A service from the [[glossary/tenderable-services-portfolio|Tenderable Services Portfolio]] that the target instrument is designed to purchase.
 
-Do not run this template as a substitute for the establishment suite. A BioHub that has not established its identity, BioRegion, and value proposition cannot align with a financial instrument because it has nothing to align.
+Do not run this template as a substitute for the establishment suite. A BioHub that has not established its identity, [[glossary/bioregion|BioRegion]], and value proposition cannot align with a financial instrument because it has nothing to align.
 
 Do not run this template against an instrument that does not purchase services the BioHub offers. If the instrument purchases carbon offsets and the BioHub's carbon sequestration service is categorized as speculative pending research in the Value Proposition Evidence Pack's [[glossary/readiness-diagnostic|readiness diagnostic]], the alignment exercise is premature. Resolve the speculative categorization first through field research.
 
 ## Prerequisite documents
 
 - The nine outputs of the three establishment templates.
-- BioStack and BioConomy foundational document.
+- [[glossary/biostack|BioStack]] and [[glossary/bioconomy|BioConomy]] foundational document.
 - Framework of coordination forms ([[frameworks/time-framework|TIME]], or an equivalent).
-- Commitment pooling document (the [[people/will-ruddick|Ruddick]] and Burgess-Bergstra basis).
+- Commitment pooling document (the [[will-ruddick|Ruddick]] and Burgess-Bergstra basis).
 - Target instrument documentation: all publicly available material on the specific financial instrument or instrument class the BioHub is targeting.
 
 ## The three prompts
@@ -50,7 +50,7 @@ Do not run this template against an instrument that does not purchase services t
 
 ## The three outputs
 
-**Alignment Statement.** Short, formal document. Five to ten pages. Maps the BioHub's retention services onto the target instrument's architecture. States what the BioHub delivers, what the instrument purchases, how the two align, where the gaps are, and what makes the BioHub a credible counterparty. This is the document the BioHub coordinator sends to the instrument's arranger, verification agent, or implementation partner as first contact.
+**Alignment Statement.** Short, formal document. Five to ten pages. Maps the BioHub's [[glossary/retention-economics|retention]] services onto the target instrument's architecture. States what the BioHub delivers, what the instrument purchases, how the two align, where the gaps are, and what makes the BioHub a credible counterparty. This is the document the BioHub coordinator sends to the instrument's arranger, verification agent, or implementation partner as first contact.
 
 **Alignment Evidence Pack.** Long, structured referential document. Twenty-five to forty-five pages. Compiles the instrument research, verification methodology analysis, precedent instrument cases globally, the specific mapping between what the BioHub delivers and what the instrument purchases, regulatory and legal requirements, and price-discovery evidence specific to the instrument. The operational knowledge base for preparing the specific instrument-aligned tender.
 
@@ -62,14 +62,14 @@ Between Prompts 1 and 2, the coordinator convenes the cohort to review the align
 
 Between Prompts 2 and 3, the coordinator convenes the cohort to review the evidence pack, resolve tensions, confirm the build-out priorities, and agree on timeline commitments.
 
-Both cohort review steps operate under the decision-making forms established in the Founding Compact. Neither can be delegated to the AI. See [[running-a-template|Running a Template]] for the shared conventions.
+Both cohort review steps operate under the decision-making forms established in the [[glossary/founding-compact|Founding Compact]]. Neither can be delegated to the AI. See [[running-a-template|Running a Template]] for the shared conventions.
 
 ## The alignment map
 
 Prompt 1's central deliverable is the alignment map. For each outcome the instrument purchases, a two-column alignment shows what the BioHub delivers (from the bottom-up analysis of the establishment documents) and what the instrument requires (from the top-down analysis of the instrument documentation). Each row is categorized:
 
 - **Aligned.** The BioHub's current capacity meets the instrument's requirement. Cite the specific evidence from the establishment documents.
-- **Alignable.** The BioHub's capacity is oriented toward the requirement but does not yet meet it. Specify the gap and what build-out is needed.
+- **Alignable.** The BioHub's capacity is oriented toward the requirement but does not yet meet it. Specify the gap and what build-out is [[glossary/needed|needed]].
 - **Misaligned.** The BioHub's current work does not correspond to this requirement. State whether the misalignment is structural (the BioHub's retention logic conflicts with the instrument's design) or developmental (the capacity can be built but is not yet present).
 - **Not applicable.** The instrument requirement does not apply to this BioHub's context.
 

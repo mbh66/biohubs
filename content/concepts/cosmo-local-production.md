@@ -9,19 +9,19 @@ source_documents: ["CosmoLocal_Production_Notion_Export"]
 epistemic_status: "documented-framework"
 ---
 
-Cosmo-local production is the pattern in which what is light travels globally and what is heavy stays local. Knowledge, designs, protocols, and research findings circulate freely across the planet through digital commons. Physical production (food, building materials, energy, textiles, manufactured goods) stays close to the place of need, using locally available materials, locally appropriate methods, and locally governed enterprises.
+Cosmo-local production is the pattern in which what is light travels globally and what is heavy stays local. Knowledge, designs, protocols, and research findings circulate freely across the planet through digital [[glossary/commons|commons]]. Physical production (food, building materials, energy, textiles, manufactured goods) stays close to the place of need, using locally available materials, locally appropriate methods, and locally governed enterprises.
 
 ## Overview
 
-The global economy moves heavy things around the planet to move light things around the planet. Raw materials cross oceans to become goods in factories, which cross oceans again to reach consumers, accompanied at every stage by intellectual property, logistics data, and financial instruments that could have moved at the speed of light without any of the ships. The current global system of production and trade uses roughly two-thirds of its resource expenditure on transport, and not on making. The ratio tells you where the design error is.
+The global [[glossary/economy|economy]] moves heavy things around the planet to move light things around the planet. Raw materials cross oceans to become goods in factories, which cross oceans again to reach consumers, accompanied at every stage by intellectual property, logistics data, and financial instruments that could have moved at the speed of light without any of the ships. The current global system of production and trade uses roughly two-thirds of its resource expenditure on transport, and not on making. The ratio tells you where the design error is.
 
-Cosmo-local production inverts the ratio. The formulation, developed by [[people/michel-bauwens|Michel Bauwens]], Vasilis Kostakis, and colleagues at the P2P Foundation and refined through José Ramos's editorial work on the *Cosmo-Local Reader* (2021), rests on a single structural principle: what is light is global; what is heavy is local.
+Cosmo-local production inverts the ratio. The formulation, developed by [[michel-bauwens|Michel Bauwens]], Vasilis Kostakis, and colleagues at the P2P Foundation and refined through José Ramos's editorial work on the *Cosmo-Local Reader* (2021), rests on a single structural principle: what is light is global; what is heavy is local.
 
 ## The three rules
 
 Cosmo-local production marries the planetary globalization of knowledge, the localization of production, and both local and planetary mutualization. In practice, this resolves into three rules.
 
-**First, the subsidiarity of material production.** Produce at the lowest appropriate scale, as close to the point of need as sensible. A bioregion that grows its own food, builds with local materials, and generates its own energy avoids the transport burden, the supply chain fragility, and the value leakage that come with importing goods that could have been produced locally. This does not mean autarky. It means default to local, import what you must, and be deliberate about the difference.
+**First, the [[glossary/subsidiarity|subsidiarity]] of material production.** Produce at the lowest appropriate scale, as close to the point of need as sensible. A [[glossary/bioregion|bioregion]] that grows its own food, builds with local materials, and generates its own energy avoids the transport burden, the supply chain fragility, and the value leakage that come with importing goods that could have been produced locally. This does not mean autarky. It means default to local, import what you must, and be deliberate about the difference.
 
 **Second, global knowledge collaboration through open design communities.** The designs, patterns, protocols, and research that inform local production are shared globally and improved collectively. An innovation made in one bioregion is available to every other bioregion in the network. This is where the "cosmo" in cosmo-local does its work: the knowledge commons is planetary, which means that every participating locality benefits from the collective intelligence of the whole network without surrendering governance over its own production.
 
@@ -33,7 +33,7 @@ The concept emerged from the convergence of several streams. Cosmo-localism draw
 
 The foundational academic paper is Kostakis, Niaros, Dafermos, and Bauwens, "Design Global, Manufacture Local: Exploring the Contours of an Emerging Productive Model," published in *Futures* in 2015. The *Cosmo-Local Reader*, edited by Ramos, Ede, Bauwens, and Wong (P2P Foundation, 2021), documents over 40 cases and 12 analytical essays spanning modular automotive manufacturing, community-driven wind power, housing construction, peer-to-peer farming, agri-robotics, furniture fabrication, prosthetics, biohacking, upcycling, and disaster relief.
 
-The P2P Foundation's framing rests on a structural observation about how the current economy treats knowledge and materials. The dominant system treats material resources as if they were abundant (extracting and discarding at rates that overshoot planetary boundaries) while treating knowledge as if it were scarce (enclosing it behind intellectual property regimes that restrict access). Cosmo-local production reverses both errors: treat material resources as the finite things they are, and treat knowledge as the shareable thing it is.
+The P2P Foundation's framing rests on a structural observation about how the current economy treats knowledge and materials. The dominant system treats material resources as if they were abundant (extracting and discarding at rates that overshoot [[glossary/planetary-boundaries|planetary boundaries]]) while treating knowledge as if it were scarce (enclosing it behind intellectual property regimes that restrict access). Cosmo-local production reverses both errors: treat material resources as the finite things they are, and treat knowledge as the shareable thing it is.
 
 ## What it looks like in practice
 
@@ -65,7 +65,7 @@ Ruddick's Grassroots Economics protocol operates on the same cosmo-local logic: 
 - [[concepts/commitment-pooling|Commitment Pooling]]
 - [[concepts/federated-cooperative-supply-chains|Federated Cooperative Supply Chains]]
 - [[concepts/carbon-silicon-partnership|Carbon-Silicon Partnership]]
-- [[people/michel-bauwens|Michel Bauwens]]
+- [[michel-bauwens|Michel Bauwens]]
 - [[cosmo-local-production|Cosmo-local production (glossary)]]
 
 ## Sources

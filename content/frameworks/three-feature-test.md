@@ -36,7 +36,7 @@ If yes, the investment is constitutive. If the patron can walk away and retain t
 **Negative anchors (instrumental):**
 - The Fuggers: patronized humanists while their core business (indulgence collection, Habsburg finance) was structurally committed to the order Luther attacked. Cultural patronage was portfolio decoration.
 - EA/FTX: the return structure was reputational capital, moral positioning, and intellectual community. Instrumental commitment meant the entire network's legitimacy collapsed with a single donor's misconduct.
-- Philanthropic commons funding: capital is retractable on the funder's schedule and accountable to the funder's metrics, making the funder's commitment conditional and reversible.
+- Philanthropic [[glossary/commons|commons]] funding: capital is retractable on the funder's schedule and accountable to the funder's metrics, making the funder's commitment conditional and reversible.
 
 ### 2. Embedding in the emerging order
 
@@ -51,7 +51,7 @@ If the patron's holdings appreciate as the new order consolidates, they are embe
 
 **Negative anchors (embedded in the declining order):**
 - Late Roman senatorial aristocracy: vast landed estates and status denominated in the dying imperial order. As a class, they failed to reposition and were liquidated with the system they clung to.
-- The Fuggers: wealth denominated in the indulgence economy and the Habsburg-papal financial system. Structurally committed to the order Luther attacked.
+- The Fuggers: wealth denominated in the indulgence [[glossary/economy|economy]] and the Habsburg-papal financial system. Structurally committed to the order Luther attacked.
 - Captured NGOs: survival dependent on the funding stream of the order they set out to change.
 
 ### 3. Protection during maximum exposure
@@ -90,7 +90,7 @@ The master diagnostic in single-question form:
 
 **Fugger position (instrumental):** The patron funds reform as an allocation while their core position is committed to the declining order. The cultural patronage is decorative. When the transition arrives, the patron is on the side of the system being reformed.
 
-The structural meaning of [[transvestment|transvestment]] is the move from the Fugger position to the Medici position (and, in the [[mycelial-patronage|Mycelial Patronage]] case, further, into the substrate itself). From instrumental funder to constitutive builder. From the Boethius path to the Cassiodorus path. The window for this repositioning is real and it closes.
+The structural meaning of [[transvestment|transvestment]] is the move from the Fugger position to the Medici position (and, in the [[mycelial-patronage|Mycelial Patronage]] case, further, into the substrate itself). From instrumental funder to constitutive builder. From the Boethius path to the Cassiodorus path. [[glossary/alpha-window|The window]] for this repositioning is real and it closes.
 
 ## Failure-mode classification
 
@@ -131,4 +131,4 @@ The [[mycelial-patronage|Mycelial Patronage]] framework is the specific applicat
 
 ## Provenance
 
-Extracted from *EA Patron Project Criteria.md* and *EA Patronage Research Brief.md* in the BioConomy project. The test itself is stated in the Criteria document; the historical anchors are drawn from the Research Brief's Cluster 1-5 analysis. The failure-mode classification is drawn from Cluster 5 of the Research Brief. This page condenses the material to serve as a working diagnostic; readers wanting the full historical evidence should read the associated research brief.
+Extracted from *EA Patron Project Criteria.md* and *EA Patronage Research Brief.md* in the [[glossary/bioconomy|BioConomy]] project. The test itself is stated in the Criteria document; the historical anchors are drawn from the Research Brief's Cluster 1-5 analysis. The failure-mode classification is drawn from Cluster 5 of the Research Brief. This page condenses the material to serve as a working diagnostic; readers wanting the full historical evidence should read the associated research brief.

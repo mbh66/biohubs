@@ -9,7 +9,7 @@ source_documents: []
 epistemic_status: "documented-framework"
 ---
 
-The thinkers, practitioners, and collaborators whose work feeds the BioConomy corpus.
+The thinkers, practitioners, and collaborators whose work feeds the [[glossary/bioconomy|BioConomy]] corpus.
 
 ## Overview
 
@@ -23,15 +23,15 @@ Four subfolders (theorists, practitioners, ancestors, historical-practitioners) 
 
 Representative entry points into the framework's intellectual lineage:
 
-- [[people/david-ronfeldt|David Ronfeldt]]. TIMN framework.
-- [[people/elinor-ostrom|Elinor Ostrom]]. Commons governance.
-- [[people/karl-polanyi|Karl Polanyi]]. The double movement.
-- [[people/elisabet-sahtouris|Elisabet Sahtouris]]. Evolutionary biology as coordination substrate.
-- [[people/benjamin-life|Benjamin Life]]. Bioregional economics.
-- [[people/michel-bauwens|Michel Bauwens]]. Cosmo-local production, transvestment.
-- [[people/will-ruddick|Will Ruddick]]. Grassroots Economics, commitment pooling in the field.
-- [[people/lynn-margulis|Lynn Margulis]]. Endosymbiosis; the biological precedent for Mycelial Consciousness.
-- [[people/eva-gladek|Eva Gladek]]. The Metabolic field mapping.
+- [[david-ronfeldt|David Ronfeldt]]. [[content/glossary/timn|TIMN framework]].
+- [[elinor-ostrom|Elinor Ostrom]]. [[glossary/commons|Commons]] governance.
+- [[karl-polanyi|Karl Polanyi]]. The [[glossary/double-movement|double movement]].
+- [[elisabet-sahtouris|Elisabet Sahtouris]]. Evolutionary biology as coordination substrate.
+- [[benjamin-life|Benjamin Life]]. [[glossary/bioregional-economics|Bioregional economics]].
+- [[michel-bauwens|Michel Bauwens]]. [[glossary/cosmo-local-production|Cosmo-local production]], [[glossary/transvestment|transvestment]].
+- [[will-ruddick|Will Ruddick]]. Grassroots Economics, commitment pooling in the field.
+- [[lynn-margulis|Lynn Margulis]]. [[glossary/endosymbiosis|Endosymbiosis]]; the biological precedent for [[glossary/mycelial-consciousness|Mycelial Consciousness]].
+- [[eva-gladek|Eva Gladek]]. The Metabolic field mapping.
 
 ## Related pages
 

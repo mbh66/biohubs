@@ -20,7 +20,7 @@ The four functions of Ruddick's Commitment Pooling Protocol: what commitments ar
 
 ## Sources and associated figures
 
-- [[people/will-ruddick|Will Ruddick]]
+- [[will-ruddick|Will Ruddick]]
 
 ## Provenance
 

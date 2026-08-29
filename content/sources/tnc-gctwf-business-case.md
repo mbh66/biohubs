@@ -14,7 +14,7 @@ source_project: "BioConomy"
 
 The Nature Conservancy (2018). *Greater Cape Town Water Fund Business Case.* Cape Town.
 
-The founding business case for the Greater Cape Town Water Fund. TNC and the City of Cape Town modeled that clearing invasive alien plants from 54,300 hectares in seven mountain catchments would yield annual water gains of 55 billion liters per year within six years, rising toward 100 billion liters per year by 2045, at roughly one-tenth the unit cost of desalination. The case established the unit economics that later underwrote the Cape Water Performance-Based Bond (FR31PB).
+The founding business case for the Greater Cape Town Water Fund. TNC and the City of Cape Town modeled that clearing invasive alien plants from 54,300 hectares in seven mountain catchments would yield annual water gains of 55 billion liters per year within six years, rising toward 100 billion liters per year by 2045, at roughly one-tenth the unit cost of desalination. The case established the unit economics that later underwrote the Cape Water [[glossary/performance-based-bond|Performance-Based Bond]] (FR31PB).
 
 ## Cited by
 

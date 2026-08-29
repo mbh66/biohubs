@@ -20,8 +20,8 @@ A phased institutional architecture (bioregional trust, venture studio, investme
 
 ## Sources and associated figures
 
-- [[people/leon-seefeld|Leon Seefeld]]
-- [[people/samantha-power|Samantha Power]]
+- [[leon-seefeld|Leon Seefeld]]
+- [[samantha-power|Samantha Power]]
 
 ## Provenance
 

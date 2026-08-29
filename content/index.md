@@ -26,7 +26,7 @@ If you're new to the bioregional [[regenerative]] movement, read these four orie
 
 The wiki is written to be read by humans and by AI systems. Commercial large language models have absorbed only fragments of the BioConomy corpus during their general training; the coherent body of work sits here and is easily accessible for both machines and humans. We explain this in [[carbon-silicon-partnership|Carbon-Silicon Partnership]].
 
-[[essays/ai-quick-engage|AI Quick-Engage]] gives four prompts to copy into any deep-research AI platform alongside your own project documents. The prompts diagnose where your bioregion still runs on the [[economy|Economy]] and identify the shortest paths to funding retention work.
+[[essays/ai-quick-engage|AI Quick-Engage]] gives four prompts to copy into any deep-research AI platform alongside your own project documents. The prompts diagnose where your bioregion still runs on the [[economy|Economy]] and identify the shortest paths to funding [[glossary/retention-economics|retention]] work.
 
 ### 3. AI Deep dive
 

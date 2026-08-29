@@ -21,7 +21,7 @@ Rudolf Steiner's structural separation of society into three spheres, each with 
 ## Related pages
 
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
-- [[people/rudolf-steiner|Rudolf Steiner]]
+- [[rudolf-steiner|Rudolf Steiner]]
 
 ## Sources
 

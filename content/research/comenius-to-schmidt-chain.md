@@ -3,9 +3,9 @@ title: "The Comenius-to-Schmidt Chain"
 aliases: ["comenius to schmidt chain", "unitas fratrum pedagogical lineage"]
 tags: ["research", "pedagogy", "moravian", "institutional-continuity", "historical-analysis"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-08-27
 source_project: "BioConomy"
-source_documents: ["Comenius_to_Schmidt_Chain.md"]
+source_documents: ["Comenius_to_Schmidt_Chain.md", "Roam/John Comenius", "Roam/Time Between Worlds", "Roam/Zachary Stein"]
 epistemic_status: "academic-inference"
 ---
 
@@ -107,6 +107,16 @@ The fit is strong. The question is whether it is the result of a consciously tra
 | Schmidt's pedagogical practice | Documented | Multiple independent sources |
 | Schmidt's pedagogy carries a Comenian lineage | Inference (to be verified) | Institutional continuity; Clauser 1961 is the key unread source |
 
+## Zachary Stein on Comenius
+
+Zachary Stein, an American writer, educator, and futurist, has written extensively on Comenius as a figure navigating a prior "time between worlds." His paper "Education Must Make History Again: Remembering John Comenius in a Time Between Worlds" draws a direct line between Comenius's situation (the collapse of the pre-modern order during the Thirty Years' War) and the present metacrisis.
+
+Stein argues that Comenius "rescued the children of his generation from the sterile study of words and introduced them to the world of mechanics and politics and morality and nature and beauty and art" (citing Keatinge). Comenius's core insight, in Stein's reading, was that the question facing educators in a civilizational transition is what to preserve from inherited traditions while allowing what needs to pass to pass.
+
+The Pansophic project Comenius proposed was not a school or university. It was, in Stein's words, "the core catalyst of a universal system of education, a clearinghouse for all knowledge, established as part of a sacred covenant between all educators distributed everywhere around the globe." Comenius envisioned citizen-teacher-scientists ranging across interrelated domains of science, politics, and religion, synthesizing and distributing new knowledge for the sake of leading humanity into a higher ethical and epistemic order. This is structurally comparable to the [[bioregional-learning-centre|bioregional learning centre]] concept in the wiki, though operating at planetary rather than bioregional scale.
+
+Stein also notes that Comenius proposed the equivalent of the United Nations in a brief book called *The Angel of Peace*, an idea later sourced by Immanuel Kant for his *Perpetual Peace*, which became the League of Nations, which became the United Nations.
+
 ## The unread source: Clauser (1961)
 
 The full scholarly demonstration of the Comenian lineage claim rests on Robert Clauser's 1961 dissertation on Moravian educational practice, which has been flagged as unread in the project knowledge base. If Clauser demonstrates a direct transmission (Comenius's pedagogical writings were part of the Herrnhut training curriculum; Schmidt's diary references Comenian methods; the Moravian mission manual prescribes Comenian principles), the inference becomes a documented fact. If Clauser shows instead that the Herrnhut pedagogy drew on Pietist or Zinzendorfian sources distinct from Comenius, the lineage claim would need to be qualified. Obtaining the dissertation remains a research priority.
@@ -121,6 +131,20 @@ Three implications for wiki readers working outside the Moravian tradition:
 
 **Two-hundred-year suppression is not fatal to a tradition with a portable code.** The Hidden Seed period (1670-1722) demonstrates that a tradition can survive fifty years underground and reconstitute itself when institutional space reopens. The specific mechanism (generational transmission through household practice, sustained by shared texts and memory) is transferable to any tradition facing organized institutional pressure.
 
+## Digital library
+
+- [Stein, Z. — "Education Must Make History Again: Remembering John Comenius in a Time Between Worlds" (PDF)](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMichaelHaupt%2FRCbp8NeBtc.pdf?alt=media&token=842ede27-fc3f-4e25-9da1-000ed1173159)
+- [Comenius-related document 1 (PDF)](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMichaelHaupt%2F2zqEUGLiTa.pdf?alt=media&token=777dbf2d-db68-4de3-9181-9b92b943dccd)
+- [Comenius-related document 2 (PDF)](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMichaelHaupt%2Fw7068SnWec.pdf?alt=media&token=67850320-b1ad-4bee-9971-af9db7a4fc79)
+- [Comenius-related document 3 (PDF)](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMichaelHaupt%2FOqLLI2ZQdu.pdf?alt=media&token=a1282957-c791-4d7f-9932-6fccb1a764a4)
+- [Comenius-related document 4 (PDF)](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMichaelHaupt%2F1gbZNzlJjH.pdf?alt=media&token=17d18d9b-a453-48dc-9fcf-704aef7ffeee)
+
+## External links
+
+- [Zachary Stein — *Education in a Time Between Worlds* (Amazon)](https://www.amazon.com/dp/0986282677/)
+- [John Amos Comenius (Wikipedia)](https://en.wikipedia.org/wiki/John_Amos_Comenius)
+- [John Amos Comenius (Britannica)](https://www.britannica.com/biography/John-Amos-Comenius)
+
 ## Related pages
 
 - [[substrate-hypothesis|The Substrate Hypothesis (glossary)]]
@@ -133,7 +157,9 @@ Three implications for wiki readers working outside the Moravian tradition:
 - Wikipedia and standard academic references for Jan Hus, Unitas Fratrum, Comenius, Battle of White Mountain, Herrnhut, Zinzendorf.
 - Dictionary of African Christian Biography for Georg Schmidt.
 - Clauser, R. (1961). Dissertation on Moravian educational practice. (Flagged as unread; key source for the pedagogical-lineage claim.)
+- Stein, Z. (2019). *Education in a Time Between Worlds: Essays on the Future of Schools, Technology, and Society*.
+- Stein, Z. "Education Must Make History Again: Remembering John Comenius in a Time Between Worlds."
 
 ## Provenance
 
-Extracted from *Comenius_to_Schmidt_Chain.md* in the BioConomy project. The Baviaanskloof/Genadendal site-specific outcomes and the Ward 2 project applications from the source have been removed for this international-audience version. The chain itself, the evidentiary status table, and the inferential-link discussion are preserved. The Clauser (1961) source remains the key unread work; any subsequent research pass that obtains it should update the epistemic status of the pedagogical-lineage claim.
+Extracted from *Comenius_to_Schmidt_Chain.md* in the [[glossary/bioconomy|BioConomy]] project. The Baviaanskloof/Genadendal site-specific outcomes and the Ward 2 project applications from the source have been removed for this international-audience version. The chain itself, the evidentiary status table, and the inferential-link discussion are preserved. The Clauser (1961) source remains the key unread work; any subsequent research pass that obtains it should update the epistemic status of the pedagogical-lineage claim. Zachary Stein section, digital library, and external links added from Roam Research graph (pages: John Comenius, Time Between Worlds, Zachary Stein), August 2026.

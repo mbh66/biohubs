@@ -27,7 +27,7 @@ A bioregion is a physical and cultural fact. It has a watershed, a biome, a set 
 
 Most of the work is organized inside institutions that predate the bioregional framing: municipal governments, catchment agencies, farming cooperatives, NGOs, corporations, churches, and schools. Each of these operates on its own logic. The logics do not automatically compose into a coherent bioregional whole. Where they do compose, it is because specific individuals or specific compacts have made them compose, in specific times, for specific reasons.
 
-Bioregional coordination is not required for a bioregion to exist. A bioregion can persist for centuries as a coherent ecological-cultural unit while its human coordination stays fragmented, extractive, or captured by outside logics. Cascadia is a bioregion. The Karoo is a bioregion. The Amazon watershed is a bioregion. Each has existed as a coherent unit for far longer than any coordination body that has attempted to hold it.
+Bioregional coordination is not required for a bioregion to exist. A bioregion can persist for centuries as a coherent ecological-cultural unit while its [[glossary/human-coordination|human coordination]] stays fragmented, [[glossary/extractive|extractive]], or captured by outside logics. Cascadia is a bioregion. The Karoo is a bioregion. The Amazon watershed is a bioregion. Each has existed as a coherent unit for far longer than any coordination body that has attempted to hold it.
 
 ## The BioRegion, and what has been added
 
@@ -49,7 +49,7 @@ The four components together produce a coordination substrate that changes what 
 
 A *BioRegion* can pool commitments across its actors and tender the pooled result. A *bioregion* can only host individual actors tendering their individual offers. The pooling capacity is the largest single functional difference.
 
-A *BioRegion* can be a counterparty to a nature-linked performance-based bond, a water fund, or a payment-for-ecosystem-services contract at the scale the instrument is written for. A *bioregion* cannot. The instruments require a coordinating body with the standing to hold the commitment, and a bioregion by itself has no such body.
+A *BioRegion* can be a counterparty to a nature-linked [[glossary/performance-based-bond|performance-based bond]], a water fund, or a payment-for-ecosystem-services contract at the scale the instrument is written for. A *bioregion* cannot. The instruments require a coordinating body with the standing to hold the commitment, and a bioregion by itself has no such body.
 
 A *BioRegion* can coordinate with other BioRegions across the emerging global field. Peer BioRegions have comparable coordination architectures, comparable documents, and comparable commitments; they can share learning, second cohort members, and align around inter-bioregional trade. A *bioregion* has no equivalent peer network at the same scale.
 
@@ -57,13 +57,13 @@ A BioRegion can hold cultural, ecological, and economic commitments across the p
 
 ## When a bioregion is not yet a BioRegion
 
-The most common case, by far. Almost every bioregion on earth today has the ecological-cultural coherence and lacks the coordination architecture. The [[people/eva-gladek|Metabolic]] mapping of 152 initiatives in mid-2026 identifies the bioregions where the coordinating work is under way, and even there the work is at various stages of completion.
+The most common case, by far. Almost every bioregion on earth today has the ecological-cultural coherence and lacks the coordination architecture. The [[eva-gladek|Metabolic]] mapping of 152 initiatives in mid-2026 identifies the bioregions where the coordinating work is under way, and even there the work is at various stages of completion.
 
 A bioregion is not yet a BioRegion where:
 
 - The work of the BioRegion Establishment Template has not been run. The boundary is felt but not chosen. The Atlas has not been assembled. The Charter has not been drafted.
-- A cohort has not been convened. Individual actors are doing regenerative work and nobody has taken responsibility for the coordination layer between them.
-- The commitment to the BioConomy framework has not been made explicit. The region has adjacent commitments (to sustainability, to conservation, to regenerative agriculture, or to community wealth-building) and has not adopted retention logic as its organizing principle.
+- A cohort has not been convened. Individual actors are doing [[glossary/regenerative|regenerative]] work and nobody has taken responsibility for the coordination layer between them.
+- The commitment to the BioConomy framework has not been made explicit. The region has adjacent commitments (to sustainability, to conservation, to regenerative agriculture, or to community wealth-building) and has not adopted [[glossary/retention-economics|retention]] logic as its organizing principle.
 
 None of these are failings. They describe the ordinary state of a bioregion whose coordinating layer has not yet been built. The essay [[essays/how-to-engage-your-bioregion|How to Engage Your Bioregion]] describes what building it looks like from the inside.
 

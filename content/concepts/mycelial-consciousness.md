@@ -17,7 +17,7 @@ Major Evolutionary Transitions in biology (Maynard Smith and Szathmáry, 1995) d
 
 Cognitive METs (Godfrey-Smith, Ginsburg and Jablonka) apply the same framework to cognition. They identify a sequence of transitions in how organisms perceive, learn, remember, and coordinate. The Mycelial Consciousness thesis proposes that human cognitive evolution is now at a fifth such transition, from Material Consciousness (the operating mode of the past twelve thousand years) to Mycelial Consciousness (the operating mode required to navigate what is emerging).
 
-The framework is a working hypothesis. It draws on Sahtouris and Margulis in biology, on Graves and Steiner in psychology and social philosophy, on Ronfeldt in coordination theory, and on the practitioner traditions (Bauwens on cosmo-local, Ruddick on commitment pooling, Life on bioregional economics) that are producing the observable expressions of the transition.
+The framework is a working hypothesis. It draws on Sahtouris and Margulis in biology, on Graves and Steiner in psychology and social philosophy, on Ronfeldt in coordination theory, and on the practitioner traditions (Bauwens on cosmo-local, Ruddick on commitment pooling, Life on [[glossary/bioregional-economics|bioregional economics]]) that are producing the observable expressions of the transition.
 
 ## The five stages
 
@@ -57,9 +57,9 @@ Mycelial Consciousness is the psychological substrate the [[frameworks/three-fut
 - [[endosymbiosis|Endosymbiosis (glossary)]]
 - [[second-tier-thinking|Second Tier Thinking (glossary)]]
 - [[stretch-collaboration|Stretch Collaboration (glossary)]]
-- [[people/clare-graves|Clare Graves]]
-- [[people/lynn-margulis|Lynn Margulis]]
-- [[people/elisabet-sahtouris|Elisabet Sahtouris]]
+- [[clare-graves|Clare Graves]]
+- [[lynn-margulis|Lynn Margulis]]
+- [[elisabet-sahtouris|Elisabet Sahtouris]]
 
 ## Sources
 
@@ -69,4 +69,4 @@ Mycelial Consciousness is the psychological substrate the [[frameworks/three-fut
 
 ## Provenance
 
-Extracted from references in *Overberg_BioHub_Founding_Brief_v0.3.md* (Section 9.2) and cross-referenced with the coordinator's April 2025 Framer OS essay on Mycelial Consciousness. Full essay text was not held in the project knowledge base; the framework material summarized here is drawn from the treatment across the Overberg brief and from the *I The Three Futures* Emancipation Architecture document. Enrichment from the essay text itself is a candidate for a subsequent pass.
+Extracted from references in *Overberg_BioHub_Founding_Brief_v0.3.md* (Section 9.2) and cross-referenced with the coordinator's April 2025 [[glossary/framer|Framer]] OS essay on Mycelial Consciousness. Full essay text was not held in the project knowledge base; the framework material summarized here is drawn from the treatment across the Overberg brief and from the *I The Three Futures* Emancipation Architecture document. Enrichment from the essay text itself is a candidate for a subsequent pass.

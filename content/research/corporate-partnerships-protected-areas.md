@@ -29,11 +29,11 @@ None of the 20 companies clearly disclosed governance of nature-related dependen
 
 The report references the King V Code on Corporate Governance, published late 2025 and effective 1 January 2026, as reinforcing board oversight of nature-related risks. It frames a shift away from "typical corporate social investment storytelling" toward robust nature-related risk management. This framing is the strategic opening a research brief proposing a PAMP partnership as an ESG/TNFD instrument (rather than CSR) can build on.
 
-The report does not highlight named protected-area investments. Its examples of nature-positive action center on water stewardship (WWF Water Risk Filter), regenerative agriculture, sustainable sourcing and traceability, and NGO partnerships. Even South Africa's leading nature-finance report treats protected-area co-funding as an emerging, under-exploited opportunity rather than established practice.
+The report does not highlight named protected-area investments. Its examples of nature-positive action center on water stewardship (WWF Water Risk Filter), [[glossary/regenerative|regenerative]] agriculture, sustainable sourcing and traceability, and NGO partnerships. Even South Africa's leading nature-finance report treats protected-area co-funding as an emerging, under-exploited opportunity rather than established practice.
 
 ## Sibanye-Stillwater: the leading South African corporate nature-disclosure precedent
 
-Confirmed as a TNFD Adopter on 5 November 2025 (announced 24 November 2025); will align corporate reporting with TNFD from FY2026. Sibanye is the only South African-domiciled mining company among the 27 metals, mining, steel, and extractive sector adopters globally.
+Confirmed as a TNFD Adopter on 5 November 2025 (announced 24 November 2025); will align corporate reporting with TNFD from FY2026. Sibanye is the only South African-domiciled mining company among the 27 metals, mining, steel, and [[glossary/extractive|extractive]] sector adopters globally.
 
 Sibanye's site-based biodiversity footprint accounting using the Biological Diversity Protocol was described as "a world first for mining companies" in 2022 (ICMM). On the World Benchmarking Alliance Nature Benchmark scorecard, Sibanye ranks 7th out of 102 metals and mining peers. Its strongest performance is in the ecosystems and biodiversity area (top performer). Its weakest is in social inclusion and community impact (first quartile). Sibanye maintains management plans for its own locations adjacent to areas important for biodiversity and discloses species status against IUCN and SANBI Red Lists.
 
@@ -61,9 +61,9 @@ The Paddavlei example is worth spelling out: a corporate ESG buyer could fund a 
 
 Woolworths was the first South African retailer to partner with WWF (2008) and is now in Phase III of a multi-year partnership covering water, carbon, biodiversity, and marine resources.
 
-Concrete outcomes: the Breede Catchment Water Stewardship programme, in partnership with Marks and Spencer, GIZ, the Alliance for Water Stewardship, and the Breede-Gouritz Catchment Management Agency, has resulted in 200 million litres of water being released into the catchment on a yearly basis. It catalysed the Groot Winterhoek strategic water source partnership (9,400 ha of biodiversity-rich fynbos secured under a 99-year stewardship agreement) and alien clearing in the Leeu River catchment.
+Concrete outcomes: the Breede Catchment Water Stewardship program, in partnership with Marks and Spencer, GIZ, the Alliance for Water Stewardship, and the Breede-Gouritz Catchment Management Agency, has resulted in 200 million litres of water being released into the catchment on a yearly basis. It catalyzed the Groot Winterhoek strategic water source partnership (9,400 ha of biodiversity-rich fynbos secured under a 99-year stewardship agreement) and alien clearing in the Leeu River catchment.
 
-The WWF water-stewardship partner roster is a ready list of corporates engaged in nature-positive landscape work. Woolworths, Nedbank, Sanlam, South African Breweries, Marks and Spencer, Mondi, Distell, and the Nedbank Green Trust have all funded clearing initiatives. Woolworths' funding further catalysed complementary funding from Nedbank, FirstRand Foundation, Coca-Cola, Finish, and PepsiCo in the Healthy Catchment Alliance.
+The WWF water-stewardship partner roster is a ready list of corporates engaged in nature-positive landscape work. Woolworths, Nedbank, Sanlam, South African Breweries, Marks and Spencer, Mondi, Distell, and the Nedbank Green Trust have all funded clearing initiatives. Woolworths' funding further catalyzed complementary funding from Nedbank, FirstRand Foundation, Coca-Cola, Finish, and PepsiCo in the Healthy Catchment Alliance.
 
 ## Nedbank: the South African bank TNFD/LEAP precedent
 
@@ -77,7 +77,7 @@ Haarwegskloof (largest connected renosterveld remnant) was declared a provincial
 
 ## SANParks corporate partnership precedents
 
-**TotalEnergies** sponsors SANParks' youth conservation education (WALOW) programme. Per SANParks: "To date, 9,496 learners and 397 tourism educators attended the programme. Annually, about R1.2m is spent on this project sponsored through the partnership with Total Energies." A named corporate co-funder of environmental education within and around national parks.
+**TotalEnergies** sponsors SANParks' youth conservation education (WALOW) program. Per SANParks: "To date, 9,496 learners and 397 tourism educators attended the programme. Annually, about R1.2m is spent on this project sponsored through the partnership with Total Energies." A named corporate co-funder of environmental education within and around national parks.
 
 **SANParks and Good Work Foundation** signed an MOU in 2025: digital learning campuses adjacent to national parks (Greater Kruger, then Addo Elephant, Golden Gate Highlands, Augrabies Falls), with internships and work placements.
 
@@ -99,15 +99,15 @@ Academic backing: iNaturalist research-grade data flows to GBIF. Peer-reviewed u
 
 ## Guardians of Earth and BioCultural Units: community-governed nature tokens
 
-Guardians of Earth offers Nature Realms (geofenced digital twins of a location's biocultural health, with a [[bioscore|BioScore]]) and BioCultural Units (a capped supply of one million units) explicitly marketed to organisations for corporate reports, marketing collateral, and aligned to the TNFD framework and UN SDGs. The platform claims real-time tracking of 85+ million observations from 350,000+ contributors and integrates iNaturalist, eBird, and QuestaGame.
+Guardians of Earth offers Nature Realms (geofenced digital twins of a location's biocultural health, with a [[bioscore|BioScore]]) and BioCultural Units (a capped supply of one million units) explicitly marketed to organizations for corporate reports, marketing collateral, and aligned to the TNFD framework and UN SDGs. The platform claims real-time tracking of 85+ million observations from 350,000+ contributors and integrates iNaturalist, eBird, and QuestaGame.
 
 No named company has been found to have actually purchased BCUs or used them in a published corporate ESG report or TNFD disclosure. The only concrete tokenization activity is an unlaunched proof-of-concept, "20 BCUs valued at approximately $60,000 ready for tokenization," posted on the Regen Network forum in September 2025 and mirrored on the Celo forum, where GoE admitted it had "no tokenization infrastructure in place."
 
-The Realms to Watch programme names custodian projects seeking impact investment (San Crisanto Foundation Mexico, Nakivale Refugee Settlement Uganda, University of Peradeniya Sri Lanka, Pustynia Błędowska Poland, Mandala Club Singapore, Nura Gunyu Aboriginal education Australia, Barefoot Ecology Centre India). No named corporate sponsor or buyer, and no verified protected-area management deployment.
+The Realms to Watch program names custodian projects seeking impact investment (San Crisanto Foundation Mexico, Nakivale Refugee Settlement Uganda, University of Peradeniya Sri Lanka, Pustynia Błędowska Poland, Mandala Club Singapore, Nura Gunyu Aboriginal education Australia, Barefoot Ecology Centre India). No named corporate sponsor or buyer, and no verified protected-area management deployment.
 
 ## International precedents for corporate-PAMP partnerships
 
-**US National Park Foundation** corporate partnerships: Union Pacific (Open OutDoors for Kids, connecting one million-plus kids to parks), Carhartt (Service Corps workforce/skills), The Coca-Cola Company (long-standing support). Direct corporate co-funding of park education, visitor experience, and workforce programmes.
+**US National Park Foundation** corporate partnerships: Union Pacific (Open OutDoors for Kids, connecting one million-plus kids to parks), Carhartt (Service Corps workforce/skills), The Coca-Cola Company (long-standing support). Direct corporate co-funding of park education, visitor experience, and workforce programs.
 
 **Gonarezhou National Park (Zimbabwe)**: Frankfurt Zoological Society plus Zimbabwe Parks collaborative management partnership (Gonarezhou Conservation Trust), governed by a Board with equal representation and five objectives (conservation, commercial, community, connectivity, corporate governance). A governance model for co-managed PAMPs with community investment in the zone of influence.
 
@@ -119,7 +119,7 @@ The Realms to Watch programme names custodian projects seeking impact investment
 
 ## The structural gap and the opportunity
 
-South Africa has a mature protected-area partnership infrastructure (CapeNature stewardship, SANParks socio-economic programmes, TMF's corporate "buy-a-project" mechanism) and a nascent but accelerating TNFD/King V disclosure regime. The two are rarely explicitly linked. Corporates fund conservation as CSI storytelling; TNFD adopters focus on portfolio and value-chain risk (water, commodities), not protected-area co-funding.
+South Africa has a mature protected-area partnership infrastructure (CapeNature stewardship, SANParks socio-economic programs, TMF's corporate "buy-a-project" mechanism) and a nascent but accelerating TNFD/King V disclosure regime. The two are rarely explicitly linked. Corporates fund conservation as CSI storytelling; TNFD adopters focus on portfolio and value-chain risk (water, commodities), not protected-area co-funding.
 
 The opportunity: reframe protected-area co-investment (invasive clearing, fire management, biodiversity monitoring, environmental education in a PAMP's zone of influence) as a TNFD Strategy / Metrics-and-Targets and King V governance instrument, backed by measurable biodiversity metrics (species richness, abundance) rather than CSI narrative.
 
@@ -155,9 +155,9 @@ International precedents for governance design: Gonarezhou (co-management board)
 - WWF South Africa (2026). *Fast-tracking Finance for Nature*.
 - TNFD (2025-2026). LEAP corporate case studies (Reckitt, JSW Steel, Enel, Nedbank).
 - CapeNature (2022). 2021/22 Annual Report.
-- SANParks (various). Corporate partnership documentation, including WALOW programme.
+- SANParks (various). Corporate partnership documentation, including WALOW program.
 - Overberg Renosterveld Trust and partners (various). Plaatjieskraal and Haarwegskloof documentation.
 
 ## Provenance
 
-Extracted from *Corporate Partnerships with Protected Area Management, Citizen Science, and Nature-Related Disclosures.md* in the BioConomy project. The 20-company assessment specifics are drawn from the WWF SA 2026 report; the Sibanye, Nedbank, and Sanlam adoption dates are drawn from public announcements. The Paddavlei case is the strongest single South African precedent for a corporate-fundable, PAMP-aligned intervention; other TMF-funded projects are named for context. The citizen-science-to-TNFD pathway is presented as an opportunity, not as an established practice, per the honest state of the evidence.
+Extracted from *Corporate Partnerships with Protected Area Management, Citizen Science, and Nature-Related Disclosures.md* in the [[glossary/bioconomy|BioConomy]] project. The 20-company assessment specifics are drawn from the WWF SA 2026 report; the Sibanye, Nedbank, and Sanlam adoption dates are drawn from public announcements. The Paddavlei case is the strongest single South African precedent for a corporate-fundable, PAMP-aligned intervention; other TMF-funded projects are named for context. The citizen-science-to-TNFD pathway is presented as an opportunity, not as an established practice, per the honest state of the evidence.

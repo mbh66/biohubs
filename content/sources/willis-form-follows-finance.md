@@ -14,9 +14,9 @@ source_project: "BioConomy"
 
 Willis, C. (1995). *Form Follows Finance: Skyscrapers and Skylines in New York and Chicago.* New York: Princeton Architectural Press.
 
-Willis's argument that skyscraper form is driven by land values, zoning, and speculative real-estate cycles, and not by pure architectural intent. The book supplies the analytical frame the Evolution of Coordination Nodes uses to read the skyscraper and the trading floor as the +M form's concentrating node, and to date the market form's contemporary decoupling from the emptying of Chicago's trading pits (2021) and rising urban-office vacancy rates.
+Willis's argument that skyscraper form is driven by land values, zoning, and speculative real-estate cycles, and not by pure architectural intent. The book supplies the analytical frame the Evolution of Coordination Nodes uses to read the skyscraper and the trading floor as the +M form's concentrating node, and to date the [[glossary/m-form-market|market form]]'s contemporary decoupling from the emptying of Chicago's trading pits (2021) and rising urban-office vacancy rates.
 
 ## Cited by
 
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
-- [[people/carol-willis|Carol Willis]]
+- [[carol-willis|Carol Willis]]

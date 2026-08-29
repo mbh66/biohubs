@@ -14,7 +14,7 @@ source_project: "BioConomy"
 
 Hamilton, A. (1791). *Report on the Subject of Manufactures*, delivered to the House of Representatives, 5 December 1791.
 
-The foundational document of the American retention tradition. Hamilton makes a broad-ranging case for government promotion of manufacturing through protective tariffs, direct bounties (subsidies) for infant industries, and federally funded internal improvements. Nearly every tariff recommendation in the *Report* was adopted by Congress in early 1792, though the bounty recommendations were rejected. The *Report* is the ancestor of Clay's American System, Carey's *Harmony of Interests*, List's *National System*, and Lincoln's Civil War program.
+The foundational document of the American [[glossary/retention-economics|retention]] tradition. Hamilton makes a broad-ranging case for government promotion of manufacturing through protective tariffs, direct bounties (subsidies) for infant industries, and federally funded internal improvements. Nearly every tariff recommendation in the *Report* was adopted by Congress in early 1792, though the bounty recommendations were rejected. The *Report* is the ancestor of Clay's American System, Carey's *Harmony of Interests*, List's *National System*, and Lincoln's Civil War program.
 
 ## Cited by
 

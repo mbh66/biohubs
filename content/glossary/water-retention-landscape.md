@@ -20,15 +20,15 @@ The operational science of catchment restoration, in which intact soil biology, 
 
 ## Sources and associated figures
 
-- [[people/michal-kravcik|Michal Kravčík]]
-- [[people/walter-jehne|Walter Jehne]]
-- [[people/sepp-holzer|Sepp Holzer]]
-- [[people/zach-weiss|Zach Weiss]]
-- [[people/rajendra-singh|Rajendra Singh]]
-- [[people/peter-andrews|Peter Andrews]]
-- [[people/john-d-liu|John D. Liu]]
-- [[people/andrew-millison|Andrew Millison]]
-- [[people/p-a-yeomans|P.A. Yeomans]]
+- [[michal-kravcik|Michal Kravčík]]
+- [[walter-jehne|Walter Jehne]]
+- [[sepp-holzer|Sepp Holzer]]
+- [[zach-weiss|Zach Weiss]]
+- [[rajendra-singh|Rajendra Singh]]
+- [[peter-andrews|Peter Andrews]]
+- [[john-d-liu|John D. Liu]]
+- [[andrew-millison|Andrew Millison]]
+- [[p-a-yeomans|P.A. Yeomans]]
 
 ## Provenance
 

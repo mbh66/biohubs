@@ -9,11 +9,11 @@ source_documents: ["EA Patron Project Criteria.md", "EA Patronage Research Brief
 epistemic_status: "documented-framework"
 ---
 
-Transvestment is capital crossing between value regimes: the structural move by which a wealth holder's assets migrate from one system of value into another. In the [[frameworks/emancipation-architecture|Emancipation Architecture]] context, transvestment is the move from private financial capital denominated in the declining extractive order into commons-held structures denominated in the emerging bioregional order.
+Transvestment is capital crossing between value regimes: the structural move by which a wealth holder's assets migrate from one system of value into another. In the [[frameworks/emancipation-architecture|Emancipation Architecture]] context, transvestment is the move from private financial capital denominated in the declining [[glossary/extractive|extractive]] order into [[glossary/commons|commons]]-held structures denominated in the emerging bioregional order.
 
 ## Overview
 
-The term originates in commons theory, most closely associated with David Bollier and Silke Helfrich, who used it to name the flow of capital from extractive to regenerative circuits without expectation of financial return in the original terms. Transvestment is distinct from investment (which expects a financial return in the same regime) and from divestment (which withdraws capital without redirecting it). It is a directional crossing: capital leaves one value logic and enters another.
+The term originates in commons theory, most closely associated with David Bollier and Silke Helfrich, who used it to name the flow of capital from extractive to [[glossary/regenerative|regenerative]] circuits without expectation of financial return in the original terms. Transvestment is distinct from investment (which expects a financial return in the same regime) and from divestment (which withdraws capital without redirecting it). It is a directional crossing: capital leaves one value logic and enters another.
 
 The Emancipation Architecture develops the term into an operational framework. Transvestment there names the specific move a wealth holder must make to reposition into the emerging bioregional order: not a donation, not an impact investment, not a legacy vehicle, but a structural relocation of capital into a substrate the market cannot re-enclose.
 
@@ -29,7 +29,7 @@ Transvestment is the move from the Fugger position to the Medici position, and b
 
 ## Why the move is one-directional
 
-The design of transvestment is one-directional by intent. Capital that enters a Bioregional Commons Trust cannot be pulled back into private holding. Land placed under a 99-year renewable ground lease structure (following Community Land Trust precedent) is held in perpetuity by the trust; the transvestor does not retain a reversion right. Reserve capital that backs a bioregional currency during establishment can be gradually returned only after the reserve ratio decreases as the bioregional economy matures, and only through mechanisms the community controls.
+The design of transvestment is one-directional by intent. Capital that enters a Bioregional Commons Trust cannot be pulled back into private holding. Land placed under a 99-year renewable ground lease structure (following Community Land Trust precedent) is held in perpetuity by the trust; the transvestor does not retain a reversion right. Reserve capital that backs a bioregional currency during establishment can be gradually returned only after the reserve ratio decreases as the bioregional [[glossary/economy|economy]] matures, and only through mechanisms the community controls.
 
 This one-directionality is what distinguishes transvestment from impact investment. Impact capital retains the option of exit. Transvestment forecloses that option by design. The trade the wealth holder makes is loss of extractive optionality in exchange for standing in the emerging order.
 
@@ -38,10 +38,10 @@ This one-directionality is what distinguishes transvestment from impact investme
 Transvestment operates through five documented pathways, treated at length in [[frameworks/five-transvestment-pathways|The Five Transvestment Pathways]]:
 
 - **Pathway A** — Land and productive assets into a Bioregional Commons Trust.
-- **Pathway B** — Fiat capital capitalizing the currency reserves of a Bioregional Financing Facility.
+- **Pathway B** — Fiat capital capitalizing the currency reserves of a [[glossary/bioregional-financing-facility-bff|Bioregional Financing Facility]].
 - **Pathway C** — Patient capital endowing regenerative enterprises through interest-free or below-market loans repaid in bioregional currency.
 - **Pathway D** — Intergenerational vehicles converting inheritance into commons endowment.
-- **Pathway E** — The demurrage dividend, in which a wealth holder living inside the bioregional economy contributes to the commons through the holding of currency itself.
+- **Pathway E** — The [[glossary/demurrage|demurrage]] dividend, in which a wealth holder living inside the bioregional economy contributes to the commons through the holding of currency itself.
 
 Pathways A, C, and D deploy using proven legal mechanics (Community Land Trusts, cooperative law, trust structures). Pathways B and E require construction of architecture that does not yet exist at the required scale. The asymmetry calibrates the ask to three patron profiles: the deployer (Pathways A, C, D), the builder (Pathway B), and the full transvestor (all five in sequence).
 
@@ -49,7 +49,7 @@ Pathways A, C, and D deploy using proven legal mechanics (Community Land Trusts,
 
 The transvestment argument comes with a claim about timing. The late Roman senatorial aristocracy is the historical anchor: a wealth cohort with vast landed estates and, in many members, the perception that the imperial order was changing, that failed as a class to reposition and was liquidated with the system it clung to. Cassiodorus was the exception; he retired from the Ostrogothic court and founded the Vivarium monastery, deliberately transferring classical learning into the emerging monastic-Christian substrate. Boethius was the cautionary case; he stayed inside the declining political order and was executed by it. The senatorial class chose Boethius's path.
 
-The claim is that a comparable window is currently open, and closing. What Cassiodorus did was rare but possible; what the senatorial class did was common and fatal. The transvestment proposition names the window and offers a specific architecture through which to make the crossing while the option remains.
+The claim is that a comparable window is currently open, and closing. What Cassiodorus did was rare but possible; what the senatorial class did was common and fatal. The transvestment proposition names [[glossary/alpha-window|the window]] and offers a specific architecture through which to make the crossing while the option remains.
 
 ## Related pages
 
@@ -59,8 +59,8 @@ The claim is that a comparable window is currently open, and closing. What Cassi
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
 - [[the-coercion-continuum|The Coercion Continuum]]
 - [[transvestment|Transvestment (glossary)]]
-- [[people/silke-helfrich|Silke Helfrich]]
-- [[people/david-bollier|David Bollier]]
+- [[silke-helfrich|Silke Helfrich]]
+- [[david-bollier|David Bollier]]
 
 ## Sources
 
@@ -68,4 +68,4 @@ The claim is that a comparable window is currently open, and closing. What Cassi
 
 ## Provenance
 
-Extracted from *EA Patron Project Criteria.md* and *EA Patronage Research Brief.md* in the BioConomy project. The concept's origin in Bollier and Helfrich is preserved; the operational development in the EA context is presented as the specific application this wiki treats. The Cassiodorus/Boethius anchor is drawn from the Research Brief's Cluster 5 case analysis.
+Extracted from *EA Patron Project Criteria.md* and *EA Patronage Research Brief.md* in the [[glossary/bioconomy|BioConomy]] project. The concept's origin in Bollier and Helfrich is preserved; the operational development in the EA context is presented as the specific application this wiki treats. The Cassiodorus/Boethius anchor is drawn from the Research Brief's Cluster 5 case analysis.

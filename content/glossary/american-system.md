@@ -18,7 +18,7 @@ updated: 2026-08-25
 epistemic_status: documented-framework
 ---
 
-The integrated developmental programme articulated by Henry Clay after the War of 1812 and implemented most fully by Abraham Lincoln during the Civil War. Three pillars: protective tariffs, a national bank, and federally funded internal improvements.
+The integrated developmental program articulated by Henry Clay after the War of 1812 and implemented most fully by Abraham Lincoln during the Civil War. Three pillars: protective tariffs, a national bank, and federally funded internal improvements.
 
 The system's intellectual root is Alexander Hamilton's *Report on the Subject of Manufactures* (1791). Its theoretical elaboration came from Henry Carey. Its most complete implementation ran from the Morrill Tariff (1861) through the National Banking Acts (1863 and 1864), the Homestead Act (1862), the Pacific Railway Acts (1862 and 1864), the Morrill Land-Grant College Act (1862), and the greenback issuance under the Legal Tender Acts.
 

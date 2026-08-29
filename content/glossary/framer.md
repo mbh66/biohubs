@@ -1,26 +1,38 @@
 ---
 title: "Framer"
-aliases: ["framer", "fourth entrepreneurial revolution"]
-tags: ["glossary", "consciousness", "entrepreneurship"]
+aliases: ["framer", "the Framer", "Framer archetype"]
+tags: ["glossary", "core-concept"]
 term_type: "coined"
-first_defined_in: "Mycelial Consciousness essay (April 2025)"
-related_terms: ["mycelial-consciousness", "mycelial-coordination"]
+first_defined_in: "V2_Mycelial_Thesis.md"
+related_terms: ["farmer-forger-founder-framer", "mycelial-consciousness", "crisis-codes"]
 source_project: "BioConomy"
-created: 2026-08-25
-updated: 2026-08-25
-epistemic_status: "working-hypothesis"
 ---
 
-The fourth revolution of entrepreneurship in Michael Haupt's four-revolutions framework: Farmer, Forger, Founder, Framer. The Framer is the entrepreneurial form emerging from and required by the Mycelial Consciousness transition: a coordinator who designs the substrate on which others operate, rather than a founder who builds a company that extracts.
+The fourth archetype in the [[frameworks/farmer-forger-founder-framer|Farmer-Forger-Founder-Framer]] sequence: the person whose domain of production is consciousness itself, who creates the conditions under which distributed intelligence can emerge.
 
-The framework is developed in the coordinator's Framer OS body of work and remains a working hypothesis in the wiki. The four revolutions map roughly to the four TIMN forms: Farmer (T, subsistence and kinship-based cultivation), Forger (+I, hierarchical industrial-craft production), Founder (+M, market-facing enterprise), Framer (+E/+N, mycelial substrate design).
+## Extended Definition
 
-## Related terms
+The Framer applies consciousness to consciousness itself. Where the Farmer works nature, the Forger works technique, and the Founder works systems, the Framer works worldview. The Framer does not produce a product. The Framer produces a pattern of connection that enables a network to learn faster than any individual node.
 
-- [[mycelial-consciousness|Mycelial Consciousness]]
-- [[mycelial-coordination|Mycelial Coordination]]
-- [[threshold-guide|Threshold Guide]]
+This is Mycelial V2: the application of distributed intelligence to ecological participation. The Framer creates the interpretive framework within which this form of value creation becomes possible. Without the Framer, communities default to Material V2 (concentrated intelligence, captured gains) even when they intend to operate differently.
+
+The Framer's function is what the BioConomy corpus calls threshold guidance: dual vision that witnesses what is composting while tending what is sprouting.
+
+## Contrast with Adjacent Terms
+
+The Framer is not a teacher, coach, or consultant in the conventional sense. Those roles typically operate within an existing paradigm, helping people perform better within it. The Framer operates at the boundary between paradigms, helping people develop the interpretive capacity to perceive and participate in the emerging one. The Founder creates within the existing system at scale. The Framer creates the conditions under which a new system becomes intelligible.
+
+## Usage in Context
+
+"The Framer applies consciousness to consciousness itself, creating the conditions under which distributed intelligence can emerge (Mycelial V2). The Framer does not produce a product. The Framer produces a *pattern of connection* that enables a network to learn faster than any individual node." (V2_Mycelial_Thesis.md, Part 6)
+
+## Related Terms
+
+- [[glossary/material-consciousness|Material Consciousness]]
+- [[glossary/mycelial-consciousness|Mycelial Consciousness]]
+- [[glossary/crisis-codes|Crisis Codes]]
 
 ## Sources
 
-- Haupt, M. (2025). "Mycelial Consciousness." Framer OS, 12 April 2025.
+- [[sources/kegan-in-over-our-heads|Kegan, R. (1994). In Over Our Heads]]
+- [[sources/graves-human-nature-prepares|Graves, C.W. (1974). Human Nature Prepares for a Momentous Leap]]

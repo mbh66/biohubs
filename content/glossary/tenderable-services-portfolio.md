@@ -29,11 +29,11 @@ The six service categories:
 
 **Food systems.** Regeneratively produced food, cooperative supply chain participation, food security contributions. Tendered to food supply chains, cooperative buyers, and food-system philanthropy.
 
-**Coordination-as-employment.** The BioHub's convening and verification capacity as a service to external counterparties, and the pathway to [[gainful employment|gainful employment]] for community members. Structurally equivalent to the other five services rather than an afterthought.
+**Coordination-as-employment.** The BioHub's convening and verification capacity as a service to external counterparties, and the pathway to gainful employment for community members. Structurally equivalent to the other five services rather than an afterthought.
 
 ## Contrast with adjacent framings
 
-A service catalogue lists offerings ranked by demand. The Tenderable Services Portfolio holds all six with their retention logic named, whether or not the cohort is currently tendering each. The catalogue is transactional; the portfolio is coordinative.
+A service catalog lists offerings ranked by demand. The Tenderable Services Portfolio holds all six with their retention logic named, whether or not the cohort is currently tendering each. The catalog is transactional; the portfolio is coordinative.
 
 A single-product pitch focuses attention on one offer. The portfolio framing keeps the full retention economy of the BioRegion visible. A BioHub tendering water yield alone still holds the biodiversity data, heritage, and coordination-as-employment services in its portfolio; they may become the priority tenders of a later cycle.
 

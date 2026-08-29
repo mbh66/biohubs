@@ -31,7 +31,7 @@ The Economic Policy Institute Wage Calculator (2025) reports that net productivi
 
 ### Debt saturation
 
-The Institute of International Finance Global Debt Monitor (February 2025) reports that global debt reached 318 trillion dollars in 2024, the first annual increase in the debt-to-GDP ratio since 2020, at nearly 328 percent of GDP. Emerging-market debt reached an all-time high of over 245 percent of GDP. Rising debt-to-output ratios are consistent with an economy extracting growth from future claims rather than present surplus.
+The Institute of International Finance Global Debt Monitor (February 2025) reports that global debt reached 318 trillion dollars in 2024, the first annual increase in the debt-to-GDP ratio since 2020, at nearly 328 percent of GDP. Emerging-market debt reached an all-time high of over 245 percent of GDP. Rising debt-to-output ratios are consistent with an [[glossary/economy|economy]] extracting growth from future claims rather than present surplus.
 
 ### Diminishing returns to complexity
 
@@ -43,7 +43,7 @@ Declining birth rates across developed and increasingly developing economies are
 
 ## Why they matter together
 
-Each indicator would be interpretable in isolation. Together, they describe a system that is running into limits on multiple axes at once. The ecological substrate is degrading. The energy surplus is falling. The distributive gains from growth are drying up. The financial claims on future output are compounding faster than the output. The returns to added coordination complexity are declining. These are the conditions under which throughput logic becomes maladaptive and retention logic becomes fit.
+Each indicator would be interpretable in isolation. Together, they describe a system that is running into limits on multiple axes at once. The ecological substrate is degrading. The energy surplus is falling. The distributive gains from growth are drying up. The financial claims on future output are compounding faster than the output. The returns to added coordination complexity are declining. These are the conditions under which [[glossary/throughput|throughput]] logic becomes maladaptive and [[glossary/retention-economics|retention]] logic becomes fit.
 
 ## Caveats
 

@@ -9,7 +9,7 @@ source_documents: ["EA Patron Project Criteria.md"]
 epistemic_status: "documented-framework"
 ---
 
-The Five Transvestment Pathways are the specific mechanisms by which a wealth holder's assets migrate from an incumbent regime of value into the emerging commons-based order. Each pathway serves a distinct patron profile and uses a distinct combination of legal, financial, and monetary instruments.
+The Five Transvestment Pathways are the specific mechanisms by which a wealth holder's assets migrate from an incumbent regime of value into the emerging [[glossary/commons|commons]]-based order. Each pathway serves a distinct patron profile and uses a distinct combination of legal, financial, and monetary instruments.
 
 ## Overview
 
@@ -27,15 +27,15 @@ The asymmetry between the pathways is intentional. Pathways A, C, and D use prov
 
 **Structural consequence:** The transferred assets become the ecological backing for the bioregional currency. The patron's standing in the bioregional order is now tied to the health of the substrate their capital funded. Board seats and decision authority do not follow the capital; they follow participation and contribution.
 
-**Precedent:** The US Community Land Trust movement (from 1969 onward) provides the direct template. New Communities Inc. in Georgia, the first CLT in the United States, was founded in 1969 by civil rights activists. The National Community Land Trust Network now catalogues over 260 CLTs in the US alone. UK, Canadian, and Australian variants exist. South Africa's Communal Property Association Act 28 of 1996 provides the local statutory pathway.
+**Precedent:** The US Community Land Trust movement (from 1969 onward) provides the direct template. New Communities Inc. in Georgia, the first CLT in the United States, was founded in 1969 by civil rights activists. The National Community Land Trust Network now catalogs over 260 CLTs in the US alone. UK, Canadian, and Australian variants exist. South Africa's Communal Property Association Act 28 of 1996 provides the local statutory pathway.
 
 **Patron profile:** The deployer with land or productive assets to transfer. Also available to the full transvestor as the first move in a sequence.
 
 ## Pathway B: Fiat capital into currency reserves
 
-**Legal mechanic:** Capitalization of the Bioregional Financing Facility's currency reserve. Full reserve during the establishment phase, with the reserve ratio decreasing as the bioregional economy matures.
+**Legal mechanic:** Capitalization of the Bioregional Financing Facility's currency reserve. Full reserve during the establishment phase, with the reserve ratio decreasing as the bioregional [[glossary/economy|economy]] matures.
 
-**What the patron does:** Deploys fiat capital as the currency reserve backing bioregional currency issuance at establishment. The reserve backs RPI (Regenerative Participation Income) issuance during the phase when the bioregional economy is not yet mature enough to back the currency on its own substrate.
+**What the patron does:** Deploys fiat capital as the currency reserve backing bioregional currency issuance at establishment. The reserve backs RPI ([[glossary/regenerative|Regenerative]] Participation Income) issuance during the phase when the bioregional economy is not yet mature enough to back the currency on its own substrate.
 
 **Structural consequence:** The patron's capital enables the bioregional currency to function during the transition period, when substrate-backed issuance would be insufficient to support the coordination work required to build the substrate. As the bioregional economy matures and substrate backing becomes viable, the reserve ratio decreases and the original capital can be gradually returned to the patron on terms the community controls.
 
@@ -47,11 +47,11 @@ The asymmetry between the pathways is intentional. Pathways A, C, and D use prov
 
 **Legal mechanic:** Interest-free or below-market loans to regenerative enterprises, repaid in bioregional currency. Yields must be spent locally or gifted onward, keeping capital cycling through the commons.
 
-**What the patron does:** Provides patient capital (long-tenor, non-extractive terms) to regenerative enterprises operating within the bioregion. Loans are repaid in bioregional currency, which the patron either spends locally or gifts to the commons. The capital cycles through the bioregional economy rather than exiting to distant shareholders.
+**What the patron does:** Provides patient capital (long-tenor, non-[[glossary/extractive|extractive]] terms) to regenerative enterprises operating within the [[glossary/bioregion|bioregion]]. Loans are repaid in bioregional currency, which the patron either spends locally or gifts to the commons. The capital cycles through the bioregional economy rather than exiting to distant shareholders.
 
 **Structural consequence:** Regenerative enterprises gain access to capital on terms compatible with their business model and time horizon. The patron's capital circulates within the bioregion rather than being extracted. Yields, denominated in bioregional currency, either fund the patron's continued participation in the bioregional economy or return to the commons through gift.
 
-**Precedent:** Patient capital and impact-first investment have significant contemporary practice, though most operate within extractive currency and expect exit on standard terms. The pathway here is distinctive in that the loans are denominated in bioregional currency for repayment, closing the extractive exit loop. Grameen-style microfinance provides the tenor and terms precedent; the bioregional currency repayment provides the retention feature.
+**Precedent:** Patient capital and impact-first investment have significant contemporary practice, though most operate within extractive currency and expect exit on standard terms. The pathway here is distinctive in that the loans are denominated in bioregional currency for repayment, closing the extractive exit loop. Grameen-style microfinance provides the tenor and terms precedent; the bioregional currency repayment provides the [[glossary/retention-economics|retention]] feature.
 
 **Patron profile:** The deployer with liquid capital and a preference for continued participation in a specific bioregion. Also available to the full transvestor as the deployment channel for capital that Pathway A cannot absorb.
 

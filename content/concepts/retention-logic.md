@@ -9,13 +9,13 @@ source_documents: ["BioConomy_and_the_BioStack.md", "Water_as_Compound_TIME_Asse
 epistemic_status: "documented-framework"
 ---
 
-Retention logic is the operating principle of an economy measured by what it holds in place, restores, and passes on, rather than by the volume of what it converts and moves out.
+Retention logic is the operating principle of an [[glossary/economy|economy]] measured by what it holds in place, restores, and passes on, rather than by the volume of what it converts and moves out.
 
 ## Overview
 
 Every economy has an operating logic. That logic is the answer to a single question: what does the system count as success? Throughput logic counts flow. It rewards volume, velocity, and sectoral growth, and treats the substrate on which flow depends as an input that shows up at the market price. Retention logic counts stock. It rewards what stays in the landscape, in the community, and in the culture, and treats flow as a means to that end.
 
-The distinction is structural, not moral. A [[throughput|throughput]] economy is not, by definition, extractive; a retention economy is not, by definition, generous. Each is a coordination form matched to a phase of the [[s-curve|civilizational S-curve]]. Throughput was the operating logic that fit the steep ascent. Retention is the operating logic that fits the deceleration phase now underway.
+The distinction is structural, not moral. A [[throughput|throughput]] economy is not, by definition, [[glossary/extractive|extractive]]; a retention economy is not, by definition, generous. Each is a coordination form matched to a phase of the [[s-curve|civilizational S-curve]]. Throughput was the operating logic that fit the steep ascent. Retention is the operating logic that fits the [[glossary/deceleration-phase|deceleration phase]] now underway.
 
 Retention logic is the organizing principle of the [[bioconomy|BioConomy]]. Everything on this wiki that describes the BioConomy — from the [[biostack|BioStack]] to [[commitment-pool|commitment pooling]] to [[water-retention-landscape|water retention landscapes]] — is an instantiation of it.
 
@@ -46,7 +46,7 @@ These are early instruments. They inherit the [[decoupling-risk|decoupling risk]
 
 ## Retention versus regeneration
 
-Retention logic sits inside the broader field of [[regenerative-economics|regenerative economics]]. The two are not synonyms. Regeneration is a temporal claim: the system is doing net positive work on its substrate. Retention is a stock claim: the substrate is being held, restored, or built. A retention economy that is also regenerative is one that holds what it has and is adding to it. A retention economy that has stabilized at a lower carrying capacity is retaining but not regenerating.
+Retention logic sits inside the broader field of [[regenerative-economics|regenerative economics]]. The two are not synonyms. Regeneration is a temporal claim: the system is doing net positive work on its substrate. Retention is a stock claim: the substrate is being held, restored, or built. A retention economy that is also [[glossary/regenerative|regenerative]] is one that holds what it has and is adding to it. A retention economy that has stabilized at a lower carrying capacity is retaining but not regenerating.
 
 The distinction matters at the design stage. Regeneration is the direction of travel that a retention economy commits to. Retention is the operating discipline that makes regeneration possible over time.
 

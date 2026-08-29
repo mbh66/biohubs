@@ -9,7 +9,7 @@ source_documents: ["Research_Brief_Growth_Economics.md"]
 epistemic_status: "structural-inference"
 ---
 
-The S-Curve Thesis is the analytical claim that every historical retention-economics figure worked during the steep acceleration phase of the industrial [[s-curve|S-curve]], or at its approach, and that this timing determined their fate: retention succeeded when it coincided with a nation's own catch-up industrialization and failed where it challenged the throughput order's access to peripheral resources.
+The S-Curve Thesis is the analytical claim that every historical [[glossary/retention-economics|retention]]-economics figure worked during the steep acceleration phase of the industrial [[s-curve|S-curve]], or at its approach, and that this timing determined their fate: retention succeeded when it coincided with a nation's own catch-up industrialization and failed where it challenged the [[glossary/throughput|throughput]] order's access to peripheral resources.
 
 ## Overview
 
@@ -33,7 +33,7 @@ The figures fall into four groups by their S-curve position.
 
 ### Steep acceleration, ideas implemented
 
-**Henry Clay (1816 to 1850).** American System (tariffs, national bank, internal improvements) enacted through the antebellum tariff wall despite Nullification-Crisis opposition.
+**Henry Clay (1816 to 1850).** [[glossary/american-system|American System]] (tariffs, national bank, internal improvements) enacted through the antebellum tariff wall despite Nullification-Crisis opposition.
 
 **Henry Carey (1851 to 1865).** Advised Lincoln and Treasury Secretary Chase; helped shape the Morrill Tariff of 1861. United States manufacturing became the largest in the world by 1900.
 
@@ -59,7 +59,7 @@ The figures fall into four groups by their S-curve position.
 
 **One.** Retention succeeded when the local S-curve position and the mechanism aligned. Hamilton was too early; Lincoln was on time; Sankara was in the wrong location relative to the throughput order.
 
-**Two.** The mechanism of failure in the periphery cases was reversal, not persuasion. Coups (Iran 1953, Burkina Faso 1987), suspicious deaths (Italy 1962), and structural adjustment (developing world 1980s and 1990s) were the mechanisms by which retention was defeated. The historical record excludes ideological refutation as an explanation.
+**Two.** The mechanism of failure in the periphery cases was reversal, not persuasion. Coups (Iran 1953, Burkina Faso 1987), suspicious deaths (Italy 1962), and [[glossary/washington-consensus|structural adjustment]] (developing world 1980s and 1990s) were the mechanisms by which retention was defeated. The historical record excludes ideological refutation as an explanation.
 
 **Three.** If the deceleration indicators (see [[concepts/deceleration-indicators|Deceleration Indicators]]) are read correctly, the same mechanisms that removed Mattei and Mosaddegh and Sankara should be less effective now, because the gradient of the global curve has shifted. Whether that prediction holds is testable against the Sahel wave and against the durability of industrial policy in the United States and the European Union over the next two to three years.
 

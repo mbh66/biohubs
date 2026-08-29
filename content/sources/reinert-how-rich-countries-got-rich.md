@@ -14,7 +14,7 @@ source_project: "BioConomy"
 
 Reinert, E. S. (2007). *How Rich Countries Got Rich and Why Poor Countries Stay Poor*. London: Constable.
 
-Reinert generalizes the retention-tradition documentation across five centuries, from Renaissance Italy through the Cameralists to the modern Far East. His central mechanism is the distinction between increasing-returns activities (manufacturing) and diminishing-returns activities (raw-material extraction), and his central policy argument is that development requires state intervention, protection, and strategic investment aimed at moving a country into increasing-returns activities. Free trade is the luxury affordable only after a productive base is established. The book is the primary companion to Chang's *Kicking Away the Ladder* and, together with it, supplies most of the peer-reviewed economic-history basis for the retention lineage.
+Reinert generalizes the [[glossary/retention-economics|retention]]-tradition documentation across five centuries, from Renaissance Italy through the Cameralists to the modern Far East. His central mechanism is the distinction between increasing-returns activities (manufacturing) and diminishing-returns activities (raw-material extraction), and his central policy argument is that development requires state intervention, protection, and strategic investment aimed at moving a country into increasing-returns activities. Free trade is the luxury affordable only after a productive base is established. The book is the primary companion to Chang's *Kicking Away the Ladder* and, together with it, supplies most of the peer-reviewed economic-history basis for the retention lineage.
 
 ## Cited by
 

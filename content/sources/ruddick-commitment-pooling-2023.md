@@ -14,10 +14,10 @@ source_project: "BioConomy"
 
 Ruddick, W. O. (2023). "Commitment Pooling: An Economic Protocol Inspired by Ancestral Wisdom." *International Journal of Community Currency Research* 27: 54-79.
 
-The formal paper introducing the Commitment Pooling Protocol. Ruddick sets out the four functions of the protocol (curation, valuation, limitation, and exchange), grounds the design in the Mweria rotating labor tradition of coastal Kenya, and connects the community-scale mechanism to Keynes's clearing-union idea by way of Leanne Ussher's structural comparison.
+The formal paper introducing the Commitment Pooling Protocol. Ruddick sets out the four functions of the protocol (curation, valuation, limitation, and exchange), grounds the design in the [[glossary/mweria|Mweria]] rotating labor tradition of coastal Kenya, and connects the community-scale mechanism to Keynes's clearing-union idea by way of Leanne Ussher's structural comparison.
 
 ## Cited by
 
 - [[concepts/commitment-pooling|Commitment Pooling]]
-- [[people/will-ruddick|Will Ruddick]]
+- [[will-ruddick|Will Ruddick]]
 - [[glossary/curation-valuation-limitation-exchange|Curation, valuation, limitation, exchange (glossary)]]

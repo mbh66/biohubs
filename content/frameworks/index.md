@@ -13,17 +13,17 @@ Named analytical structures such as TIMN, the S-Curve Thesis, and the Emancipati
 
 ## Overview
 
-A framework page treats a named structure whose parts work together as an analytical device: a lens through which the BioConomy question can be read, or a description of how one part of the corpus fits with the others. Frameworks are more formal than [[concepts/index|concepts]] and more portable than [[essays/index|essays]]. Each framework has been named, refined by the corpus, and applied in specific pieces of research or template work.
+A framework page treats a named structure whose parts work together as an analytical device: a lens through which the [[glossary/bioconomy|BioConomy]] question can be read, or a description of how one part of the corpus fits with the others. Frameworks are more formal than [[concepts/index|concepts]] and more portable than [[essays/index|essays]]. Each framework has been named, refined by the corpus, and applied in specific pieces of research or template work.
 
-Some frameworks are borrowed and used with a specific technical sense (TIMN from Ronfeldt, panarchy from Holling and Gunderson). Others are named originally within the corpus (the Emancipation Architecture, the BioConomy-specific formulation of the S-Curve Thesis).
+Some frameworks are borrowed and used with a specific technical sense (TIMN from Ronfeldt, [[glossary/panarchy|panarchy]] from Holling and Gunderson). Others are named originally within the corpus (the Emancipation Architecture, the BioConomy-specific formulation of the S-Curve Thesis).
 
 ## Where to start
 
-- [[frameworks/timn|The TIMN Framework]]. Tribal, Institutional, Market, Emergent: the four forms of human coordination Ronfeldt identified, and the analytical vocabulary the wiki uses throughout.
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]. The developmental arc that makes retention logic legible now.
-- [[frameworks/emancipation-architecture|The Emancipation Architecture]]. The monetary and coordination architecture that inverts the twelve-thousand-year Coercion Continuum.
-- [[frameworks/three-lineages|The Three Lineages]]. Throughput, Retention, Regenerative: the three approaches to economic thinking BioConomy positions itself against.
-- [[frameworks/five-transvestment-pathways|The Five Transvestment Pathways]]. The pathways by which capital moves from the Economy into the BioConomy substrate.
+- [[frameworks/timn|The TIMN Framework]]. Tribal, Institutional, Market, Emergent: the four forms of [[glossary/human-coordination|human coordination]] Ronfeldt identified, and the analytical vocabulary the wiki uses throughout.
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]. The developmental arc that makes [[glossary/retention-economics|retention]] logic legible now.
+- [[frameworks/emancipation-architecture|The Emancipation Architecture]]. The monetary and coordination architecture that inverts the twelve-thousand-year [[glossary/coercion-continuum|Coercion Continuum]].
+- [[frameworks/three-lineages|The Three Lineages]]. [[glossary/throughput|Throughput]], Retention, [[glossary/regenerative|Regenerative]]: the three approaches to economic thinking BioConomy positions itself against.
+- [[frameworks/five-transvestment-pathways|The Five Transvestment Pathways]]. The pathways by which capital moves from the [[glossary/economy|Economy]] into the BioConomy substrate.
 - [[frameworks/time-framework|The TIME Framework]]. Related to TIMN; the diagnostic form used alongside the templates suite.
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]. The physical structures each coordination form has produced as it matured.
 

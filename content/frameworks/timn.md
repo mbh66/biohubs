@@ -9,7 +9,7 @@ source_documents: ["TIMN_Framework_Notion_Export"]
 epistemic_status: "documented-framework"
 ---
 
-TIMN is a theoretical framework that categorizes the evolution of societal organization into four fundamental forms: Tribes (T), Institutions (I), Markets (M), and Networks (N). It was developed by RAND analyst [[people/david-ronfeldt|David Ronfeldt]] and first set out in his 1996 paper *Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution*.
+TIMN is a theoretical framework that categorizes the evolution of societal organization into four fundamental forms: Tribes (T), Institutions (I), Markets (M), and Networks (N). It was developed by RAND analyst [[david-ronfeldt|David Ronfeldt]] and first set out in his 1996 paper *Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution*.
 
 ## Overview
 
@@ -54,7 +54,7 @@ In the concept-building portion of his more recent writing, Ronfeldt argues that
 ## Related pages
 
 - [[frameworks/time-framework|The TIME Framework]]
-- [[people/david-ronfeldt|David Ronfeldt]]
+- [[david-ronfeldt|David Ronfeldt]]
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
 - [[glossary/human-coordination|Human Coordination]]
 
@@ -65,4 +65,4 @@ In the concept-building portion of his more recent writing, Ronfeldt argues that
 
 ## Provenance
 
-Extracted from *TIMN Framework* (Notion export, September 2026). The Ronfeldt 2025 Substack references were preserved from the source and are treated as primary but non-book sources: they update the framework's terminology without altering its analytical structure. The overlapping content with the TIME Framework page has been kept minimal here to avoid duplication; TIME is the wiki's working vocabulary.
+Extracted from *[[content/glossary/timn|TIMN Framework]]* (Notion export, September 2026). The Ronfeldt 2025 Substack references were preserved from the source and are treated as primary but non-book sources: they update the framework's terminology without altering its analytical structure. The overlapping content with the TIME Framework page has been kept minimal here to avoid duplication; TIME is the wiki's working vocabulary.

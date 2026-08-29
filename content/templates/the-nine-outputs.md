@@ -15,7 +15,7 @@ The nine documents the three establishment templates produce, and the three addi
 
 The [[index|founding suite]] produces documents in a consistent tripartite pattern. Each template's Prompt 3 delivers three documents: a short formal Statement or Definition, a long referential Evidence Pack or Atlas, and a short co-signed Compact or Charter. Across the three establishment templates, this yields nine outputs. The fourth template adds three more per instrument aligned.
 
-Twelve documents in total for a BioHub aligned to one instrument. Fifteen for a BioHub aligned to two. And so on.
+Twelve documents in total for a [[glossary/biohub|BioHub]] aligned to one instrument. Fifteen for a BioHub aligned to two. And so on.
 
 ## From the BioHub Identity Template
 
@@ -27,7 +27,7 @@ Twelve documents in total for a BioHub aligned to one instrument. Fifteen for a 
 
 ## From the BioRegion Establishment Template
 
-**4. BioRegion Definition.** Short, formal, foundational reference document. Five to ten pages. States the BioRegion's boundaries, the reasoning behind them, the reconciliation of ecological and cultural boundaries, the coordination bodies recognized within, and the multi-BioHub context. Read by counterparties, funders, and peer BioHubs asking "what is your BioRegion?"
+**4. [[glossary/bioregion|BioRegion]] Definition.** Short, formal, foundational reference document. Five to ten pages. States the BioRegion's boundaries, the reasoning behind them, the reconciliation of ecological and cultural boundaries, the coordination bodies recognized within, and the multi-BioHub context. Read by counterparties, funders, and peer BioHubs asking "what is your BioRegion?"
 
 **5. BioRegion Atlas.** Long, structured referential document. Thirty to sixty pages. Compiles the ecological, hydrological, jurisdictional, cultural, institutional, infrastructural, and climate profiles of the BioRegion, plus the [[water-retention-landscapes|Water Retention Landscape]] baseline, the soil carbon baseline, and the biodiversity inventory. Read by the cohort when planning specific coordination work, by scientific and academic partners, and by counterparties conducting technical due diligence.
 
@@ -37,7 +37,7 @@ Twelve documents in total for a BioHub aligned to one instrument. Fifteen for a 
 
 **7. Value Proposition Statement.** Short, formal, foundational reference document. Five to ten pages. States what the BioHub tenders and why, populated from the six-panel [[glossary/value-proposition-canvas-bioconomy|BioConomy Value Proposition Canvas]]. Summarizes the external face (counterparties) and the internal face (participants). Read by counterparties, capital patrons, community members, and peer BioHubs as the BioHub's canonical introduction to its offer.
 
-**8. Value Proposition Evidence Pack.** Long, structured referential document. Thirty to fifty pages. Compiles counterparty profiles, participant profiles, market signals, mechanisms, precedent cases, retention economics scaffolding, the [[glossary/readiness-diagnostic|readiness diagnostic]], and the [[glossary/gap-register|gap register]]. Read by the cohort when preparing specific tenders, by counterparties conducting due diligence, and by participants understanding what the BioHub's coordination will require of them.
+**8. Value Proposition Evidence Pack.** Long, structured referential document. Thirty to fifty pages. Compiles counterparty profiles, participant profiles, market signals, mechanisms, precedent cases, [[glossary/retention-economics|retention economics]] scaffolding, the [[glossary/readiness-diagnostic|readiness diagnostic]], and the [[glossary/gap-register|gap register]]. Read by the cohort when preparing specific tenders, by counterparties conducting due diligence, and by participants understanding what the BioHub's coordination will require of them.
 
 **9. [[glossary/tender-compact|Tender Compact]].** Governance and commitment document. Five to ten pages. Co-signed by the cohort and, where applicable, by counterparty and participant representatives. Establishes what the BioHub commits to tender, on what retention terms, to which counterparties and participants. Read by counterparties entering into specific tender agreements (the agreements reference this Compact by co-signature), and by the cohort holding itself accountable to its tender commitments.
 

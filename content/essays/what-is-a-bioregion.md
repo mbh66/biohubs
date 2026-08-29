@@ -29,7 +29,7 @@ Four features together define a bioregion. No one of them alone is sufficient.
 
 **Cultural continuity.** Communities live in bioregions. Their languages, their food traditions, their ceremonies, their working knowledge of what grows where and when, all developed in relationship to the specific place. In some bioregions the cultural continuity is unbroken; in others it has been interrupted, dispersed, or displaced, and part of the coordination work is repair rather than preservation.
 
-**Coordination necessity.** A bioregion is legible as a bioregion when the actors within it need to coordinate to hold what they share. A community-owned water scheme, a landscape-scale restoration effort, a food system spanning multiple farms and towns, a tourism economy grounded in a heritage-anchored place: each of these needs coordination across the whole to function well. The bioregion is the scale at which the coordination has to happen.
+**Coordination necessity.** A bioregion is legible as a bioregion when the actors within it need to coordinate to hold what they share. A community-owned water scheme, a landscape-scale restoration effort, a food system spanning multiple farms and towns, a tourism [[glossary/economy|economy]] grounded in a heritage-anchored place: each of these needs coordination across the whole to function well. The bioregion is the scale at which the coordination has to happen.
 
 ## Where ecological and cultural boundaries diverge
 
@@ -37,7 +37,7 @@ Ecological and cultural boundaries rarely align cleanly. A catchment may cover p
 
 The [[templates/bioregion-establishment-template|BioRegion Establishment Template]] treats the divergence as a feature to be resolved by the founding cohort, not by the AI or by any external authority. Where indigenous or first-nation authority is involved, consent work with the authorities concerned governs the resolution. Where the divergence is substantial enough that no single boundary reconciles it, the bioregion may be defined at a scale that holds both, or the coordination may be structured so that two bioregions with overlapping territory each recognize the other.
 
-The [[polycentricity|polycentric]] answer, drawn from [[people/elinor-ostrom|Elinor Ostrom]]'s work on commons governance, is that coordination at multiple scales can coexist. A catchment-scale bioregion and a heritage-scale bioregion can share territory without one subsuming the other, provided the coordination bodies working in each recognize the other's authority in its own domain.
+The [[polycentricity|polycentric]] answer, drawn from [[elinor-ostrom|Elinor Ostrom]]'s work on [[glossary/commons|commons]] governance, is that coordination at multiple scales can coexist. A catchment-scale bioregion and a heritage-scale bioregion can share territory without one subsuming the other, provided the coordination bodies working in each recognize the other's authority in its own domain.
 
 ## Scale
 
@@ -52,7 +52,7 @@ Size is not a proxy for legitimacy. A small, ecologically coherent, culturally r
 
 ## Where the bioregion sits in the BioStack
 
-The [[biostack|BioStack]] nests three scales: [[biohub|BioHub]], BioRegion, [[bioconomy|BioConomy]]. The BioHub is the innermost layer, the coordination body itself. The BioRegion is the geography it coordinates within. The BioConomy is the economy that emerges when bioregions coordinate their productive activity around retention rather than throughput.
+The [[biostack|BioStack]] nests three scales: [[biohub|BioHub]], BioRegion, [[bioconomy|BioConomy]]. The BioHub is the innermost layer, the coordination body itself. The BioRegion is the geography it coordinates within. The BioConomy is the economy that emerges when bioregions coordinate their productive activity around [[glossary/retention-economics|retention]] rather than [[glossary/throughput|throughput]].
 
 More than one BioHub can operate within a single BioRegion. Different aspects of the same landscape may call for different coordination forms. A water-fund BioHub, a food-systems BioHub, and a heritage-and-tourism BioHub can share a bioregion, each with its own [[glossary/founding-compact|Founding Compact]], with their coordination governed by the shared BioRegion Charter. See [[templates/using-templates-across-biohubs|Using Templates Across BioHubs]].
 
@@ -72,7 +72,7 @@ Together, the three documents constitute the standing basis on which the bioregi
 
 Two things have converged to make the bioregional scale operationally significant in a way it was not a generation ago.
 
-First, ecological limits are no longer abstract. Six of the nine planetary boundaries have been transgressed. Watersheds are collapsing at rates measurable in single generations. Soil carbon is being lost faster than any national policy is replacing it. The scale at which restoration work either holds or fails is the catchment scale, the biome scale, the bioregional scale. National policy alone does not restore a catchment. Municipal policy alone does not restore a biome. Only coordinated work at the bioregional scale can.
+First, ecological limits are no longer abstract. Six of the nine [[glossary/planetary-boundaries|planetary boundaries]] have been transgressed. Watersheds are collapsing at rates measurable in single generations. Soil carbon is being lost faster than any national policy is replacing it. The scale at which restoration work either holds or fails is the catchment scale, the biome scale, the bioregional scale. National policy alone does not restore a catchment. Municipal policy alone does not restore a biome. Only coordinated work at the bioregional scale can.
 
 Second, capital markets are beginning to price ecological outcomes directly. Nature-linked [[performance-based-bond|performance-based bonds]] like the Cape Water bond FR31PB, biodiversity credit instruments emerging under the TNFD disclosure regime, and payment-for-ecosystem-services mechanisms with independent verification, are the early wave of financial instruments that will pay for verified ecological restoration at landscape scale. The scale at which those instruments purchase outcomes is the bioregional scale. A city buys water yield from its catchments, not from the country. A corporate ESG buyer discloses biodiversity outcomes at a landscape resolution, not a national one.
 

@@ -14,7 +14,7 @@ source_project: "BioConomy"
 
 Van Wilgen, B.W. et al. (2008). "The economic consequences of alien plant invasions." *Journal of Environmental Management*.
 
-Estimates total invasive-related runoff reductions in the fynbos and grassland biomes of South Africa at levels significant to national water security. Provides peer-reviewed grounding for the claim that clearing invasive alien plants restores runoff and infiltration in Mediterranean-climate biomes. For the Bioprecipitation research brief and for the Water Retention Landscapes concept, this paper is one of the anchor references for the defensible +E claim: coordinated landscape restoration co-produces usable water yield (streamflow, infiltration, soil moisture).
+Estimates total invasive-related runoff reductions in the fynbos and grassland biomes of South Africa at levels significant to national water security. Provides peer-reviewed grounding for the claim that clearing invasive alien plants restores runoff and infiltration in Mediterranean-climate biomes. For the Bioprecipitation research brief and for the Water [[glossary/retention-economics|Retention]] Landscapes concept, this paper is one of the anchor references for the defensible +E claim: coordinated landscape restoration co-produces usable water yield (streamflow, infiltration, soil moisture).
 
 ## Cited by
 

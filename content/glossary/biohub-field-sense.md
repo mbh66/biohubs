@@ -22,7 +22,7 @@ The emerging global field of place-based coordination initiatives operating at l
 
 ## Sources and associated figures
 
-- [[people/eva-gladek|Eva Gladek]]
+- [[eva-gladek|Eva Gladek]]
 
 ## Provenance
 

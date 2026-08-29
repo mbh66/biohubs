@@ -15,13 +15,13 @@ Mycelial Coordination is the operating pattern of the [[e-form-emergent|Emergent
 
 Ronfeldt's [[frameworks/timn|TIMN framework]] identifies four forms of societal coordination that emerged in sequence: Tribes, Institutions, Markets, and Networks. Ronfeldt's own recent writing has questioned whether "Network" is the right name for the fourth form, and has opened the possibility that a genuinely new fifth form is now emerging. Michael Bauwens has quoted the framing directly: "We have excellent nodes. We don't yet have the mycelial network between them."
 
-Mycelial Coordination is the proposed name for the fifth form. The [[time-framework|TIME framework]] used across this wiki renames Ronfeldt's fourth form as Emergent to make the same point in a different vocabulary. The two framings converge on the same content: a coordination form that operates at bioregional scale, holds multiple actors in productive relationship without central command, distributes intelligence through the network rather than concentrating it at nodes, and organizes around the health of the whole system it is embedded in.
+Mycelial Coordination is the proposed name for the fifth form. The [[time|TIME framework]] used across this wiki renames Ronfeldt's fourth form as Emergent to make the same point in a different vocabulary. The two framings converge on the same content: a coordination form that operates at bioregional scale, holds multiple actors in productive relationship without central command, distributes intelligence through the network rather than concentrating it at nodes, and organizes around the health of the whole system it is embedded in.
 
 ## The biological analogy
 
 The name comes from the ecology of fungal mycelial networks. In a mature forest, the mycelial layer connects trees across species boundaries. Nutrients, water, and information move through the network according to local need. A tree in low light or drought stress receives what it needs from trees with surplus, via the fungal partners it shares. There is no central regulator. The system distributes resources through the properties of the connections themselves.
 
-Suzanne Simard's work on the wood-wide web documented the pattern empirically. Merlin Sheldrake's *Entangled Life* provides the accessible synthesis. The analogy does not claim that human coordination systems will look like fungal networks in any literal sense. It claims that a coordination form organized by the health of the substrate, distributing resources according to local need, without a central allocator, is biologically possible and observably functional at scales far exceeding what any individual node could coordinate alone.
+Suzanne Simard's work on the wood-wide web documented the pattern empirically. Merlin Sheldrake's *Entangled Life* provides the accessible synthesis. The analogy does not claim that [[glossary/human-coordination|human coordination]] systems will look like fungal networks in any literal sense. It claims that a coordination form organized by the health of the substrate, distributing resources according to local need, without a central allocator, is biologically possible and observably functional at scales far exceeding what any individual node could coordinate alone.
 
 ## Distinguishing features
 
@@ -39,7 +39,7 @@ Mycelial Coordination is distinguished from the prior TIMN forms by seven observ
 
 **Legibility through composite indicators.** The system is made legible through composite metrics (like [[bioscore|BioScore]]) that measure substrate health, not through single flow metrics like GDP.
 
-**Constellational governance.** No single institution holds the whole; a constellation of institutions each holds a part, with governance separated across economic, rights, and cultural spheres.
+**Constellational governance.** No single institution holds the whole; a [[glossary/constellation|constellation]] of institutions each holds a part, with governance separated across economic, rights, and cultural spheres.
 
 ## Relationship to the E form
 
@@ -53,22 +53,22 @@ The Mycelial Coordination framework is a working hypothesis. It is grounded in t
 
 **Biological precedent.** Fungal mycelial networks, mature forest ecosystems, and the endosymbiotic biology described in [[mycelial-consciousness|Mycelial Consciousness]] demonstrate that the pattern is biologically possible and functionally superior in complex, resource-constrained environments.
 
-**Practitioner convergence.** Bauwens's [[archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]], Ruddick's commitment pooling in East Africa, Life's bioregional economics discipline, Brewer's Design School for Regenerating Earth, and the 152-initiative BioHub field documented in Metabolic's May 2026 assessment are all operating under coordination logics that overlap heavily with the seven features above. The convergence is unplanned, which is one of the properties the framework itself predicts: when a coordination form is genuinely emerging, multiple nodes arrive at the same pattern without central direction.
+**Practitioner convergence.** Bauwens's [[archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]], Ruddick's commitment pooling in East Africa, Life's [[glossary/bioregional-economics|bioregional economics]] discipline, Brewer's Design School for Regenerating Earth, and the 152-initiative BioHub field documented in Metabolic's May 2026 assessment are all operating under coordination logics that overlap heavily with the seven features above. The convergence is unplanned, which is one of the properties the framework itself predicts: when a coordination form is genuinely emerging, multiple nodes arrive at the same pattern without central direction.
 
 **Independent theoretical arrival.** Michel Bauwens (P2P Foundation), Sacha Pignot (fractal sovereignty), Benjamin Life (bioregional commoning), Michael Haupt (TIME renaming and Mycelial Coordination), and Thais Corral (SINAL BioHub) have all arrived at the same three-layer nested structure (BioHub inside BioRegion inside BioConomy) from different intellectual starting points. Bauwens has cited this convergence explicitly in his 16 August 2026 P4P essay.
 
 ## Related pages
 
 - [[e-form-emergent|E Form (Emergent)]]
-- [[time-framework|The TIME Framework]]
+- [[time|The TIME Framework]]
 - [[frameworks/timn|The TIMN Framework]]
 - [[mycelial-consciousness|Mycelial Consciousness]]
 - [[biohub|BioHub]]
 - [[bioregion|BioRegion]]
 - [[bioconomy|BioConomy]]
 - [[archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]]
-- [[people/michel-bauwens|Michel Bauwens]]
-- [[people/david-ronfeldt|David Ronfeldt]]
+- [[michel-bauwens|Michel Bauwens]]
+- [[david-ronfeldt|David Ronfeldt]]
 
 ## Sources
 

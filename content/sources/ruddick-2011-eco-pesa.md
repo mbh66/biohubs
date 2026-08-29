@@ -20,4 +20,4 @@ Ruddick's first published evaluation of an ecological earn-and-spend community c
 
 - [[research/pooling-across-timn|Pooling Across TIMN]]
 - [[commitment-pooling|Commitment Pooling]]
-- [[people/will-ruddick|Will Ruddick]]
+- [[will-ruddick|Will Ruddick]]

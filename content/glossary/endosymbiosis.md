@@ -21,7 +21,7 @@ The process by which one organism incorporates another (rather than digesting it
 ## Related pages
 
 - [[frameworks/three-futures|The Three Futures]]
-- [[people/lynn-margulis|Lynn Margulis]]
+- [[lynn-margulis|Lynn Margulis]]
 
 ## Sources
 

@@ -9,11 +9,11 @@ source_documents: ["Research_Brief_Growth_Economics.md"]
 epistemic_status: "structural-inference"
 ---
 
-Three economic frameworks span the industrial [[s-curve|S-curve]], each structurally fit for a different phase: Throughput for acceleration, Retention as the growth-phase counter-tradition, and Regenerative for the deceleration and maturation phase.
+Three economic frameworks span the industrial [[s-curve|S-curve]], each structurally fit for a different phase: [[glossary/throughput|Throughput]] for acceleration, Retention as the growth-phase counter-tradition, and [[glossary/regenerative|Regenerative]] for the deceleration and [[glossary/deceleration-phase|maturation phase]].
 
 ## Overview
 
-The wiki treats the modern economic history of the last two and a half centuries as a contest between two frameworks, with a third emerging. Throughput won the acceleration phase because it fit. Retention was the coherent alternative held down by the gradient of the phase. Regenerative Economics is the framework that inherits retention's structural principle and adds the ecological, commons-governance, bioregional, and cooperative dimensions the historical retention tradition lacked. All three share a family resemblance in that they are theories about how to organize productive activity at scale. They differ on what they measure and what they optimize for.
+The wiki treats the modern economic history of the last two and a half centuries as a contest between two frameworks, with a third emerging. Throughput won the acceleration phase because it fit. Retention was the coherent alternative held down by the gradient of the phase. Regenerative Economics is the framework that inherits retention's structural principle and adds the ecological, [[glossary/commons|commons]]-governance, bioregional, and cooperative dimensions the historical retention tradition lacked. All three share a family resemblance in that they are theories about how to organize productive activity at scale. They differ on what they measure and what they optimize for.
 
 ## The three lineages
 
@@ -23,7 +23,7 @@ The wiki treats the modern economic history of the last two and a half centuries
 
 Throughput was structurally fit for the acceleration phase because rapid expansion into new territory, new markets, and new energy sources rewarded the mechanisms that maximized flow. Its historical achievements are real: the industrial world was built through it. Its failure mode arrives during deceleration, when maximizing flow degrades the substrate on which flow depends.
 
-Key texts: Smith, *The Wealth of Nations* (1776); Ricardo, *On the Principles of Political Economy and Taxation* (1817); [[karl-polanyi|Polanyi]], *The Great Transformation* (1944, as critique).
+Key texts: Smith, *The Wealth of Nations* (1776); Ricardo, *On the Principles of Political [[glossary/economy|Economy]] and Taxation* (1817); [[karl-polanyi|Polanyi]], *The Great Transformation* (1944, as critique).
 
 ### Retention Economics
 

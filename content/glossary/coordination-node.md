@@ -16,18 +16,18 @@ The characteristic physical structure a coordination form produces as it matures
 
 ## Related terms
 
-- [[time-framework|TIME Framework]]
+- [[time|TIME Framework]]
 - [[t-form-tribal|T form (Tribal)]]
 - [[m-form-market|M form (Market)]]
 - [[human-coordination|Human Coordination]]
 
 ## Sources and associated figures
 
-- [[people/christian-bromberger|Christian Bromberger]]
-- [[people/mircea-eliade|Mircea Eliade]]
-- [[people/carol-willis|Carol Willis]]
-- [[people/georges-duby|Georges Duby]]
-- [[people/robert-scott|Robert Scott]]
+- [[christian-bromberger|Christian Bromberger]]
+- [[mircea-eliade|Mircea Eliade]]
+- [[carol-willis|Carol Willis]]
+- [[georges-duby|Georges Duby]]
+- [[robert-scott|Robert Scott]]
 
 ## Provenance
 

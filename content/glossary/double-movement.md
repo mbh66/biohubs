@@ -19,7 +19,7 @@ epistemic_status: documented-framework
 
 Karl Polanyi's term for the pattern by which, as market forces extend into new domains, society generates a protective counter-reaction to defend itself against commodification. Labor movements, environmental regulation, banking controls, welfare states, and cooperative institutions are all expressions of the counter-movement.
 
-Polanyi observed the double movement in the nineteenth and early twentieth centuries. Contemporary retention economics, resource nationalism, food sovereignty movements, and bioregional economics can be read as expressions of the same pattern at planetary scale, as the industrial [[s-curve|S-curve]] enters deceleration. The concept lets us see the current wave of reshoring, industrial policy, and bioregional experimentation across politically diverse governments as a structurally driven adaptation rather than a coordinated ideological programme.
+Polanyi observed the double movement in the nineteenth and early twentieth centuries. Contemporary retention economics, resource nationalism, food sovereignty movements, and bioregional economics can be read as expressions of the same pattern at planetary scale, as the industrial [[s-curve|S-curve]] enters deceleration. The concept lets us see the current wave of reshoring, industrial policy, and bioregional experimentation across politically diverse governments as a structurally driven adaptation rather than a coordinated ideological program.
 
 ## Related terms
 

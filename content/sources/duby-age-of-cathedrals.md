@@ -19,4 +19,4 @@ Duby's magisterial account of the medieval cathedral-building era. The book trac
 ## Cited by
 
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
-- [[people/georges-duby|Georges Duby]]
+- [[georges-duby|Georges Duby]]

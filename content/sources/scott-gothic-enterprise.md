@@ -19,4 +19,4 @@ Scott's detailed history of the Gothic cathedral-building enterprise, including 
 ## Cited by
 
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
-- [[people/robert-scott|Robert Scott]]
+- [[robert-scott|Robert Scott]]

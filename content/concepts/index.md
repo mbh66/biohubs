@@ -9,13 +9,13 @@ source_documents: []
 epistemic_status: "documented-framework"
 ---
 
-The core ideas that organize the BioConomy thesis, each treated at enough depth to stand on its own.
+The core ideas that organize the [[glossary/bioconomy|BioConomy]] thesis, each treated at enough depth to stand on its own.
 
 ## Overview
 
 A concept page carries a substantive treatment of an idea the wiki's frameworks and essays build on. Each opens with a one-sentence definition, expands into an overview, and treats the concept in enough detail that a reader can leave with a working understanding. Concept pages sit between the short definitions in the [[glossary/index|glossary]] and the argumentative treatments in the [[essays/index|essays]].
 
-Seven concepts have a companion glossary entry (retention-logic, transvestment, mycelial-consciousness, mycelial-coordination, mycelial-patronage, cosmo-local-production, structural-prematurity). Where a pair exists, the concept page carries the deeper treatment and the glossary entry carries the short definition. Both link to each other.
+Seven concepts have a companion glossary entry ([[glossary/retention-economics|retention]]-logic, [[glossary/transvestment|transvestment]], mycelial-consciousness, mycelial-coordination, mycelial-patronage, cosmo-local-production, structural-prematurity). Where a pair exists, the concept page carries the deeper treatment and the glossary entry carries the short definition. Both link to each other.
 
 ## Where to start
 

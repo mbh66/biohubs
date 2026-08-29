@@ -16,11 +16,11 @@ Elinor Ostrom's thesis that overlapping, semi-autonomous centers of governance p
 
 ## Related terms
 
-- [[time-framework|TIME Framework]]
+- [[time|TIME Framework]]
 
 ## Sources and associated figures
 
-- [[people/elinor-ostrom|Elinor Ostrom]]
+- [[elinor-ostrom|Elinor Ostrom]]
 
 ## Provenance
 

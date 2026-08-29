@@ -27,7 +27,7 @@ Where Osterwalder elements prove useful in specific BioHub contexts, they can be
 2. **The Coordination Layer.** What the [[biohub|BioHub]] holds that no participant holds alone. Stakeholders coordinated, commitments verified, pools operated, contracts held. Populated from the [[founding-compact|Founding Compact]] and BioRegion Charter.
 3. **The [[tenderable-services-portfolio|Tenderable Services Portfolio]].** Six service categories: water yield, carbon sequestration, biodiversity data, heritage and tourism, food systems, and coordination-as-employment.
 4. **The Counterparty Portfolio (external face).** Metropolitan utilities, corporate ESG buyers, philanthropic patrons via [[transvestment|transvestment]], tourism markets, food supply chains, research institutions.
-5. **The Participant Portfolio (internal face).** Landowners, farmers, custodial knowledge-holders, service providers, cooperative members, employees. What each contributes, what each receives, how [[gainful employment|gainful employment]] is generated for those who want it.
+5. **The Participant Portfolio (internal face).** Landowners, farmers, custodial knowledge-holders, service providers, cooperative members, employees. What each contributes, what each receives, how gainful employment is generated for those who want it.
 6. **The Retention Guarantee.** How each service is designed so value circulates within the BioRegion, substrate function increases, and coordination-form capture is prevented (the Market colonizing the Emergent).
 
 ## Contrast with adjacent tools

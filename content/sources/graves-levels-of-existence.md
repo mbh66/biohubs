@@ -1,22 +1,28 @@
 ---
-title: "Levels of Existence: An Open System Theory of Values"
+title: "Levels of Existence"
 author: "Clare W. Graves"
 year: 1970
-type: "paper"
-publisher: "Journal of Humanistic Psychology, 10(2), 131-155"
+type: "journal-article"
+publisher: "Journal of Humanistic Psychology"
 url: ""
 doi: "10.1177/002216787001000205"
-tags: ["source", "graves", "psychology", "developmental-psychology"]
-created: 2026-08-25
-updated: 2026-08-25
-source_project: "BioConomy"
+tags: ["source", "consciousness", "development", "psychology"]
 ---
 
 Graves, C.W. (1970). "Levels of Existence: An Open System Theory of Values." *Journal of Humanistic Psychology*, 10(2), 131-155. DOI: 10.1177/002216787001000205.
 
-The foundational peer-reviewed publication of Graves's emergent cyclical theory of adult human development. Graves argues that human value systems evolve through a specific sequence in response to changing conditions of existence, with each level corresponding to a distinct set of coping mechanisms, motivations, and social forms. The theory is grounded in longitudinal empirical work and is the analytical basis on which the 1974 *Futurist* paper's three-futures argument rests. The Beck and Cowan Spiral Dynamics elaboration draws directly on this paper.
+The foundational peer-reviewed publication of Graves's emergent cyclical theory of adult human development. Based on over twenty years of empirical research studying how human value systems evolve under changing conditions of existence. Documents that human value systems develop through identifiable stages, each producing qualitatively different orientations toward competition, cooperation, individual agency, and collective responsibility.
 
-## Cited by
+The paper establishes the theoretical framework that Graves later applied to civilizational analysis in his 1974 *Futurist* article. Beck and Cowan subsequently developed Graves's framework into the Spiral Dynamics model, introducing the color-coded value systems (Beige through Turquoise) that popularized his developmental framework.
 
-- [[people/clare-graves|Clare Graves]]
-- [[frameworks/three-futures|The Three Futures]]
+In the BioConomy corpus, Graves's levels provide the developmental psychology foundation for the [[concepts/structures-of-consciousness|Structures of Consciousness]] analysis and the distinction between [[glossary/first-tier|First Tier]] and [[glossary/second-tier|Second Tier]] thinking.
+
+## Citing Pages
+
+- [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]]
+- [[concepts/structures-of-consciousness|Structures of Consciousness]]
+- [[concepts/the-momentous-leap|The Momentous Leap]]
+- [[concepts/consciousness-and-value-creation|Consciousness and Value Creation]]
+- [[glossary/first-tier|First Tier]]
+- [[glossary/second-tier|Second Tier]]
+- [[glossary/material-consciousness|Material Consciousness]]

@@ -31,7 +31,7 @@ The commitment pool operates at two scales in the founding-suite templates. At t
 
 ## Sources and associated figures
 
-- [[people/will-ruddick|Will Ruddick]]
+- [[will-ruddick|Will Ruddick]]
 
 ## Provenance
 

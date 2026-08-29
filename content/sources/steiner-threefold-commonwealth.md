@@ -22,5 +22,5 @@ Steiner's primary published work on the threefold social order: freedom in cultu
 - [[frameworks/three-futures|The Three Futures]]
 - [[mycelial-patronage|Mycelial Patronage]]
 - [[threefolding|Threefolding (glossary)]]
-- [[people/rudolf-steiner|Rudolf Steiner]]
-- [[people/ibrahim-abouleish|Ibrahim Abouleish]]
+- [[rudolf-steiner|Rudolf Steiner]]
+- [[ibrahim-abouleish|Ibrahim Abouleish]]

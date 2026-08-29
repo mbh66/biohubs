@@ -20,7 +20,7 @@ Michel Bauwens's formulation: share knowledge globally, adapt it locally, produc
 
 ## Sources and associated figures
 
-- [[people/michel-bauwens|Michel Bauwens]]
+- [[michel-bauwens|Michel Bauwens]]
 
 ## Provenance
 

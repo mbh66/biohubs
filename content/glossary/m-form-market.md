@@ -16,7 +16,7 @@ Coordination through price signals, exchange, and competition between self-inter
 
 ## Related terms
 
-- [[time-framework|TIME Framework]]
+- [[time|TIME Framework]]
 - [[performance-based-bond|Performance-based bond]]
 - [[mycelial-patronage|Mycelial Patronage]]
 - [[payment-for-ecosystem-services-pes|Payment for ecosystem services (PES)]]
@@ -24,7 +24,7 @@ Coordination through price signals, exchange, and competition between self-inter
 
 ## Sources and associated figures
 
-- [[people/carol-willis|Carol Willis]]
+- [[carol-willis|Carol Willis]]
 
 ## Provenance
 

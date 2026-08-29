@@ -25,7 +25,7 @@ Do not run this template with a solo coordinator. The Founding Compact requires 
 
 ## Prerequisite documents
 
-- BioStack and BioConomy foundational document (definitions and dependency direction).
+- [[glossary/biostack|BioStack]] and [[glossary/bioconomy|BioConomy]] foundational document (definitions and dependency direction).
 - Framework of coordination forms ([[frameworks/time-framework|TIME]], or an equivalent).
 - The [[sources/gladek-metabolic-biohubs|Metabolic BioHubs Best Practices Research Brief]] (May 2026), or the equivalent global field baseline document.
 - Any bioregional field-mapping documents in use (P4P Archipelago positioning, Design School for Regenerating Earth mappings, or equivalents).
@@ -64,7 +64,7 @@ Prompt 1 produces candidates on five dimensions. Each shapes what the BioHub can
 
 **Entity form.** Non-profit company, cooperative, foundation, informal association, hybrid stack. Each with its governance implications, patronage-holding implications, cost and complexity, and jurisdiction-specific precedents.
 
-**Patronage architecture.** [[mycelial-patronage|Mycelial Patronage]] (transvestment-based, capital held in the commons substrate); conventional grant model; member-funded; corporate partnership; hybrid architectures. Each with what it enables, what it constrains, and what it demands of the cohort.
+**Patronage architecture.** [[mycelial-patronage|Mycelial Patronage]] ([[glossary/transvestment|transvestment]]-based, capital held in the [[glossary/commons|commons]] substrate); conventional grant model; member-funded; corporate partnership; hybrid architectures. Each with what it enables, what it constrains, and what it demands of the cohort.
 
 **Cohort framing.** Solo coordinator with advisory circle; equal founding cohort with rotating coordination; tiered cohort with distinct roles; formal board plus operational team. Each with implications for decision-making, accountability, cohort expansion, and succession.
 

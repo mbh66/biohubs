@@ -21,7 +21,7 @@ The shift is structural. A bioregion that asks for funding is [[needy|needy]]. A
 
 ## An emergent global field
 
-The concept has been slowly emerging independently across multiple geographies and intellectual traditions. In mid-2026, [[people/eva-gladek|Eva Gladek]] and colleagues at Metabolic published their 2026 BioHub Assessment, which documented 152 initiatives worldwide operating under this emergent coordination logic. What they share is a recognition that landscape-scale ecological and economic challenges require a coordination form that municipalities, conservation agencies, water authorities, and market actors cannot sustain individually.
+The concept has been slowly emerging independently across multiple geographies and intellectual traditions. In mid-2026, [[eva-gladek|Eva Gladek]] and colleagues at Metabolic published their 2026 BioHub Assessment, which documented 152 initiatives worldwide operating under this emergent coordination logic. What they share is a recognition that landscape-scale ecological and economic challenges require a coordination form that municipalities, conservation agencies, water authorities, and market actors cannot sustain individually.
 
 The BioHub is that form. This wiki is a guide for establishing your own.
 
@@ -41,13 +41,13 @@ The [[frameworks/evolution-of-coordination-nodes|Evolution of Coordination Nodes
 
 Four bodies of work carry the economic architecture a functioning BioHub draws on.
 
-[[concepts/commitment-pooling|Commitment Pooling]] describes the structure through which participants make binding forward promises to one another, and those promises become the basis for coordination and exchange. The theory draws on Burgess, Bergstra, and Ruddick. At the community level, the practice is operational in multiple bioregions through the [[people/will-ruddick|Grassroots Economics]] protocol. At the bioregional level, pooling takes the form of coordinated landscape-scale commitments tendered into market instruments: water funds, performance-based bonds, and payment-for-ecosystem-services contracts. The BioHub is the coordination layer through which the two scales meet.
+[[concepts/commitment-pooling|Commitment Pooling]] describes the structure through which participants make binding forward promises to one another, and those promises become the basis for coordination and exchange. The theory draws on Burgess, Bergstra, and Ruddick. At the community level, the practice is operational in multiple bioregions through the [[will-ruddick|Grassroots Economics]] protocol. At the bioregional level, pooling takes the form of coordinated landscape-scale commitments tendered into market instruments: water funds, performance-based bonds, and payment-for-ecosystem-services contracts. The BioHub is the coordination layer through which the two scales meet.
 
-[[concepts/bioregional-economics|Bioregional Economics]] is the discipline concerned with designing regenerative, cooperatively owned, place-based economies within the carrying capacity of their landscapes. The material draws on [[people/benjamin-life|Benjamin Life]]'s foundational definition, [[people/john-fullerton|John Fullerton]]'s eight principles of regenerative capitalism, [[people/kate-raworth|Kate Raworth]]'s boundary conditions, and the [[bioregional-financing-facility-bff|Bioregional Financing Facilities]] architecture developed by Dark Matter Labs and the Buckminster Fuller Institute.
+[[concepts/bioregional-economics|Bioregional Economics]] is the discipline concerned with designing regenerative, cooperatively owned, place-based economies within the carrying capacity of their landscapes. The material draws on [[benjamin-life|Benjamin Life]]'s foundational definition, [[john-fullerton|John Fullerton]]'s eight principles of [[glossary/regenerative-capitalism|regenerative capitalism]], [[kate-raworth|Kate Raworth]]'s boundary conditions, and the [[bioregional-financing-facility-bff|Bioregional Financing Facilities]] architecture developed by Dark Matter Labs and the Buckminster Fuller Institute.
 
 [[concepts/federated-cooperative-supply-chains|Federated Cooperative Supply Chains]] examines how cooperatives within a bioregion retain and circulate value internally through federated structures. The Mondragón and SEKEM precedents are the primary case material.
 
-[[concepts/cosmo-local-production|Cosmo-Local Production]] carries the formulation from [[people/michel-bauwens|Michel Bauwens]]: share knowledge globally, adapt it locally, produce regeneratively in place, share the learning globally. The educational material on this site is the global-facing layer; the catchment restoration and cooperative production in each bioregion is the place-based layer.
+[[concepts/cosmo-local-production|Cosmo-Local Production]] carries the formulation from [[michel-bauwens|Michel Bauwens]]: share knowledge globally, adapt it locally, produce regeneratively in place, share the learning globally. The educational material on this site is the global-facing layer; the catchment restoration and cooperative production in each bioregion is the place-based layer.
 
 ## The ecological science
 

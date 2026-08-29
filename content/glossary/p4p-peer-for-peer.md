@@ -20,8 +20,8 @@ Jeff Emmett's coinage, adopted by Michel Bauwens, naming the transition from pee
 
 ## Sources and associated figures
 
-- [[people/michel-bauwens|Michel Bauwens]]
-- [[people/jeff-emmett|Jeff Emmett]]
+- [[michel-bauwens|Michel Bauwens]]
+- [[jeff-emmett|Jeff Emmett]]
 
 ## Provenance
 
