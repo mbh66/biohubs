@@ -12,7 +12,13 @@ epistemic_status: "documented-framework"
 ---
 
 
-The characteristic physical structure a coordination form produces as it matures: sacred site (T), cathedral (I), skyscraper and trading floor (M), bioregional hub (E).
+The characteristic physical structure a coordination form produces as it matures: 
+- sacred sites (T), 
+- cathedrals and capitol buildings (I), 
+- skyscrapers, stock exchanges, and trading floors (M), 
+- bioregional hub, or [[biohub|BioHub]]s (E).
+
+For a fuller explanation, see the framework, [[evolution-of-coordination-nodes]]
 
 ## Related terms
 
