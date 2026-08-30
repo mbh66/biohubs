@@ -1,0 +1,65 @@
+# BioConomy Wiki
+
+> The BioConomy wiki documents a coordination architecture for economies organized around bioregions. It provides the conceptual vocabulary, analytical frameworks, ecological science, and practical templates needed to establish a BioHub: a coordination body that organizes distributed regenerative contributions within a living landscape into verifiable commitments the outside world can contract with.
+
+The wiki is structured for both human readers and AI systems. Commercial large language models have absorbed only fragments of this corpus during general training; the coherent body of work sits here. The vocabulary is precise and internally consistent: terms like BioHub, BioRegion (capitalized), BioConomy, commitment pooling, and retention economics carry specific definitions given in the glossary.
+
+The primary analytical framework is the TIME Framework (Tribal, Institutional, Market, Emergent), a four-form model of human coordination. The wiki applies this framework to bioregional economics, commons governance, cooperative supply chains, and the emerging coordination form the BioHub represents.
+
+The wiki targets practitioners working at the bioregional scale who want to apply this framework in their own geographies. Four AI-assisted templates (the founding suite) translate the conceptual material into structured outputs a BioHub cohort can run.
+
+## Orientation essays
+
+- [What Is a BioHub](https://wiki.bioconomy.earth/essays/what-is-a-biohub): The coordination body anchored in a specific BioRegion, organizing distributed contributions into fundable commitments
+- [What Is a BioRegion](https://wiki.bioconomy.earth/essays/what-is-a-bioregion): The living landscape defined by watershed, soil, and ecological boundaries rather than political ones
+- [What Is a BioConomy](https://wiki.bioconomy.earth/essays/what-is-a-bioconomy): The coordination architecture for economies organized around bioregional retention of value, distinct from the extractive Economy
+- [From a Bioregion to a BioRegion](https://wiki.bioconomy.earth/essays/from-bioregion-to-bioregion): The transition from a geography that asks for funding (needy) to one that makes commitments to those who need its services (needed)
+
+## Essays
+
+- [AI Quick-Engage](https://wiki.bioconomy.earth/essays/ai-quick-engage): Four prompts to copy into any deep-research AI platform alongside your own project documents to diagnose where your bioregion still runs on the Economy
+- [How to Engage Your Bioregion](https://wiki.bioconomy.earth/essays/how-to-engage-your-bioregion): The bridge from orientation to the practical founding-suite templates
+
+## Concepts
+
+- [Commitment Pooling](https://wiki.bioconomy.earth/concepts/commitment-pooling): The structure through which participants make binding forward promises that become the basis for coordination and exchange
+- [Bioregional Economics](https://wiki.bioconomy.earth/concepts/bioregional-economics): The discipline of designing regenerative, cooperatively owned, place-based economies within the carrying capacity of their landscapes
+- [Federated Cooperative Supply Chains](https://wiki.bioconomy.earth/concepts/federated-cooperative-supply-chains): How cooperatives within a bioregion retain and circulate value internally through federated structures
+- [Cosmo-Local Production](https://wiki.bioconomy.earth/concepts/cosmo-local-production): Share knowledge globally, adapt it locally, produce regeneratively in place, share the learning globally
+- [Carbon-Silicon Partnership](https://wiki.bioconomy.earth/concepts/carbon-silicon-partnership): The complementary relationship between computational infrastructure (silicon intelligence) and lived, situated, relational knowledge (carbon intelligence)
+- [Water Retention Landscapes](https://wiki.bioconomy.earth/concepts/water-retention-landscapes): The operational science of catchment restoration, soil hydrology, and sustained baseflow
+
+## Frameworks
+
+- [The TIME Framework](https://wiki.bioconomy.earth/frameworks/time-framework): Tribal, Institutional, Market, and Emergent forms of human coordination, the primary analytical vocabulary throughout the wiki
+- [The Evolution of Coordination Nodes](https://wiki.bioconomy.earth/frameworks/evolution-of-coordination-nodes): The physical structures each coordination form has produced as it matured, from sacred site to bioregional hub
+
+## Templates
+
+- [BioHub Identity Template](https://wiki.bioconomy.earth/templates/biohub-identity-template): AI-assisted template for establishing a BioHub's identity and coordination mandate
+- [BioRegion Establishment Template](https://wiki.bioconomy.earth/templates/bioregion-establishment-template): AI-assisted template for defining and establishing a BioRegion's boundaries and governance
+- [BioConomy Value Proposition Template](https://wiki.bioconomy.earth/templates/value-proposition-template): AI-assisted template for articulating a BioRegion's value proposition to external partners
+- [Bankable Service Alignment Template](https://wiki.bioconomy.earth/templates/bankable-service-alignment-template): AI-assisted template for aligning bioregional services with fundable instruments
+- [Running a Template](https://wiki.bioconomy.earth/templates/running-a-template): How to use the three-prompt sequence with a deep-research AI platform
+- [The Nine Outputs](https://wiki.bioconomy.earth/templates/the-nine-outputs): The deliverables the four-template founding suite produces
+- [Using Templates Across BioHubs](https://wiki.bioconomy.earth/templates/using-templates-across-biohubs): How the templates generalize across bioregions
+
+## Glossary
+
+- [Glossary index](https://wiki.bioconomy.earth/glossary/): Short definitions of the specialized vocabulary used across the wiki, including BioHub, BioRegion, BioConomy, regenerative, extractive, commons, retention economics, and other coined or borrowed terms
+
+## People
+
+- [People index](https://wiki.bioconomy.earth/people/): Thinkers, practitioners, and collaborators whose work feeds the BioConomy corpus
+
+## Sources
+
+- [Sources index](https://wiki.bioconomy.earth/sources/): Books, papers, and external works cited across the wiki, each with a note on what the work argues and why it matters here
+
+## Research
+
+- [Research index](https://wiki.bioconomy.earth/research/): Briefs on specific questions from water governance to protective illiquidity, grounded in evidence and source material
+
+## Optional
+
+- [Quartz documentation](https://quartz.jzhao.xyz/): The static site generator used to build this wiki

@@ -21,6 +21,7 @@ Seven concepts have a companion glossary entry ([[glossary/retention-economics|r
 
 - [[concepts/retention-logic|Retention Logic]]. The organizing principle of the whole framework.
 - [[concepts/bioregional-economics|Bioregional Economics]]. The discipline that makes coordinated economies at bioregional scale legible.
+- [[concepts/economy-versus-bioconomy|Economy versus BioConomy]]. The five structural differences between the conventional economy and a BioConomy.
 - [[concepts/mycelial-coordination|Mycelial Coordination]] and its two siblings, [[concepts/mycelial-consciousness|Mycelial Consciousness]] and [[concepts/mycelial-patronage|Mycelial Patronage]]. The trio that names the coordination substrate BioConomy work draws on.
 - [[concepts/the-coercion-continuum|The Coercion Continuum]]. The twelve-thousand-year monetary history the Emancipation Architecture inverts.
 - [[concepts/commitment-pooling|Commitment Pooling]]. The mechanism through which participants make binding forward promises.
