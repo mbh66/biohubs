@@ -3,7 +3,7 @@ title: "How to Build a BioHub Wiki"
 aliases: ["biohub wiki", "building a biohub wiki", "biohub wiki layout"]
 tags: ["essay", "orientation", "biohub", "coordination", "wiki"]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-09-03
 source_project: "BioConomy"
 source_documents: []
 epistemic_status: "documented-framework"
@@ -115,14 +115,133 @@ The BioConomy wiki holds the templates. The BioHub wiki publishes their outputs.
 
 ## Getting started
 
-A coordinator whose founding suite is complete populates the wiki in this order:
+A coordinator whose founding suite is complete populates the wiki in this order. The instructions below assume no prior experience with GitHub, the terminal, or static site generators.
 
-1. Set up Quartz: https://quartz.jzhao.xyz (For non-technical users, simply ask your AI platform to walk you through the process, using this prompt: `` )
-2. Point it at the domain. Confirm the build pipeline works.
+### Naming your wiki
+
+Every BioHub wiki sits at a subdomain of `bioconomy.earth`. The subdomain convention is:
+
+```
+{country}-{bioregion}-{slug}.bioconomy.earth
+```
+
+The components:
+
+- **Country**: the two-letter ISO 3166-1 country code (`za` for South Africa, `br` for Brazil, `ke` for Kenya).
+- **Bioregion**: the One Earth Bioregions Framework code, which combines a two-letter realm prefix with a bioregion number. The codes are built on the RESOLVE Ecoregions 2017 dataset. For southern African fynbos and renosterveld, the code is `at2` (Afrotropics bioregion 2: South African Cape Shrublands & Mountain Forests). The full list is at [oneearth.org/bioregion-list](https://www.oneearth.org/bioregion-list/).
+- **Slug**: a short, recognisable name for the BioHub, typically three to five characters. The Overberg BioHub in the Riviersonderend catchment uses `vog` (Valley of Grace).
+
+Examples: `za-at2-vog.bioconomy.earth`, `ke-at10-laikipia.bioconomy.earth`, `br-nt1-xingu.bioconomy.earth`.
+
+Where only one BioHub exists in a country-bioregion pair, the slug can be omitted: `za-at2.bioconomy.earth`. Add the slug when a second BioHub registers in the same pair.
+
+#### Finding your bioregion code
+
+The bioregion code has two parts: a realm prefix and a bioregion number. To find yours:
+
+1. **Identify your realm.** Eight biogeographic realms cover the planet. Find the one that contains your BioHub's location:
+
+| Prefix | Realm | Approximate coverage |
+|---|---|---|
+| `at` | Afrotropic | Sub-Saharan Africa, Madagascar |
+| `au` | Australasia | Australia, New Guinea, New Zealand, eastern Indonesia |
+| `im` | Indomalayan | South and Southeast Asia, southern China |
+| `na` | Nearctic | North America north of central Mexico |
+| `nt` | Neotropic | Central and South America, Caribbean |
+| `oc` | Oceania | Pacific islands, Hawai'i |
+| `pa` | Palearctic | Europe, North Africa, northern and central Asia |
+| `an` | Antarctica | Antarctic continent and subantarctic islands |
+
+2. **Look up your bioregion number.** Go to [oneearth.org/bioregion-list](https://www.oneearth.org/bioregion-list/) and find the bioregion that covers your area. Each bioregion has a name and a number within its realm. The interactive map at [map.oneearth.org](https://map.oneearth.org/) lets you click your location to see the bioregion directly.
+
+3. **Combine them.** The code is the lowercase realm prefix followed by the bioregion number, with no separator. A BioHub in the Laikipia Plateau of Kenya sits in Afrotropic bioregion 10 (East African Montane Forests & Grasslands), so the code is `at10`. A BioHub in the Xingu basin of Brazil sits in Neotropic bioregion 1 (Amazonian Forests & Grasslands), so the code is `nt1`.
+
+The [[research/resolve-ecoregions-2017|RESOLVE Ecoregions 2017]] page on this wiki lists all 847 ecoregions that form the spatial foundation for these bioregion groupings.
+
+### What you will need
+
+Three things, all free:
+
+1. A **GitHub account** at [github.com](https://github.com). If you do not have one, create one now.
+2. A computer with a **terminal**. On macOS, open the application called Terminal. On Windows, use PowerShell. On Linux, use any terminal emulator.
+3. An **AI assistant** (Claude, ChatGPT, or equivalent). The setup process involves terminal commands that an AI assistant can walk you through step by step.
+
+### AI-assisted setup
+
+If you are comfortable with Git and Node.js, skip to the command summary below. If not, paste the following prompt into your AI assistant. It will walk you through each step, wait for your confirmation, and troubleshoot any errors.
+
+> I need to set up a BioHub wiki using Quartz v5, hosted on GitHub Pages. I have no experience with GitHub, Git, or the terminal. Walk me through the entire process one step at a time. Wait for me to confirm each step before moving to the next. If I encounter an error, help me fix it before proceeding.
+>
+> Here is what needs to happen, in order:
+>
+> **1. Install prerequisites.**
+> I need Node.js v22 or higher and Git installed on my computer. Check whether I have them and install them if not. On macOS, use Homebrew. On Windows, use the official installers. Confirm the versions before proceeding.
+>
+> **2. Clone and set up Quartz.**
+> Run these commands in sequence:
+> ```
+> git clone https://github.com/jackyzha0/quartz.git
+> cd quartz
+> npm i
+> npx quartz create
+> npx quartz plugin install --from-config
+> ```
+> During `npx quartz create`, I will be prompted for a template and a base URL. For the base URL, I should enter my BioHub's subdomain followed by `.bioconomy.earth` (e.g. `za-at2-vog.bioconomy.earth`). Do not include `https://` or a trailing slash.
+>
+> **3. Test the site locally.**
+> Run `npx quartz build --serve` and confirm the site loads at `http://localhost:8080`.
+>
+> **4. Create a GitHub repository.**
+> Go to github.com and create a new repository. Name it after my BioHub (e.g. `za-at2-vog-biohub`). Make it public. Do not initialise it with a README. Back in the terminal, set the remote origin to point to my new repository:
+> ```
+> git remote set-url origin https://github.com/MY-USERNAME/MY-REPO.git
+> ```
+>
+> **5. Set up the GitHub Actions deployment workflow.**
+> Create the directory `.github/workflows/` and inside it create a file called `deploy.yml`. The file should contain the standard Quartz GitHub Pages deployment workflow as documented at https://quartz.jzhao.xyz/hosting. The workflow should trigger on pushes to the `v5` branch, use Node.js 24, run `npm ci`, `npx quartz plugin install`, and `npx quartz build`, then upload the `public` directory as a Pages artifact and deploy it.
+>
+> **6. Push to GitHub and deploy.**
+> Run `npx quartz sync` to push the site to GitHub. Then go to the repository's Settings, click Pages, and set the source to "GitHub Actions".
+>
+> **7. Configure the custom domain.**
+> In the repository Settings under Pages, enter my custom domain (my subdomain of `bioconomy.earth`). Then help me understand what DNS record is needed: a CNAME record pointing my subdomain to `MY-USERNAME.github.io`. I will need to coordinate with the BioConomy wiki administrator to have this record added at the domain registrar.
+>
+> Confirm each step with me. If anything fails, diagnose the error and walk me through the fix.
+
+Replace the placeholder values with your actual BioHub subdomain, GitHub username, and repository name before pasting.
+
+The DNS record for the custom subdomain must be created by whoever controls the `bioconomy.earth` domain. Coordinate with the BioConomy wiki administrator to have your CNAME record added.
+
+### Command summary (for experienced users)
+
+```bash
+# Prerequisites: Node.js >= 22, Git
+git clone https://github.com/jackyzha0/quartz.git my-biohub-wiki
+cd my-biohub-wiki
+npm i
+npx quartz create
+npx quartz plugin install --from-config
+
+# Test locally
+npx quartz build --serve
+
+# Create GitHub repo, then:
+git remote set-url origin https://github.com/YOUR-USERNAME/YOUR-REPO.git
+
+# Create .github/workflows/deploy.yml per https://quartz.jzhao.xyz/hosting
+# Push and deploy
+npx quartz sync
+
+# In GitHub: Settings > Pages > Source: GitHub Actions
+# In GitHub: Settings > Pages > Custom domain: your-subdomain.bioconomy.earth
+# DNS: CNAME your-subdomain.bioconomy.earth -> YOUR-USERNAME.github.io
+```
+
+### Populating the wiki
 
 Write the home page and `llms.txt` from the Identity Statement. Populate the identity folder from the three Identity outputs. Populate the BioRegion folder from the three BioRegion outputs, breaking the Atlas into the nine profile pages. Populate the services folder from the Value Proposition Statement, Evidence Pack, and Tender Compact. Populate the alignments folder from each Alignment run's three outputs.
 
-Build the policy index by extracting every government framework referenced across the outputs and organizing them by jurisdiction and domain. Populate the data pages from the monitoring and verification sections of the Atlas and Alignment Evidence Packs. Populate the cohort and partners pages from the Founding Compact and Alignment Compact.
+Build the policy index by extracting every government framework referenced across the outputs and organising them by jurisdiction and domain. Populate the data pages from the monitoring and verification sections of the Atlas and Alignment Evidence Packs. Populate the cohort and partners pages from the Founding Compact and Alignment Compact.
 
 Write the coordination surface from the Readiness Diagnostic, Gap Register, and the coordinator's knowledge of what the BioHub seeks from peers. Begin the journal with the founding milestone.
 
@@ -150,7 +269,13 @@ The wiki grows from there. Each new alignment run adds to the alignments folder.
 
 - [[sources/gladek-metabolic-biohubs|Gladek, E. et al. (2026). *BioHubs: A Pathway to Regional Resilience*]]
 - [[sources/ronfeldt-timn|Ronfeldt, D. (1996). *Tribes, Institutions, Markets, Networks* (RAND P-7967)]]
+- Dinerstein, E. et al. (2017). *An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm*. BioScience, 67(6), 534-545. [RESOLVE Ecoregions 2017](https://developers.google.com/earth-engine/datasets/catalog/RESOLVE_ECOREGIONS_2017).
+- One Earth (2023). *Bioregions 2023*. [oneearth.org/bioregions-2023](https://www.oneearth.org/bioregions-2023/).
 
 ## Provenance
 
 Written 30 August 2026 as the operational companion to the four-template founding suite. The essay describes how a BioHub publishes its local knowledge for inter-BioHub coordination, drawing on the wiki layout specification produced in conversation with the BioConomy editorial team. The interoperability conventions (consistent folder names, controlled frontmatter vocabulary, dual-layer readability, the coordination surface as handshake page) are proposed standards. The first BioHub to publish a wiki using this layout is invited to feed refinements back through the project's GitHub repository at `github.com/mbh66/biohubs`.
+
+### Changes from prior version
+
+Revised 3 September 2026. The Getting Started section now includes a subdomain naming convention using ISO country codes, One Earth Bioregions Framework codes (built on the RESOLVE Ecoregions 2017 dataset), and a BioHub slug. Added a complete AI-assisted setup prompt that non-technical coordinators can paste into any AI assistant to be walked through Quartz installation, GitHub repository creation, GitHub Actions deployment, and custom domain configuration. Added a command summary for experienced users. Sources updated to include the RESOLVE Ecoregions dataset and One Earth Bioregions Framework.
