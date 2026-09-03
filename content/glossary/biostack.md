@@ -14,6 +14,8 @@ epistemic_status: "documented-framework"
 
 A BioStack is the nested three-layer structure through which bioregional coordination scales.
 
+- 
+
 ## Definition
 
 The BioHub provides the place-based coordination that makes a BioRegion function as a coherent unit. Functioning bioregions produce the regenerative economic activity that, taken together, constitutes a BioEconomy.
