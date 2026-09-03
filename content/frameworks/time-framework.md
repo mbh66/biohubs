@@ -13,7 +13,7 @@ Human societies have produced four broad forms of coordination over the past fiv
 
 ## The origin
 
-TIME builds on the [[frameworks/timn|TIMN Framework]] developed by RAND analyst [[david-ronfeldt|David Ronfeldt]], first set out in his 1996 paper *Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution* (RAND P-7967) and developed further in his 2025 Substack series *Rethinking What 'Tribes' and 'Networks' Are Good For*. Ronfeldt argues that each form gained strength at a different rate and matured in a different historical epoch, that each rests on its predecessors, and that each is tied to a distinct information and communications revolution.
+TIME builds on the [[timn-framework|TIMN Framework]] developed by RAND analyst [[david-ronfeldt|David Ronfeldt]], first set out in his 1996 paper *Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution* (RAND P-7967) and developed further in his 2025 Substack series *Rethinking What 'Tribes' and 'Networks' Are Good For*. Ronfeldt argues that each form gained strength at a different rate and matured in a different historical epoch, that each rests on its predecessors, and that each is tied to a distinct information and communications revolution.
 
 TIME retains Ronfeldt's first three forms and renames his fourth. Where Ronfeldt writes Networks (+N), TIME writes Emergent (+E). The renaming reflects a practical reality: the word "network" has been stretched to cover everything from Roman trade routes to social media platforms, and its meaning has thinned to the point of unusability in a coordination context. Emergent names what the fourth form actually does. The analytical framework is unchanged, and the vocabulary is sharpened.
 
@@ -69,7 +69,7 @@ The shift TIME asks of its users is perceptual before it is operational. A pract
 
 ## Related pages
 
-- [[frameworks/timn|The TIMN Framework]]
+- [[timn-framework|The TIMN Framework]]
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
 - [[concepts/commitment-pooling|Commitment Pooling]]
 - [[david-ronfeldt|David Ronfeldt]]

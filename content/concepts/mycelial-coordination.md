@@ -13,7 +13,7 @@ Mycelial Coordination is the operating pattern of the [[e-form-emergent|Emergent
 
 ## Overview
 
-Ronfeldt's [[frameworks/timn|TIMN framework]] identifies four forms of societal coordination that emerged in sequence: Tribes, Institutions, Markets, and Networks. Ronfeldt's own recent writing has questioned whether "Network" is the right name for the fourth form, and has opened the possibility that a genuinely new fifth form is now emerging. Michael Bauwens has quoted the framing directly: "We have excellent nodes. We don't yet have the mycelial network between them."
+Ronfeldt's [[timn-framework|TIMN framework]] identifies four forms of societal coordination that emerged in sequence: Tribes, Institutions, Markets, and Networks. Ronfeldt's own recent writing has questioned whether "Network" is the right name for the fourth form, and has opened the possibility that a genuinely new fifth form is now emerging. Michael Bauwens has quoted the framing directly: "We have excellent nodes. We don't yet have the mycelial network between them."
 
 Mycelial Coordination is the proposed name for the fifth form. The [[time|TIME framework]] used across this wiki renames Ronfeldt's fourth form as Emergent to make the same point in a different vocabulary. The two framings converge on the same content: a coordination form that operates at bioregional scale, holds multiple actors in productive relationship without central command, distributes intelligence through the network rather than concentrating it at nodes, and organizes around the health of the whole system it is embedded in.
 
@@ -61,7 +61,7 @@ The Mycelial Coordination framework is a working hypothesis. It is grounded in t
 
 - [[e-form-emergent|E Form (Emergent)]]
 - [[time|The TIME Framework]]
-- [[frameworks/timn|The TIMN Framework]]
+- [[timn-framework|The TIMN Framework]]
 - [[mycelial-consciousness|Mycelial Consciousness]]
 - [[biohub|BioHub]]
 - [[bioregion|BioRegion]]

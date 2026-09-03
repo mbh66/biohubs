@@ -9,6 +9,8 @@ source_documents: ["The_Evolution_of_Coordination_Nodes_Notion_Export"]
 epistemic_status: "structural-inference"
 ---
 
+The way humans have coordinated their activities has evolved over time through four fundamental forms: **Tribes (T)**, **Institutions (I)**, **Markets (M)**, and **Networks (N)**. 
+
 Each coordination form, as it matures, produces a characteristic physical structure. The structure compresses the form's invisible coordination logic into something visible, built, and capable of producing awe in the people who encounter it. The pattern holds across all four [[frameworks/time-framework|TIME]] forms, and the structural rhymes between them are strong enough to be predictive.
 
 ## Overview
@@ -97,7 +99,7 @@ The first three columns of this analysis (T, +I, +M) rest on documented facts an
 ## Related pages
 
 - [[frameworks/time-framework|The TIME Framework]]
-- [[frameworks/timn|The TIMN Framework]]
+- [[timn-framework|The TIMN Framework]]
 - [[essays/what-is-a-biohub|What Is a BioHub]]
 - [[coordination-node|Coordination Node (glossary)]]
 - [[legibility-signal|Legibility signal (glossary)]]

@@ -1,15 +1,23 @@
 ---
-title: "Rudolf Steiner"
-aliases: ["Rudolf Steiner", "Steiner"]
-tags: ["person", "philosophy", "threefolding", "anthroposophy"]
+title: Rudolf Steiner (1861-1925)
+aliases:
+  - Rudolf Steiner
+  - Steiner
+tags:
+  - person
+  - philosophy
+  - threefolding
+  - anthroposophy
 created: 2026-08-25
 updated: 2026-08-25
-source_project: "BioConomy"
-source_documents: ["I The Three Futures (Emancipation Architecture Movement I)", "EA Patron Project Criteria.md"]
-epistemic_status: "documented-fact"
+source_project: BioConomy
+source_documents:
+  - I The Three Futures (Emancipation Architecture Movement I)
+  - EA Patron Project Criteria.md
+epistemic_status: documented-fact
 ---
 
-Austrian philosopher and social reformer (1861-1925) whose threefold social order (*Dreigliederung*) provides the structural architecture for the [[frameworks/emancipation-architecture|Emancipation Architecture]]. Freedom in cultural life. Equality in rights life. Fraternity in economic life. These three principles are structurally incompatible when applied universally to a single unified system; only differentiation, each sphere operating according to its own logic while cooperating with the others, makes all three simultaneously realisable.
+Austrian philosopher and social reformer whose threefold social order (*Dreigliederung*) provides the structural architecture for the [[frameworks/emancipation-architecture|Emancipation Architecture]]. Freedom in cultural life. Equality in rights life. Fraternity in economic life. These three principles are structurally incompatible when applied universally to a single unified system; only differentiation, each sphere operating according to its own logic while cooperating with the others, makes all three simultaneously realisable.
 
 ## Contribution
 

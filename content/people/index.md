@@ -31,6 +31,7 @@ Representative entry points into the framework's intellectual lineage:
 - [[michel-bauwens|Michel Bauwens]]. [[glossary/cosmo-local-production|Cosmo-local production]], [[glossary/transvestment|transvestment]].
 - [[will-ruddick|Will Ruddick]]. Grassroots Economics, commitment pooling in the field.
 - [[lynn-margulis|Lynn Margulis]]. [[glossary/endosymbiosis|Endosymbiosis]]; the biological precedent for [[glossary/mycelial-consciousness|Mycelial Consciousness]].
+- [[vladimir-vernadsky|Vladimir Vernadsky]]. Biogeochemistry; the scientific formulation of the [[glossary/geosphere|geosphere]] / biosphere / [[glossary/noosphere|noosphere]] stratigraphy.
 - [[eva-gladek|Eva Gladek]]. The Metabolic field mapping.
 
 ## Related pages

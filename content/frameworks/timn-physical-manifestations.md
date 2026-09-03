@@ -13,7 +13,7 @@ Each of the four TIMN coordination forms produces a characteristic physical stru
 
 ## Overview
 
-The [[frameworks/timn|TIMN framework]] describes coordination forms as invisible relational patterns. Each form's mature physical manifestation is a compression of that pattern into built structure that makes the invisible visible. The sacred site compresses the tribal web of kinship into a place where the sacred touches the ordinary. The cathedral compresses ecclesiastical hierarchy into a stone claim on the sky. The skyscraper and stock index compress market competition into vertical scale and a single moving number. The bioregional hub with its BioScore compresses network coordination into a place-based digital layer.
+The [[timn-framework|TIMN framework]] describes coordination forms as invisible relational patterns. Each form's mature physical manifestation is a compression of that pattern into built structure that makes the invisible visible. The sacred site compresses the tribal web of kinship into a place where the sacred touches the ordinary. The cathedral compresses ecclesiastical hierarchy into a stone claim on the sky. The skyscraper and stock index compress market competition into vertical scale and a single moving number. The bioregional hub with its BioScore compresses network coordination into a place-based digital layer.
 
 The pattern holds structurally across all four columns: each form generates a concentrating node, a distillation object, a single-number legibility signal, and a portable symbol. Each carries a decoupling risk where the signal detaches from the reality it claims to represent. The +N form is genuinely emergent and speculative; it stands in the same structural relationship to the collapsing +M form that the cathedral stood in to the collapsing late-Roman order.
 
@@ -99,7 +99,7 @@ The absence of a mature +N portable symbol is the strongest single indicator of 
 
 ## Related pages
 
-- [[frameworks/timn|The TIMN Framework]]
+- [[timn-framework|The TIMN Framework]]
 - [[frameworks/time-framework|The TIME Framework]]
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
 - [[mycelial-coordination|Mycelial Coordination]]

@@ -1,12 +1,15 @@
 ---
-title: "Georges Duby"
+title: Georges Duby (1919–1996)
 aliases: []
-tags: ["person", "coordination"]
+tags:
+  - person
+  - coordination
 created: 2026-08-25
 updated: 2026-08-25
-source_project: "BioConomy"
-source_documents: ["BioHub_Glossary_Notion_Export"]
-epistemic_status: "documented-fact"
+source_project: BioConomy
+source_documents:
+  - BioHub_Glossary_Notion_Export
+epistemic_status: documented-fact
 ---
 
 

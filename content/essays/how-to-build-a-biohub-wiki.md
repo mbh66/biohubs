@@ -9,7 +9,7 @@ source_documents: []
 epistemic_status: "documented-framework"
 ---
 
-A [[glossary/biohub|BioHub]] wiki is a standalone site that publishes a BioHub's local knowledge in a form peer BioHubs can read, both through human coordinators and through AI agents scanning for ways to combine efforts. This essay describes the layout, the conventions that make it interoperable across a [[glossary/bioregion|BioRegion]], and the reading pattern an AI agent follows when it arrives at a peer BioHub's wiki looking for collaboration.
+A [[glossary/biohub|BioHub]] wiki is a standalone website that publishes a BioHub's local knowledge in a semi-structured form. Other BioHubs can read, both through human coordinators and through AI agents scanning for ways to combine efforts. This essay describes the layout, the conventions that make it interoperable across a [[glossary/bioregion|BioRegion]], and the reading pattern an AI agent follows when it arrives at a peer BioHub's wiki looking for collaboration.
 
 ## Overview
 
@@ -117,7 +117,8 @@ The BioConomy wiki holds the templates. The BioHub wiki publishes their outputs.
 
 A coordinator whose founding suite is complete populates the wiki in this order:
 
-Set up Quartz. Point it at the domain. Confirm the build pipeline works.
+1. Set up Quartz: https://quartz.jzhao.xyz (For non-technical users, simply ask your AI platform to walk you through the process, using this prompt: `` )
+2. Point it at the domain. Confirm the build pipeline works.
 
 Write the home page and `llms.txt` from the Identity Statement. Populate the identity folder from the three Identity outputs. Populate the BioRegion folder from the three BioRegion outputs, breaking the Atlas into the nine profile pages. Populate the services folder from the Value Proposition Statement, Evidence Pack, and Tender Compact. Populate the alignments folder from each Alignment run's three outputs.
 

@@ -28,7 +28,7 @@ Ronfeldt spent his career at RAND Corporation as a Senior Social Scientist in th
 - **Competitive Markets** (trading, banking, companies)
 - **Multi-Org Networks** (civil societies and activist groups)
 
-The full framework is set out in the 1996 RAND paper *Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution* (P-7967) and treated at length on the [[frameworks/timn|TIMN Framework]] page.
+The full framework is set out in the 1996 RAND paper *Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution* (P-7967) and treated at length on the [[timn-framework|TIMN Framework]] page.
 
 ## The information-revolution schema
 

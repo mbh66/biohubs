@@ -1,5 +1,5 @@
 ---
-title: "Clare Graves"
+title: Clare Graves (1914-1986)
 aliases:
   - Clare Graves
   - Clare W. Graves
@@ -11,11 +11,11 @@ tags:
   - consciousness
 created: 2026-08-25
 updated: 2026-08-27
-source_project: "BioConomy"
+source_project: BioConomy
 source_documents:
   - I The Three Futures (Emancipation Architecture Movement I)
   - Roam Research (MichaelHaupt graph)
-epistemic_status: "documented-fact"
+epistemic_status: documented-fact
 ---
 
 American psychologist (1914-1986) whose emergent cyclical theory of adult human development identifies the sequence of value systems by which individuals and societies respond to changing conditions of existence. His 1974 paper "Human Nature Prepares for a Momentous Leap" identified three possible outcomes for human civilization (Termination, Technofeudalism, Transcendence in the Emancipation Architecture's renaming), and remains the anchor text for Movement I of the [[frameworks/emancipation-architecture|Emancipation Architecture]].

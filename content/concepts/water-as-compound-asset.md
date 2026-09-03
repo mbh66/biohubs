@@ -58,7 +58,7 @@ A functioning +E layer produces measurable outputs beyond water: soil carbon, bi
 ## Related pages
 
 - [[time|The TIME Framework]]
-- [[frameworks/timn|TIMN]]
+- [[timn-framework|TIMN]]
 - [[commitment-pooling|Commitment Pooling]]
 - [[water-retention-landscape|Water Retention Landscapes (glossary)]]
 - [[concepts/water-retention-landscapes|Water Retention Landscapes (concept)]]

@@ -9,17 +9,24 @@ source_documents: []
 epistemic_status: "documented-framework"
 ---
 
-This wiki documents the [[bioconomy|BioConomy]] framework: a coordination architecture for economies organized around [[bioregion|BioRegions]]. It exists to help those navigating the liminal space that inevitably occurs during periods of societal transition.
+This wiki documents the [[bioconomy|BioConomy]] framework: a coordination architecture for economies organized around [[bioregion|BioRegions]]. 
+
+Society organizes itself in four fundamental forms: **Tribes (T)**, **Institutions (I)**, **Markets (M)**, and **Emergent (E)**. 
+- Under the [[glossary/m-form-market|Market form]], people relate to Institutions and Markets as **clients**: taxes and wages buy services and consumption. 
+- Under the [[glossary/e-form-emergent|Emergent form]], E-form actors ([[glossary/biohub|BioHubs]], cooperatives, and the coordination nodes they organize) relate to those same Institutions and Markets as **providers**, supplying the substrate outcomes those Institutions and Markets need and cannot produce internally.
+
+This wiki exists to help those navigating the liminal space between the Market and Emergent forms.
 
 ## Three ways to engage with the wiki
 
 ### 1. Orientation
 
-If you're new to the bioregional [[regenerative]] movement, read these four orientation essays first. Together they quickly orientate you within the framework the wiki adopts.
+If you're new to the bioregional [[regenerative]] movement, read these orientation essays first. Together they quickly orientate you within the framework the wiki adopts.
 
+- [[evolution-of-coordination-nodes|Evolution of Human Coordination]]
 - [[essays/what-is-a-biohub|What Is a BioHub?]]
 - [[essays/what-is-a-bioregion|What Is a BioRegion?]]
-- [[essays/what-is-a-bioconomy|What Is a BioConomy?]] (and how it differs from the Economy)
+- [[essays/what-is-a-bioconomy|What Is a BioConomy?]] (and how it differs from the [[economy|Economy]])
 - [[essays/from-bioregion-to-bioregion|From a bioregion to a BioRegion]] (and how to tell the difference)
 
 ### 2. AI Quick-engage
@@ -27,6 +34,8 @@ If you're new to the bioregional [[regenerative]] movement, read these four orie
 The wiki is written to be read by humans and by AI systems. Commercial large language models have absorbed only fragments of the BioConomy corpus during their general training; the coherent body of work sits here and is easily accessible for both machines and humans. We explain this in [[carbon-silicon-partnership|Carbon-Silicon Partnership]].
 
 [[essays/ai-quick-engage|AI Quick-Engage]] gives four prompts to copy into any deep-research AI platform alongside your own project documents. The prompts diagnose where your bioregion still runs on the [[economy|Economy]] and identify the shortest paths to funding [[glossary/retention-economics|retention]] work.
+
+Alternatively, simply point your AI chatbot at https://wiki.bioconomy.earth/llms.txt and ask any question you'd like.
 
 ### 3. AI Deep dive
 

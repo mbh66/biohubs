@@ -4,7 +4,7 @@ aliases: ["noosphere", "sphere of thought", "sphere of human thought"]
 tags: ["glossary"]
 term_type: "borrowed-technical"
 first_defined_in: ""
-related_terms: ["geosphere", "mycelial-consciousness", "material-consciousness", "carbon-silicon-partnership", "coordination-node"]
+related_terms: ["geosphere", "biosphere", "mycelial-consciousness", "material-consciousness", "carbon-silicon-partnership", "coordination-node"]
 source_project: "BioConomy"
 created: 2026-08-30
 updated: 2026-08-30
@@ -17,6 +17,7 @@ The global layer of human thought, consciousness, and collective intelligence. V
 ## Related terms
 
 - [[glossary/geosphere|Geosphere]]
+- [[glossary/biosphere|Biosphere]]
 - [[glossary/mycelial-consciousness|Mycelial Consciousness]]
 - [[glossary/material-consciousness|Material Consciousness]]
 - [[concepts/carbon-silicon-partnership|Carbon-Silicon Partnership]]

@@ -127,7 +127,7 @@ Three findings.
 
 ## Related pages
 
-- [[frameworks/timn|The TIMN Framework]]
+- [[timn-framework|The TIMN Framework]]
 - [[commitment-pooling|Commitment Pooling]]
 - [[mweria|Mweria (glossary)]]
 - [[curation-valuation-limitation-exchange|Curation, Valuation, Limitation, Exchange (glossary)]]

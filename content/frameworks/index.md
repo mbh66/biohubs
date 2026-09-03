@@ -19,7 +19,7 @@ Some frameworks are borrowed and used with a specific technical sense (TIMN from
 
 ## Where to start
 
-- [[frameworks/timn|The TIMN Framework]]. Tribal, Institutional, Market, Emergent: the four forms of [[glossary/human-coordination|human coordination]] Ronfeldt identified, and the analytical vocabulary the wiki uses throughout.
+- [[timn-framework|The TIMN Framework]]. Tribal, Institutional, Market, Emergent: the four forms of [[glossary/human-coordination|human coordination]] Ronfeldt identified, and the analytical vocabulary the wiki uses throughout.
 - [[frameworks/s-curve-thesis|The S-Curve Thesis]]. The developmental arc that makes [[glossary/retention-economics|retention]] logic legible now.
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]. The monetary and coordination architecture that inverts the twelve-thousand-year [[glossary/coercion-continuum|Coercion Continuum]].
 - [[frameworks/three-lineages|The Three Lineages]]. [[glossary/throughput|Throughput]], Retention, [[glossary/regenerative|Regenerative]]: the three approaches to economic thinking BioConomy positions itself against.

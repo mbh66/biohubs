@@ -28,7 +28,7 @@ An analytical vocabulary that names four coordination forms (Tribal, Institution
 
 ## Related terms
 
-- [[content/glossary/timn|TIMN]] and full [[content/frameworks/timn|TIMN Framework]]
+- [[content/glossary/timn|TIMN]] and full [[timn-framework|TIMN Framework]]
 - [[t-form-tribal|T form (Tribal)]]
 - [[i-form-institutional|I form (Institutional)]]
 - [[m-form-market|M form (Market)]]

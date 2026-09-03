@@ -1,12 +1,19 @@
 ---
-title: "Ibrahim Abouleish"
-aliases: ["Ibrahim Abouleish", "SEKEM founder"]
-tags: ["person", "biodynamic", "sekem", "patronage"]
+title: Ibrahim Abouleish (1937-2017)
+aliases:
+  - Ibrahim Abouleish
+  - SEKEM founder
+tags:
+  - person
+  - biodynamic
+  - sekem
+  - patronage
 created: 2026-08-25
 updated: 2026-08-25
-source_project: "BioConomy"
-source_documents: ["Abouleish_Research_Brief_EA_Patron_Criteria.md"]
-epistemic_status: "documented-fact"
+source_project: BioConomy
+source_documents:
+  - Abouleish_Research_Brief_EA_Patron_Criteria.md
+epistemic_status: documented-fact
 ---
 
 Egyptian-Austrian pharmacologist (1937-2017) who founded SEKEM in 1977 on 70 hectares of desert land 60 km northeast of Cairo, developing it over four decades into a diversified group of biodynamic agricultural, pharmaceutical, food, and textile enterprises, alongside a school, medical center, vocational training center, arts school, and Heliopolis University for Sustainable Development.

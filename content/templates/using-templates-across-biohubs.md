@@ -13,7 +13,7 @@ The [[index|founding suite]] is not one-shot. More than one [[biohub|BioHub]] ca
 
 ## Multi-BioHub coordination within a BioRegion
 
-The templates treat multi-BioHub coordination as the default case, not the exception. Ronfeldt's [[content/frameworks/timn|TIMN]] framework holds that no coordination form suits every task; a BioRegion with several coordination bodies working different aspects of the same landscape is normal, not anomalous.
+The templates treat multi-BioHub coordination as the default case, not the exception. Ronfeldt's [[timn-framework|TIMN]] framework holds that no coordination form suits every task; a BioRegion with several coordination bodies working different aspects of the same landscape is normal, not anomalous.
 
 Multi-BioHub context appears in three places across the suite:
 
@@ -76,7 +76,7 @@ This is a working area. Global precedent is thin. Where the overlap is substanti
 - [[bankable-service-alignment-template|Bankable Service Alignment Template]]
 - [[polycentricity|Polycentricity]]
 - [[subsidiarity|Subsidiarity]]
-- [[content/frameworks/timn|TIMN Framework]]
+- [[timn-framework|TIMN Framework]]
 
 ## Provenance
 

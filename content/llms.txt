@@ -8,6 +8,10 @@ The primary analytical framework is the TIME Framework (Tribal, Institutional, M
 
 The wiki targets practitioners working at the bioregional scale who want to apply this framework in their own geographies. Four AI-assisted templates (the founding suite) translate the conceptual material into structured outputs a BioHub cohort can run.
 
+## Coordination surface
+
+- [Coordination Surface](https://wiki.bioconomy.earth/coordination-surface): What the BioConomy project offers, what it seeks, which financial-instrument classes are in scope, and how to make contact. The structured handshake page a peer BioHub wiki (or an AI agent scanning on its behalf) reads to determine whether coordination is worth exploring.
+
 ## Orientation essays
 
 - [What Is a BioHub](https://wiki.bioconomy.earth/essays/what-is-a-biohub): The coordination body anchored in a specific BioRegion, organizing distributed contributions into fundable commitments

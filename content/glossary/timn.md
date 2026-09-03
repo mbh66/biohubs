@@ -22,7 +22,7 @@ TIMN is a theoretical framework developed by [[david-ronfeldt|David Ronfeldt]] t
 
 Each of these forms represents a distinct system of beliefs, structures, and dynamics that influence how societies are organized and function.
 
-For further detail, see the full [[content/frameworks/timn|TIMN Framework]].
+For further detail, see the full [[timn-framework|TIMN Framework]].
 
 ## Related terms
 
