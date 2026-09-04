@@ -21,7 +21,7 @@ Austrian farmer, author, and international consultant for natural agriculture wh
 
 ## Contribution
 
-Josef "Sepp" Holzer developed an integrated approach to permaculture at his family farm, the Krameterhof, in the Austrian Alps at elevations between 1,100 and 1,500 meters. Over decades he created a network of ponds, terraces, and polyculture plantings that retain water across the landscape, moderate temperature extremes, and produce food in conditions that conventional agriculture considers marginal.
+Josef "Sepp" Holzer developed an integrated approach to permaculture at his family farm, the Krameterhof, in the Austrian Alps at elevations between 1,100 and 1,500 meters. Over decades he created a network of ponds, terraces, and [[glossary/polyculture|polyculture]] plantings that retain water across the landscape, moderate temperature extremes, and produce food in conditions that conventional agriculture considers marginal.
 
 His approach is distinguished from mainstream permaculture by its scale and its emphasis on water as the primary design element. Where many permaculture practitioners work at garden scale, Holzer works at landscape scale, creating water bodies that serve as thermal mass, habitat, and irrigation reserves simultaneously. The Krameterhof demonstrates that water retention landscapes are not theoretical propositions but working agricultural systems.
 

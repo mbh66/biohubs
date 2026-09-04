@@ -7,6 +7,7 @@ tags:
 term_type: standard
 first_defined_in: ""
 related_terms:
+  - bioplace
   - bioregion
   - biohub
   - biostack
@@ -29,6 +30,7 @@ _BioConomy_ restores the household frame at the scale of a living region. It tre
 ## Related terms
 
 - [[bioconomy|BioConomy]]
+- [[bioplace|BioPlace]]
 - [[bioregion|BioRegion]]
 - [[biohub|BioHub]]
 - [[biostack|BioStack]]

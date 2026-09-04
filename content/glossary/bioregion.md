@@ -4,7 +4,7 @@ aliases: []
 tags: ["glossary", "core-concept"]
 term_type: "coined"
 first_defined_in: ""
-related_terms: ["biohub", "bioregional-economics", "biohub-field-sense", "bioconomy", "biostack"]
+related_terms: ["bioplace", "biohub", "bioregional-economics", "biohub-field-sense", "bioconomy", "biostack"]
 source_project: "BioConomy"
 created: 2026-08-24
 updated: 2026-08-24
@@ -16,6 +16,7 @@ A BioRegion is a geographical area defined by ecological systems rather than pol
 
 ## Related terms
 
+- [[bioplace|BioPlace]]
 - [[biohub|BioHub]]
 - [[bioregional-economics|Bioregional Economics]]
 - [[biohub-field-sense|BioHub (field sense)]]

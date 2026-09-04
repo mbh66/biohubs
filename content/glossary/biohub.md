@@ -4,7 +4,7 @@ aliases: []
 tags: ["glossary", "core-concept"]
 term_type: "coined"
 first_defined_in: ""
-related_terms: ["bioregion", "bioregional-economics", "biohub-field-sense", "bioregional-learning-centre", "bioconomy", "biostack"]
+related_terms: ["bioplace", "bioregion", "bioregional-economics", "biohub-field-sense", "bioregional-learning-centre", "bioconomy", "biostack"]
 source_project: "BioConomy"
 created: 2026-08-24
 updated: 2026-08-24
@@ -16,6 +16,7 @@ A BioHub is a bioregional coordination body that convenes the people, institutio
 
 ## Related terms
 
+- [[bioplace|BioPlace]]
 - [[bioregion|BioRegion]]
 - [[bioregional-economics|Bioregional Economics]]
 - [[biohub-field-sense|BioHub (field sense)]]

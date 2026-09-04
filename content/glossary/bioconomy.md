@@ -4,7 +4,7 @@ aliases: ["bio-conomy"]
 tags: ["glossary", "core-concept"]
 term_type: "coined"
 first_defined_in: ""
-related_terms: ["bioregion", "biohub", "biostack"]
+related_terms: ["bioplace", "bioregion", "biohub", "biostack"]
 source_project: "BioConomy"
 created: 2026-08-24
 updated: 2026-08-24
@@ -16,6 +16,7 @@ The economic system that emerges when bioregions coordinate their productive act
 
 ## Related terms
 
+- [[bioplace|BioPlace]]
 - [[bioregion|BioRegion]]
 - [[biohub|BioHub]]
 - [[biostack|BioStack]]
