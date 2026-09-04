@@ -59,6 +59,7 @@ Indigenous and communal stewardship traditions carry the deepest continuity in t
 
 - [[glossary/bioplace|BioPlace]]
 - [[glossary/biostack|BioStack]]
+- [[tools/bioplace/index|BioPlace Tools]]
 - [[glossary/permaculture|Permaculture]]
 - [[glossary/iact-framework|iACT Framework]]
 - [[concepts/economy-versus-bioconomy|Economy versus BioConomy]]

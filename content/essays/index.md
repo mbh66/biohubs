@@ -33,6 +33,7 @@ Once the orientation set is read:
 - [[essays/how-to-engage-your-bioregion|How to Engage Your Bioregion]]. The bridge from theory to running the templates.
 - [[essays/ai-quick-engage|AI Quick-Engage]]. Four prompts for a fast, useful diagnostic before committing to the templates suite.
 - [[essays/how-to-build-a-biohub-wiki|How to Build a BioHub Wiki]]. The wiki as the mechanism by which nodes of local knowledge are shared across a BioRegion.
+- [[essays/how-the-bioconomy-coordinates|How the BioConomy Coordinates]]. The grounding essay: stigmergy as the coordination mechanism of the Emergent form, and the coordination-surface file as the substrate the network publishes.
 - [[essays/from-geosphere-to-noosphere|From Geosphere to Noosphere]]. The BioHub wiki as the translation layer between the physical Earth and collective intelligence.
 
 ## Related pages

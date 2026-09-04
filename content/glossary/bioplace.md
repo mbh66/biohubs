@@ -31,6 +31,7 @@ A BioPlace can be a quarter-hectare urban plot or a hundred-hectare mixed holdin
 ## Related pages
 
 - [[concepts/the-bioplace-layer|The BioPlace Layer]]
+- [[tools/bioplace/index|BioPlace Tools]]
 - [[concepts/economy-versus-bioconomy|Economy versus BioConomy]]
 
 ## Sources and associated figures
