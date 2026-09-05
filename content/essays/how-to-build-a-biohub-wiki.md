@@ -3,7 +3,7 @@ title: "How to Build a BioHub Wiki"
 aliases: ["biohub wiki", "building a biohub wiki", "biohub wiki layout"]
 tags: ["essay", "orientation", "biohub", "coordination", "wiki"]
 created: 2026-08-30
-updated: 2026-09-03
+updated: 2026-09-05
 source_project: "BioConomy"
 source_documents: []
 epistemic_status: "documented-framework"
@@ -21,7 +21,7 @@ This is [[glossary/mycelial-coordination|mycelial coordination]] made operationa
 
 ## What the wiki publishes
 
-The wiki publishes the outputs of the [[templates/index|four-template founding suite]], organized for both human navigation and machine parsing. It assumes the founding suite has been completed and the nine establishment outputs exist. The content falls into seven areas.
+The wiki publishes the outputs of the [[templates/index|four-template founding suite]], organized for both human navigation and machine parsing. It assumes the founding suite has been completed and the nine establishment outputs exist. The content falls into eight areas.
 
 **Identity.** The three outputs of the [[templates/biohub-identity-template|BioHub Identity Template]]: the [[glossary/identity-statement|Identity Statement]], the Field and Lineage Positioning, and the [[glossary/founding-compact|Founding Compact]]. These tell a peer BioHub who you are, what intellectual lineage you draw on, how your cohort is governed, and what patronage architecture funds the work.
 
@@ -34,6 +34,10 @@ The wiki publishes the outputs of the [[templates/index|four-template founding s
 **Policy frameworks.** A dedicated index of every government framework the BioHub has chosen to embrace, organized by jurisdiction level (international, national, provincial, municipal) and by domain (water, biodiversity, land use, climate, cultural heritage, cooperative governance, finance). Each entry states the framework's name, the BioHub's adoption status, and links to the section of the Atlas, Charter, or Alignment Evidence Pack where the framework is treated in operational depth. Where a framework is substantial enough to warrant its own page (a national water act, a biodiversity offset regulation, a municipal spatial development framework), it gets one. The policy index is a coordination signal: two BioHubs operating under the same national water act have a natural basis for sharing compliance documentation, coordinating engagement with government agencies, and aligning verification methodologies.
 
 **Data.** Monitoring information: what is measured, where, how often, by what methodology. [[glossary/bioscore|BioScore]] sub-scores where the BioHub is enrolled with Guardians of Earth. Baselines from the Atlas. This section carries structured metadata an AI agent can parse to compare monitoring approaches across peer BioHubs.
+
+**Entities.** Reference pages for the institutional parties named across the BioHub's historical record and current coordination context: municipalities, government departments, church bodies, consultancies, community organizations, and other institutions the wiki refers to. Each entity page carries the factual record for the party (formation, mandate, actions taken, current position), so a reader arriving without context can situate every acronym and short name the wiki uses. Active partners with ongoing relationships to the BioHub get their fuller relational entry under Partners. A peer BioHub's AI agent uses the entities pages to disambiguate references it encounters in the historical record and to trace institutional continuity across time.
+
+The line between Entities and Partners tracks physical domicile. An entity is any actor domiciled inside the BioRegion the BioHub anchors: the local and district municipalities, the community committees and residents' associations, the churches and their landholdings, the schools and museums, the businesses and cooperatives whose registered address sits within the BioRegion's territory. A partner is any actor whose domicile lies outside the BioRegion: a national government department headquartered in the capital, a consultancy working on a contract, a philanthropic funder, a verification agent, a peer BioHub in another bioregion. A party's page goes in the folder its domicile places it in, regardless of how frequently that party engages with the BioHub. Where a partner opens a local office within the BioRegion, an entity page opens for that office as well, with the two cross-linked and domicile treated as the primary organizing fact.
 
 **Coordination surface.** The page that makes the mycelial pattern operational. It lists what the BioHub offers peer BioHubs (methodology, data, legal templates, cohort secondment, joint tenders), what it seeks from peer BioHubs (verification partnerships, entity-structure precedents, measurement capacity), and which financial instruments it is targeting where joint alignment would be valuable. The coordination surface is the first page a peer BioHub's AI agent reads after `llms.txt`.
 
@@ -57,6 +61,7 @@ content/
 ├── data/                       Monitoring, BioScore, baselines
 ├── cohort/                     Founding cohort and current participants
 ├── partners/                   Implementation partners, verification agents, peer BioHubs
+├── entities/                   Institutional parties named across the record
 ├── journal/                    Chronological coordination milestones
 └── sources/                    Local source pages
 ```
@@ -69,7 +74,7 @@ Every page is written for a human coordinator arriving without context. Every pa
 
 Service pages carry frontmatter naming the service category, readiness status, counterparties, retention model, monitoring status, verification agent, applicable policy frameworks, gap count, and whether peer coordination is open. The coordination surface carries structured lists of offers, seeks, shared instruments, and contact protocols. The home page carries the BioHub's name, BioRegion, anchor location, founding date, link to the BioConomy wiki, and a list of known peer BioHubs with their wiki URLs.
 
-The structured layer uses a controlled vocabulary consistent across all BioHub wikis. Service categories use the same six slugs everywhere: `water-yield`, `carbon-sequestration`, `biodiversity-data`, `heritage-and-tourism`, `food-systems`, `coordination-as-employment`. Readiness status uses the same three categories: `contractable-now`, `contractable-after-build-out`, `speculative-pending-research`. Page types use a shared set: `biohub-home`, `coordination-surface`, `biohub-service`, `policy-framework`, `biohub-data`, `journal-entry`, `alignment`, `cohort-member`, `partner`. An AI agent filtering on type and service slug can match complementary capabilities across BioHubs without parsing a sentence.
+The structured layer uses a controlled vocabulary consistent across all BioHub wikis. Service categories use the same six slugs everywhere: `water-yield`, `carbon-sequestration`, `biodiversity-data`, `heritage-and-tourism`, `food-systems`, `coordination-as-employment`. Readiness status uses the same three categories: `contractable-now`, `contractable-after-build-out`, `speculative-pending-research`. Page types use a shared set: `biohub-home`, `coordination-surface`, `biohub-service`, `policy-framework`, `biohub-data`, `journal-entry`, `alignment`, `cohort-member`, `partner`, `entity`. An AI agent filtering on type and service slug can match complementary capabilities across BioHubs without parsing a sentence.
 
 ## How an AI agent reads a peer BioHub's wiki
 
@@ -242,7 +247,7 @@ npx quartz sync
 
 Write the home page and `llms.txt` from the Identity Statement. Populate the identity folder from the three Identity outputs. Populate the BioRegion folder from the three BioRegion outputs, breaking the Atlas into the nine profile pages. Populate the services folder from the Value Proposition Statement, Evidence Pack, and Tender Compact. Populate the alignments folder from each Alignment run's three outputs.
 
-Build the policy index by extracting every government framework referenced across the outputs and organising them by jurisdiction and domain. Populate the data pages from the monitoring and verification sections of the Atlas and Alignment Evidence Packs. Populate the cohort and partners pages from the Founding Compact and Alignment Compact.
+Build the policy index by extracting every government framework referenced across the outputs and organising them by jurisdiction and domain. Populate the data pages from the monitoring and verification sections of the Atlas and Alignment Evidence Packs. Populate the cohort and partners pages from the Founding Compact and Alignment Compact. Populate the entities folder by extracting every named institutional party from the identity, alignment, policy, and historical pages, and writing a factual reference page for each.
 
 Write the coordination surface from the Readiness Diagnostic, Gap Register, and the coordinator's knowledge of what the BioHub seeks from peers. Begin the journal with the founding milestone.
 
@@ -280,5 +285,7 @@ Written 30 August 2026 as the operational companion to the four-template foundin
 ### Changes from prior version
 
 Revised 3 September 2026. The Getting Started section now includes a subdomain naming convention using ISO country codes, One Earth Bioregions Framework codes (built on the RESOLVE Ecoregions 2017 dataset), and a BioHub slug. Added a complete AI-assisted setup prompt that non-technical coordinators can paste into any AI assistant to be walked through Quartz installation, GitHub repository creation, GitHub Actions deployment, and custom domain configuration. Added a command summary for experienced users. Sources updated to include the RESOLVE Ecoregions dataset and One Earth Bioregions Framework.
+
+Revised 5 September 2026. Added an Entities folder to the wiki layout, described in the What the Wiki Publishes and Populating the Wiki sections and shown in the folder structure. Added `entity` to the shared page-type vocabulary. Rationale: BioHubs operate inside institutional environments where municipalities, government departments, church bodies, consultancies, and community organizations are named repeatedly across the historical record and the current coordination context. A factual reference page for each such party lets a human coordinator and a peer BioHub's AI agent disambiguate acronyms and trace institutional continuity without having to reconstruct context from prose. Added a second Entities paragraph specifying the line between Entities and Partners as physical domicile inside the BioRegion, with the entities folder holding pages for parties domiciled inside and the partners folder holding pages for parties domiciled elsewhere.
 
 Revised 4 September 2026. Removed ISO country codes from the subdomain naming convention. The scheme is now `{bioregion}-{slug}.bioconomy.earth`. Rationale: country codes belong to the addressing layer of the Economy. The BioConomy anchors its addressing to the biosphere. Added a paragraph explaining the choice and linking to the new [[concepts/bioregional-addressing|Bioregional Addressing]] concept page. Updated examples throughout to the country-free form (`at12-vog`, `at10-laikipia`, `nt1-xingu`). The Cape Shrublands bioregion example was updated to `at12` to match the codes in use across the current wiki network.
