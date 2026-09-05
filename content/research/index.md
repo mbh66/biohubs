@@ -23,6 +23,7 @@ Research briefs are the wiki's most detailed layer. A concept page tells you wha
 - [[research/corporate-partnerships-protected-areas|Corporate Partnerships in Protected-Area Landscapes]]. The current state of corporate ESG funding for landscape-scale restoration.
 - [[research/bioprecipitation|Bioprecipitation]]. A careful reading of the vegetation-rainfall evidence, separating defensible claims from overreaching ones.
 - [[research/pooling-across-timn|Pooling Across TIMN]]. The coordination-form basis for commitment pooling.
+- [[research/promise-theory-across-timn|Promise Theory Across TIMN]]. The Promise Theory analytical layer over the pooling cases, reading each TIMN form as a promise-to-imposition arc.
 - [[research/historical-patronage-three-feature-test|Historical Patronage and the Three-Feature Test]]. The case for the emerging [[glossary/mycelial-patronage|Mycelial Patronage]] architecture.
 - [[research/comenius-to-schmidt-chain|The Comenius-to-Schmidt Chain]]. A four-century case study of portable pedagogical code surviving the removal of its founding institution.
 - [[research/abouleish-sekem|Abouleish and SEKEM]]. The Egyptian precedent for cooperative bioregional development at scale.

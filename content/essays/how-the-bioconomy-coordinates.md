@@ -53,7 +53,7 @@ Together these properties mean that what an assembly of delegates would coordina
 
 The design premise carries consequences for what a BioHub cohort spends its time on. The founding suite templates produce a specific set of published outputs. The wiki is populated to publish them at predictable paths. The coordination surface is maintained as offers and seeks change. Restoration, monitoring, tender preparation, and cohort life all sit on the base the coordination surface provides.
 
-The coordination work is reading peer wikis and adjusting your published surface as capacity changes. It is a small fraction of what an assembly would consume. That fraction is the point.
+The coordination work is reading peer wikis (the [[wiki-network/index|wiki network]] folder lists the peer BioHubs currently publishing to the convention) and adjusting your published surface as capacity changes. It is a small fraction of what an assembly would consume. That fraction is the point.
 
 ## Related pages
 

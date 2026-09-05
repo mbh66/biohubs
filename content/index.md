@@ -55,6 +55,7 @@ The navigation on your left allows you to jump directly into whatever area of in
 | **[[sources/index\|Sources]]**       | The books, papers, and external works cited across the wiki, each with a short note on what the work argues and why it matters here.                                      |
 | **[[people/index\|People]]**         | The thinkers, practitioners, and collaborators whose work feeds the BioConomy corpus.                                                                                     |
 | **[[templates/index\|Templates]]**   | The four-template founding suite for a BioHub cohort. Each template is a three-prompt sequence run with a deep research AI platform, with cohort review between prompts.  |
+| **[[wiki-network/index\|Wiki Network]]** | Peer BioHub wikis that publish the coordination-surface layout convention and are readable by the stigmergic coordination pattern the corpus describes. The starting point for reading the network. |
 
 ## Provenance
 

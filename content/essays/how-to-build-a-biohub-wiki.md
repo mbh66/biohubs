@@ -122,18 +122,19 @@ A coordinator whose founding suite is complete populates the wiki in this order.
 Every BioHub wiki sits at a subdomain of `bioconomy.earth`. The subdomain convention is:
 
 ```
-{country}-{bioregion}-{slug}.bioconomy.earth
+{bioregion}-{slug}.bioconomy.earth
 ```
 
 The components:
 
-- **Country**: the two-letter ISO 3166-1 country code (`za` for South Africa, `br` for Brazil, `ke` for Kenya).
-- **Bioregion**: the One Earth Bioregions Framework code, which combines a two-letter realm prefix with a bioregion number. The codes are built on the RESOLVE Ecoregions 2017 dataset. For southern African fynbos and renosterveld, the code is `at2` (Afrotropics bioregion 2: South African Cape Shrublands & Mountain Forests). The full list is at [oneearth.org/bioregion-list](https://www.oneearth.org/bioregion-list/).
+- **Bioregion**: the One Earth Bioregions Framework code, which combines a two-letter realm prefix with a bioregion number. The codes are built on the RESOLVE Ecoregions 2017 dataset. For the South African Cape Shrublands & Mountain Forests, the code is `at12`. The full list is at [oneearth.org/bioregion-list](https://www.oneearth.org/bioregion-list/).
 - **Slug**: a short, recognisable name for the BioHub, typically three to five characters. The Overberg BioHub in the Riviersonderend catchment uses `vog` (Valley of Grace).
 
-Examples: `za-at2-vog.bioconomy.earth`, `ke-at10-laikipia.bioconomy.earth`, `br-nt1-xingu.bioconomy.earth`.
+Examples: `at12-vog.bioconomy.earth`, `at10-laikipia.bioconomy.earth`, `nt1-xingu.bioconomy.earth`.
 
-Where only one BioHub exists in a country-bioregion pair, the slug can be omitted: `za-at2.bioconomy.earth`. Add the slug when a second BioHub registers in the same pair.
+Where only one BioHub exists in a bioregion, the slug can be omitted: `at12.bioconomy.earth`. Add the slug when a second BioHub registers in the same bioregion.
+
+The absence of a country field is deliberate. Country codes belong to the addressing layer of the [[glossary/economy|Economy]] and inherit its assumptions about who counts as a coordinating actor. The BioConomy anchors its addressing to the biosphere. The choice is treated at concept-level depth in [[concepts/bioregional-addressing|Bioregional Addressing]].
 
 #### Finding your bioregion code
 
@@ -154,7 +155,7 @@ The bioregion code has two parts: a realm prefix and a bioregion number. To find
 
 2. **Look up your bioregion number.** Go to [oneearth.org/bioregion-list](https://www.oneearth.org/bioregion-list/) and find the bioregion that covers your area. Each bioregion has a name and a number within its realm. The interactive map at [map.oneearth.org](https://map.oneearth.org/) lets you click your location to see the bioregion directly.
 
-3. **Combine them.** The code is the lowercase realm prefix followed by the bioregion number, with no separator. A BioHub in the Laikipia Plateau of Kenya sits in Afrotropic bioregion 10 (East African Montane Forests & Grasslands), so the code is `at10`. A BioHub in the Xingu basin of Brazil sits in Neotropic bioregion 1 (Amazonian Forests & Grasslands), so the code is `nt1`.
+3. **Combine them.** The code is the lowercase realm prefix followed by the bioregion number, with no separator. A BioHub in the Laikipia Plateau sits in Afrotropic bioregion 10 (East African Montane Forests & Grasslands), so the code is `at10`. A BioHub in the Xingu basin sits in Neotropic bioregion 1 (Amazonian Forests & Grasslands), so the code is `nt1`.
 
 The [[research/resolve-ecoregions-2017|RESOLVE Ecoregions 2017]] page on this wiki lists all 847 ecoregions that form the spatial foundation for these bioregion groupings.
 
@@ -186,7 +187,7 @@ If you are comfortable with Git and Node.js, skip to the command summary below. 
 > npx quartz create
 > npx quartz plugin install --from-config
 > ```
-> During `npx quartz create`, I will be prompted for a template and a base URL. For the base URL, I should enter my BioHub's subdomain followed by `.bioconomy.earth` (e.g. `za-at2-vog.bioconomy.earth`). Do not include `https://` or a trailing slash.
+> During `npx quartz create`, I will be prompted for a template and a base URL. For the base URL, I should enter my BioHub's subdomain followed by `.bioconomy.earth` (e.g. `at12-vog.bioconomy.earth`). Do not include `https://` or a trailing slash.
 >
 > **3. Test the site locally.**
 > Run `npx quartz build --serve` and confirm the site loads at `http://localhost:8080`.
@@ -279,3 +280,5 @@ Written 30 August 2026 as the operational companion to the four-template foundin
 ### Changes from prior version
 
 Revised 3 September 2026. The Getting Started section now includes a subdomain naming convention using ISO country codes, One Earth Bioregions Framework codes (built on the RESOLVE Ecoregions 2017 dataset), and a BioHub slug. Added a complete AI-assisted setup prompt that non-technical coordinators can paste into any AI assistant to be walked through Quartz installation, GitHub repository creation, GitHub Actions deployment, and custom domain configuration. Added a command summary for experienced users. Sources updated to include the RESOLVE Ecoregions dataset and One Earth Bioregions Framework.
+
+Revised 4 September 2026. Removed ISO country codes from the subdomain naming convention. The scheme is now `{bioregion}-{slug}.bioconomy.earth`. Rationale: country codes belong to the addressing layer of the Economy. The BioConomy anchors its addressing to the biosphere. Added a paragraph explaining the choice and linking to the new [[concepts/bioregional-addressing|Bioregional Addressing]] concept page. Updated examples throughout to the country-free form (`at12-vog`, `at10-laikipia`, `nt1-xingu`). The Cape Shrublands bioregion example was updated to `at12` to match the codes in use across the current wiki network.

@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: BioConomy
-  pageTitleSuffix: " - A building block of the BioConomy"
+  pageTitleSuffix: " - Learn more about the emerging BioConomy and join us here"
   enableSPA: true
   enablePopovers: true
   analytics:

@@ -127,6 +127,7 @@ Three findings.
 
 ## Related pages
 
+- [[research/promise-theory-across-timn|Promise Theory Across TIMN]] (the analytical companion to this brief)
 - [[timn-framework|The TIMN Framework]]
 - [[commitment-pooling|Commitment Pooling]]
 - [[mweria|Mweria (glossary)]]
