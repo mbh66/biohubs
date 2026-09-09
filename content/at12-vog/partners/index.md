@@ -1,7 +1,7 @@
 ---
 title: Partners
 type: partners-index
-description: External institutional actors engaged with the Valley of Grace BioHub, including collaborative partners, statutory counterparties, platform providers, and historical process participants. Distinguished from Entities by physical domicile: parties whose primary presence sits outside the BioRegion live here.
+description: "External institutional actors engaged with the Valley of Grace BioHub, including collaborative partners, statutory counterparties, platform providers, and historical process participants. Distinguished from Entities by physical domicile: parties whose primary presence sits outside the BioRegion live here."
 ---
 
 # Partners
