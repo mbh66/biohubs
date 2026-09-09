@@ -4,7 +4,7 @@ type: biohub-home
 description: Founding BioHub of the Overberg BioRegion, anchored at Genadendal in Ward 2, Theewaterskloof Municipality, Western Cape, South Africa.
 anchor_location: Genadendal, Ward 2, Theewaterskloof Municipality, Western Cape
 bioregion: Overberg
-bioregion_wiki: "[[at12-overberg/index|Overberg Wiki]]"
+bioregion_wiki: "[[content/afrotropic/at12-overberg/index|Overberg Wiki]]"
 slug: at12-vog
 founding_date: 2026-09
 coordinator: Michael Haupt
@@ -61,9 +61,9 @@ The operating vocabulary is the [TIME framework](https://wiki.bioconomy.earth/fr
 
 ## The Overberg BioRegion
 
-The Valley of Grace operates within the [[at12-overberg/index|Overberg BioRegion]]. The BioRegion wiki holds the shared infrastructure: 
+The Valley of Grace operates within the [[content/afrotropic/at12-overberg/index|Overberg BioRegion]]. The BioRegion wiki holds the shared infrastructure: 
 - the [[definition|Overberg BioRegion Definition]], 
 - the [[at12-overberg/atlas|Overberg Atlas]] of nine ecological profiles, 
 - the [[charter|Overberg Charter]], 
 - the [[at12-overberg/policy|Overberg Policy]] frameworks, and 
-- the [[at12-overberg/coordination-surface|Overberg Coordination Surface]] for the region as a whole.
+- the [[content/afrotropic/at12-overberg/coordination-surface|Overberg Coordination Surface]] for the region as a whole.

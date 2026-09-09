@@ -28,11 +28,11 @@ For a detailed explanation of the bioregional naming convention, see [How to Bui
 Sub-Saharan Africa, Madagascar
 ### Overberg, Western Cape, South Africa
 
-The [[at12-overberg/index|Overberg BioRegion]] covers the Overberg District of the Western Cape, anchored to the Riviersonderend catchment and surrounding landscapes within the Afrotropic realm's Mediterranean Forests, Woodlands and Scrub biome (AT12).
+The [[content/afrotropic/at12-overberg/index|Overberg BioRegion]] covers the Overberg District of the Western Cape, anchored to the Riviersonderend catchment and surrounding landscapes within the Afrotropic realm's Mediterranean Forests, Woodlands and Scrub biome (AT12).
 
 #### BioHubs in this BioRegion:
 
-- [[at12-vog/index|Valley of Grace]] — Founding BioHub, anchored at Genadendal in Ward 2, Theewaterskloof Municipality. Finance-and-Governance-first entry into the global BioHub field, aligned to the Cape Water Performance-Based Bond (JSE: FR31PB). Status: founding.
+- [[content/afrotropic/at12-vog/index|Valley of Grace]] — Founding BioHub, anchored at Genadendal in Ward 2, Theewaterskloof Municipality. Finance-and-Governance-first entry into the global BioHub field, aligned to the Cape Water Performance-Based Bond (JSE: FR31PB). Status: founding.
 ## Australasia (au)
 Australia, New Guinea, New Zealand, eastern Indonesia
 ## Indomalayan (im)

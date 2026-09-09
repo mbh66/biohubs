@@ -1,0 +1,63 @@
+# BioHubs Directory
+
+> The BioHubs directory documents the practitioners of the BioConomy: place-based coordination entities, their identity, services, coordination surfaces, partners, data, financial instrument alignments, and operational journals. It is the practical complement to the BioConomy wiki (https://wiki.bioconomy.earth), which provides the conceptual vocabulary and analytical frameworks.
+
+BioHubs are organized by biogeographic realm, then by BioRegion (the ecological-economic unit of coordination) and BioHub (the coordination body within a BioRegion). The naming convention uses RESOLVE ecoregion codes: `{realm}{biome}-{name}`. Each BioHub and BioRegion carries an `llms.txt` at its root for AI discoverability.
+
+The directory currently documents one active BioRegion and one founding BioHub, with placeholder realm indexes for all eight biogeographic realms. The structure is designed to scale to hundreds of BioHubs worldwide.
+
+## Directory structure
+
+- **Realm** → `{realm-code}/` (e.g. `afrotropic/`)
+- **BioRegion** → `{realm}{biome}-{name}/` (e.g. `at12-overberg/`)
+- **BioHub** → `{realm}{biome}-{shortname}/` (e.g. `at12-vog/`)
+
+## Active BioRegions
+
+- [Overberg BioRegion](https://at12-overberg.bioconomy.earth) (at12-overberg) — Mediterranean Forests, Woodlands and Scrub biome in the Western Cape, South Africa. Covers the Riviersonderend catchment and surrounding landscapes within the Overberg District Municipality.
+
+## Active BioHubs
+
+- [Valley of Grace BioHub](https://at12-vog.bioconomy.earth) (at12-vog) — Founding BioHub, anchored at Genadendal in Ward 2, Theewaterskloof Municipality. Finance-and-Governance-first coordination with a Learning Hub, Leopard Corridor DMP, and FR31PB bond alignment.
+
+## BioRegion standard structure
+
+- `index.md` — BioRegion home
+- `llms.txt` — AI discoverability
+- `definition.md` — Boundaries, ecological-cultural reconciliation
+- `charter.md` — Governance principles
+- `coordination-surface.md` — Region-level offers, seeks, shared instruments
+- `atlas/` — Nine ecological profiles (biodiversity, climate, cultural heritage, economic, geology and soils, hydrology, invasive species, jurisdictional, restoration baseline)
+- `biohubs/` — Directory of BioHubs within the BioRegion
+- `policy/` — Regulatory frameworks by jurisdiction and domain
+- `data/` — Regional baselines and monitoring
+- `journal/` — Regional coordination milestones
+- `sources/` — Shared bibliography
+
+## BioHub standard structure
+
+- `index.md` — BioHub home
+- `llms.txt` — AI discoverability
+- `coordination-surface.md` — Offers, seeks, shared instruments, contact protocols
+- `identity/` — Identity Statement, Field and Lineage Positioning, Founding Compact
+- `services/` — Tenderable Services Portfolio
+- `alignments/` — Financial instrument alignment documentation
+- `entities/` — Key institutional entities in the BioHub's landscape
+- `partners/` — External partners and counterparties
+- `cohort/` — Founding cohort members
+- `data/` — Monitoring baselines, BioScore, structured metadata
+- `journal/` — Coordination milestones
+- `research/` — Place-specific research
+- `sources/` — References and bibliography
+
+## Shared vocabulary
+
+All BioHub content uses the controlled vocabulary defined at [wiki.bioconomy.earth](https://wiki.bioconomy.earth). See the [glossary](https://wiki.bioconomy.earth/glossary/) for term definitions. Key terms: BioHub, BioRegion, BioConomy, BioPlace, BioScore, BioStack, commitment pooling, transvestment, retention economics.
+
+## Realm indexes
+
+Eight biogeographic realms have placeholder indexes: Afrotropic (`at`), Antarctica, Australasia, Indomalayan, Nearctic, Neotropic, Oceania, Palearctic. Only the Afrotropic realm currently contains documented BioRegions and BioHubs.
+
+## Licence
+
+Content: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Software: MIT.
