@@ -1,0 +1,45 @@
+# Valley of Grace BioHub
+
+The Valley of Grace is the founding BioHub of the Overberg BioRegion, anchored at Genadendal in Ward 2, Theewaterskloof Municipality, Western Cape, South Africa. It coordinates landscape-scale catchment restoration, biodiversity stewardship, and regenerative economic coordination in the below-dam Riviersonderend corridor between the Theewaterskloof Dam wall and the Breede River confluence.
+
+## Priority Services
+
+- water-yield: Below-dam catchment restoration through alien clearing, soil sponge restoration, water-efficient agriculture, and distributed water storage in the Riviersonderend corridor. Readiness: contractable-after-build-out.
+- biodiversity-data: Cape Mountain Leopard corridor monitoring, iNaturalist surveys, and Guardians of Earth Nature Realm data across ~10,000 ha. Readiness: contractable-after-build-out.
+- heritage-and-tourism: Leopard Corridor Destination Management Plan, Genadendal Learning Hub, and regenerative tourism anchored at heritage sites. Readiness: contractable-after-build-out.
+
+## Current Seeks
+
+- Verification methodology alignment with Conservation Alpha for below-dam SWSA tranche
+- Landowner stewardship agreements across the Riviersonderend corridor
+- Peer BioHub coordination on shared Water Retention Landscape methodology
+- Mycelial Patronage counterparties
+
+## Financial Instruments
+
+- Cape Water Performance-Based Bond (FR31PB), JSE-listed April 2026, ZAR 2.5 billion — Africa's first nature-linked performance-based bond
+- ZA-FiCom: three-phase financial commons (Phase 1 design)
+
+## BioRegion
+
+This BioHub operates within the Overberg BioRegion. For regional-level coordination, ecological profiles, and shared governance, see [at12-overberg.bioconomy.earth](https://at12-overberg.bioconomy.earth).
+
+## Site Map
+
+- [Coordination Surface](/coordination-surface) — Offers, seeks, shared instruments, contact protocols
+- [Identity](/identity/) — Identity Statement, Field and Lineage Positioning, Founding Compact
+- [Services](/services/) — Tenderable Services Portfolio
+- [Alignments](/alignments/) — Financial instrument alignment documentation
+- [Data](/data/) — Monitoring baselines, BioScore, structured metadata
+- [Cohort](/cohort/) — Founding cohort members
+- [Partners](/partners/) — External partners and counterparties
+- [Journal](/journal/) — Coordination milestones
+- [Sources](/sources/) — References and bibliography
+
+## Shared Vocabulary
+
+This wiki uses the controlled vocabulary defined at [wiki.bioconomy.earth](https://wiki.bioconomy.earth). See the [glossary](https://wiki.bioconomy.earth/glossary/) for term definitions.
+
+## Licence
+
+Content: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Software: MIT.

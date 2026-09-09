@@ -1,0 +1,37 @@
+# Overberg BioRegion (at12-overberg)
+
+> Realm: AT (Afrotropic) | Biome: 12 (Mediterranean Forests, Woodlands and Scrub)
+
+The Overberg BioRegion is the formalised bioregion covering the Overberg District of the Western Cape, South Africa — east of the Hottentots-Holland mountains, west of the Breede River mouth, bounded by the Riviersonderend and Langeberg ranges to the north and the Indian Ocean coast to the south. It encompasses the Riviersonderend catchment, portions of the Cape Floristic Region including the Kogelberg Biosphere Reserve, and four local municipalities within the Overberg District Municipality.
+
+The BioRegion holds four assets of national significance for the Western Cape Water Supply System: the Riviersonderend Mountain Catchment Area, the Riviersonderend River, the catchment retention capacity through fynbos and renosterveld soils, and the below-dam position that converts demand-side coordination into measurable service for Cape Town's water supply.
+
+## BioHubs
+
+- [Valley of Grace BioHub](/biohubs/valley-of-grace) (at12-vog) — Founding BioHub, anchored at Genadendal (Ward 2, Theewaterskloof Municipality). Finance-and-Governance-first coordination with Learning Hub, Leopard Corridor DMP, and FR31PB bond alignment. Wiki: https://at12-vog.bioconomy.earth
+- [Volmoed BioHub](/biohubs/volmoed) (at12-volmoed) — Placeholder. Anticipated coordination body in the Volmoed area.
+- [Witsand BioHub](/biohubs/witsand) (at12-witsand) — Placeholder. Anticipated coordination body at the Breede estuary.
+
+## Shared Financial Instruments
+
+- Cape Water Performance-Based Bond (FR31PB), JSE-listed April 2026, ZAR 2.5 billion — Africa's first nature-linked performance-based bond
+
+## Site Map
+
+- [Coordination Surface](/coordination-surface) — Region-level offers, seeks, shared instruments
+- [BioRegion Definition](/definition) — Boundaries, ecological-cultural reconciliation
+- [Atlas](/atlas/) — Nine ecological profiles
+- [Charter](/charter) — Governance principles and multi-BioHub coordination
+- [BioHubs](/biohubs/) — Directory of BioHubs within the Overberg
+- [Policy](/policy/) — Regulatory frameworks by jurisdiction and domain
+- [Data](/data/) — Regional baselines and monitoring
+- [Journal](/journal/) — Regional coordination milestones
+- [Sources](/sources/) — Shared bibliography
+
+## Shared Vocabulary
+
+This wiki uses the controlled vocabulary defined at [wiki.bioconomy.earth](https://wiki.bioconomy.earth). See the [glossary](https://wiki.bioconomy.earth/glossary/) for term definitions.
+
+## Licence
+
+Content: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Software: MIT.
