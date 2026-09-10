@@ -199,11 +199,15 @@ plugins:
       position: afterBody
       priority: 10
   - source: "@quartz-community/footer"
+    enabled: false
+  - source: "./plugins/custom-footer"
     enabled: true
     options:
+      copyrightHolder: "Michael Haupt & Associates"
       links:
         GitHub: https://github.com/mbh66/biohubs
         Community: https://github.com/mbh66/biohubs/discussions
+        AI Policy: https://wiki.bioconomy.earth/ai-policy
     layout:
       position: footer
       priority: 50
