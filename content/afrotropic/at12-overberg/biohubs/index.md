@@ -10,7 +10,7 @@ The Overberg BioRegion coordinates activity through multiple BioHubs, each holdi
 
 ## Active BioHubs
 
-- **[Valley of Grace](/biohubs/valley-of-grace)** — Founding BioHub, anchored at Genadendal in Ward 2 of Theewaterskloof Municipality. Finance-and-Governance-first entry into the global BioHub field. [Full wiki](https://at12-vog.bioconomy.earth)
+- **[Valley of Grace](/biohubs/valley-of-grace)** — Founding BioHub, anchored at Genadendal in Ward 2 of Theewaterskloof Municipality. Finance-and-Governance-first entry into the global BioHub field. [[afrotropic/at12-vog/index|Full wiki]]
 
 ## Anticipated BioHubs
 
@@ -19,4 +19,4 @@ The Overberg BioRegion coordinates activity through multiple BioHubs, each holdi
 
 ## BioHub Formation
 
-New BioHubs form through the [BioHub Identity Template](https://wiki.bioconomy.earth/templates/biohub-identity), a three-prompt sequence producing an Identity Statement, Field and Lineage Positioning, and Founding Compact. Contact the [Valley of Grace BioHub](https://at12-vog.bioconomy.earth) for coordination on forming a new BioHub within the Overberg.
+New BioHubs form through the [BioHub Identity Template](https://wiki.bioconomy.earth/templates/biohub-identity-template), a three-prompt sequence producing an Identity Statement, Field and Lineage Positioning, and Founding Compact. Contact the [[afrotropic/at12-vog/index|Valley of Grace BioHub]] for coordination on forming a new BioHub within the Overberg.

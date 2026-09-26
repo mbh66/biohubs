@@ -66,7 +66,7 @@ The AfriForum and Kaapse Forum alignment (2025) has not been analyzed against th
 
 - [Valley of Grace Significant Dates](/significant-dates) — Full chronological timeline including every TRANCRAA process event
 - [Promises to the Valley of Grace: Four Cycles from Independence to Dependence](/research/promises-to-the-valley-of-grace) — Analytical reading of the TRANCRAA collapse as the Cycle 4 imposition event
-- [Coordination Surface](/coordination-surface) — What the BioHub offers, what it seeks, how to engage
+- [[afrotropic/at12-vog/coordination-surface|Coordination Surface]] — What the BioHub offers, what it seeks, how to engage
 - [BioConomy Wiki: The Coercion Continuum](https://wiki.bioconomy.earth/concepts/the-coercion-continuum) — The general framework in which the property-redefinition step running from 1858 through TRANCRAA sits
 
 ## Sources

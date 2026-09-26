@@ -6,7 +6,7 @@ description: Reference pages for the institutional parties involved in the Valle
 
 # Entities
 
-Reference pages for the institutional parties named in the Valley of Grace [Significant Dates](/significant-dates) timeline and in the analytical briefs. Each page describes the entity's mandate, formation, jurisdiction where relevant, and role in the valley's coordination history. Entity pages are kept factual and dated; interpretive readings live in [Research](/research/).
+Reference pages for the institutional parties named in the Valley of Grace [Significant Dates](/significant-dates) timeline and in the analytical briefs. Each page describes the entity's mandate, formation, jurisdiction where relevant, and role in the valley's coordination history. Entity pages are kept factual and dated; interpretive readings live in [[afrotropic/at12-vog/research/index|Research]].
 
 ## Active Pages
 
@@ -26,4 +26,4 @@ Reference pages for the institutional parties named in the Valley of Grace [Sign
 
 ## Note on the entity/partner boundary
 
-Entities are actors domiciled inside the BioRegion the BioHub anchors. Actors whose domicile lies elsewhere and who engage with the BioHub through contract, funding, verification, or coordination sit under [Partners](/partners/) instead. Under this rule, Ranyaka (community engagement partner working in the valley from 2024) belongs on the Partners page; Urban Dynamics Western Cape (Cape Town-based consultancy) belongs on the Partners page; the Department of Rural Development and Land Reform (national) belongs on the Partners page. Where a partner opens a local office in the BioRegion, an entity page opens for that office as well, and the two are cross-linked.
+Entities are actors domiciled inside the BioRegion the BioHub anchors. Actors whose domicile lies elsewhere and who engage with the BioHub through contract, funding, verification, or coordination sit under [[afrotropic/at12-vog/partners/index|Partners]] instead. Under this rule, Ranyaka (community engagement partner working in the valley from 2024) belongs on the Partners page; Urban Dynamics Western Cape (Cape Town-based consultancy) belongs on the Partners page; the Department of Rural Development and Land Reform (national) belongs on the Partners page. Where a partner opens a local office in the BioRegion, an entity page opens for that office as well, and the two are cross-linked.

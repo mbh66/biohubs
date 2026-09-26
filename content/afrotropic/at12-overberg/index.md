@@ -40,10 +40,10 @@ The Overberg operates within a plural authority set that is already in place. Po
 
 ## Navigate This Wiki
 
-- **[Coordination Surface](/coordination-surface)** — What the region collectively offers and seeks
+- **[[afrotropic/at12-overberg/coordination-surface|Coordination Surface]]** — What the region collectively offers and seeks
 - **[Definition](/definition)** — Boundaries and ecological-cultural reconciliation
-- **[Atlas](/atlas/)** — Nine ecological profiles of the Overberg
+- **[[afrotropic/at12-overberg/atlas/index|Atlas]]** — Nine ecological profiles of the Overberg
 - **[Charter](/charter)** — Governance principles and multi-BioHub coordination
-- **[BioHubs](/biohubs/)** — Directory of BioHubs within the region
-- **[Policy](/policy/)** — Shared regulatory frameworks
-- **[Licence](/LICENSE)** — CC BY-SA 4.0
+- **[[afrotropic/at12-overberg/biohubs/index|BioHubs]]** — Directory of BioHubs within the region
+- **[[afrotropic/at12-overberg/policy/index|Policy]]** — Shared regulatory frameworks
+- **[Licence](https://creativecommons.org/licenses/by-sa/4.0/)** — CC BY-SA 4.0

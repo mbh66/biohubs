@@ -4,7 +4,7 @@ type: biohub-home
 description: Founding BioHub of the Overberg BioRegion, anchored at Genadendal in Ward 2, Theewaterskloof Municipality, Western Cape, South Africa.
 anchor_location: Genadendal, Ward 2, Theewaterskloof Municipality, Western Cape
 bioregion: Overberg
-bioregion_wiki: "[[content/afrotropic/at12-overberg/index|Overberg Wiki]]"
+bioregion_wiki: "[[afrotropic/at12-overberg/index|Overberg Wiki]]"
 slug: at12-vog
 founding_date: 2026-09
 coordinator: Michael Haupt
@@ -43,27 +43,27 @@ The operating vocabulary is the [TIME framework](https://wiki.bioconomy.earth/fr
 
 ## Navigate This Wiki
 
-- **[Coordination Surface](/coordination-surface)** — What we offer, what we seek, how to engage
-- **[Identity](/identity/)** — Who the BioHub is, its lineage and governance
-- **[Services](/services/)** — Tenderable services and readiness status
-- **[Alignments](/alignments/)** — Financial instrument alignment
-- **[Cohort](/cohort/)** — Founding cohort members
-- **[Partners](/partners/)** — External partners and counterparties
-- **[Data](/data/)** — Monitoring baselines and structured metadata
-- **[Journal](/journal/)** — Milestones and coordination log
-- **[Research](/research/)** — Analytical briefs applying BioConomy frameworks to the valley
+- **[[afrotropic/at12-vog/coordination-surface|Coordination Surface]]** — What we offer, what we seek, how to engage
+- **[[afrotropic/at12-vog/identity/index|Identity]]** — Who the BioHub is, its lineage and governance
+- **[[afrotropic/at12-vog/services/index|Services]]** — Tenderable services and readiness status
+- **[[afrotropic/at12-vog/alignments/index|Alignments]]** — Financial instrument alignment
+- **[[afrotropic/at12-vog/cohort/index|Cohort]]** — Founding cohort members
+- **[[afrotropic/at12-vog/partners/index|Partners]]** — External partners and counterparties
+- **[[afrotropic/at12-vog/data/index|Data]]** — Monitoring baselines and structured metadata
+- **[[afrotropic/at12-vog/journal/index|Journal]]** — Milestones and coordination log
+- **[[afrotropic/at12-vog/research/index|Research]]** — Analytical briefs applying BioConomy frameworks to the valley
 - **[Significant Dates](/significant-dates)** — Chronological timeline of the valley from c. 200,000 BP to 2038, tagged by TIMN form and evidentiary status
 - **[TRANCRAA](/trancraa)** — The Transformation of Certain Rural Areas Act 94 of 1998 and the 27-year Farm 39 process
-- **[Entities](/entities/)** — Reference pages for the institutional parties named in the historical record
-- **[Sources](/sources/)** — References and bibliography
+- **[[afrotropic/at12-vog/entities/index|Entities]]** — Reference pages for the institutional parties named in the historical record
+- **[[afrotropic/at12-vog/sources/index|Sources]]** — References and bibliography
 
-- **[Licence](/LICENSE)** — CC BY-SA 4.0
+- **[Licence](https://creativecommons.org/licenses/by-sa/4.0/)** — CC BY-SA 4.0
 
 ## The Overberg BioRegion
 
-The Valley of Grace operates within the [[content/afrotropic/at12-overberg/index|Overberg BioRegion]]. The BioRegion wiki holds the shared infrastructure: 
+The Valley of Grace operates within the [[afrotropic/at12-overberg/index|Overberg BioRegion]]. The BioRegion wiki holds the shared infrastructure: 
 - the [[definition|Overberg BioRegion Definition]], 
-- the [[at12-overberg/atlas|Overberg Atlas]] of nine ecological profiles, 
+- the [[afrotropic/at12-overberg/atlas/index|Overberg Atlas]] of nine ecological profiles, 
 - the [[charter|Overberg Charter]], 
-- the [[at12-overberg/policy|Overberg Policy]] frameworks, and 
-- the [[content/afrotropic/at12-overberg/coordination-surface|Overberg Coordination Surface]] for the region as a whole.
+- the [[afrotropic/at12-overberg/policy/index|Overberg Policy]] frameworks, and 
+- the [[afrotropic/at12-overberg/coordination-surface|Overberg Coordination Surface]] for the region as a whole.

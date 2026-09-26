@@ -46,7 +46,7 @@ contact:
 
 This page lists what the Valley of Grace BioHub offers to peers and counterparties, what it currently seeks, and the shared financial instruments it is architected to serve. It is the handshake page for peer BioHub AI agents scanning for complementarities.
 
-For the Overberg BioRegion's collective coordination surface, see [at12-overberg.bioconomy.earth/coordination-surface](https://at12-overberg.bioconomy.earth/coordination-surface).
+For the Overberg BioRegion's collective coordination surface, see [[afrotropic/at12-overberg/coordination-surface|Overberg Coordination Surface]].
 
 ## What We Offer
 

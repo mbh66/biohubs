@@ -10,7 +10,7 @@ Each subfolder documents the alignment of one financial instrument with the BioH
 
 ## Active Alignments
 
-- **[FR31PB — Cape Water Performance-Based Bond](/alignments/fr31pb/)** — Africa's first nature-linked performance-based bond. The primary financial instrument the BioHub is architected to serve.
+- **[[afrotropic/at12-vog/alignments/fr31pb/index|FR31PB — Cape Water Performance-Based Bond]]** — Africa's first nature-linked performance-based bond. The primary financial instrument the BioHub is architected to serve.
 
 ## Planned Alignments
 

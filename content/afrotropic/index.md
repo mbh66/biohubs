@@ -14,8 +14,8 @@ The Afrotropic realm covers Sub-Saharan Africa, Madagascar, and the western Indi
 
 ### Overberg, Western Cape, South Africa (AT12)
 
-The [[content/afrotropic/at12-overberg/index|Overberg BioRegion]] covers the Overberg District of the Western Cape, anchored to the Riviersonderend catchment and surrounding landscapes within the Mediterranean Forests, Woodlands and Scrub biome.
+The [[afrotropic/at12-overberg/index|Overberg BioRegion]] covers the Overberg District of the Western Cape, anchored to the Riviersonderend catchment and surrounding landscapes within the Mediterranean Forests, Woodlands and Scrub biome.
 
 **BioHubs in this BioRegion:**
 
-- [[content/afrotropic/at12-vog/index|Valley of Grace]] — Founding BioHub, anchored at Genadendal in Ward 2, Theewaterskloof Municipality. Finance-and-Governance-first entry into the global BioHub field, aligned to the Cape Water Performance-Based Bond (JSE: FR31PB). Status: founding.
+- [[afrotropic/at12-vog/index|Valley of Grace]] — Founding BioHub, anchored at Genadendal in Ward 2, Theewaterskloof Municipality. Finance-and-Governance-first entry into the global BioHub field, aligned to the Cape Water Performance-Based Bond (JSE: FR31PB). Status: founding.

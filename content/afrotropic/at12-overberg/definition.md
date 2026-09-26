@@ -25,7 +25,7 @@ The Overberg BioRegion covers:
 
 ## BioHubs Within This BioRegion
 
-Multiple BioHubs coordinate activity within the Overberg. The [Valley of Grace BioHub](/biohubs/valley-of-grace) is the founding BioHub, anchored in Ward 2 of Theewaterskloof Municipality. Additional BioHubs are anticipated at Volmoed and Witsand. See the [BioHubs directory](/biohubs/) for the current registry.
+Multiple BioHubs coordinate activity within the Overberg. The [Valley of Grace BioHub](/biohubs/valley-of-grace) is the founding BioHub, anchored in Ward 2 of Theewaterskloof Municipality. Additional BioHubs are anticipated at Volmoed and Witsand. See the [[afrotropic/at12-overberg/biohubs/index|BioHubs directory]] for the current registry.
 
 ## Boundary Reconciliation
 

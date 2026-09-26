@@ -126,7 +126,7 @@ These figures are the author's estimates from common psychometric practice. Chec
 - [A TIME Profile for Multi-Perspective Governance](https://wiki.bioconomy.earth/research/time-profile) (the general brief, with the full annotated reference list)
 - [Promises to the Valley of Grace](/research/promises-to-the-valley-of-grace)
 - [TRANCRAA](/research/trancraa)
-- [Coordination Surface](/coordination-surface)
+- [[afrotropic/at12-vog/coordination-surface|Coordination Surface]]
 - [Ward 2 Development Forum register](https://df.valleyofgrace.co.za)
 - [BioConomy Wiki: The TIME Framework](https://wiki.bioconomy.earth/frameworks/time-framework)
 

@@ -30,4 +30,4 @@ The 1927 Glebe Lands (68 hectares in Genadendal and Bereaville, excluded from TR
 
 - Legal reading of the 1858 Farm 39 grant language
 - Conversation with the Moravian Church on the Glebe Lands substrate question
-- Cross-link the brief into the [Coordination Surface](/coordination-surface) once the promise-to-substrate mapping is folded into the coordination offer
+- Cross-link the brief into the [[afrotropic/at12-vog/coordination-surface|Coordination Surface]] once the promise-to-substrate mapping is folded into the coordination offer

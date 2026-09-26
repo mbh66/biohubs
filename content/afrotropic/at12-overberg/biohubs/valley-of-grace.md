@@ -4,7 +4,7 @@ type: biohub-summary
 description: Summary entry for the Valley of Grace BioHub within the Overberg BioRegion directory.
 status: founding
 slug: at12-vog
-wiki_url: https://at12-vog.bioconomy.earth
+wiki_url: https://biohubs.bioconomy.earth/afrotropic/at12-vog
 anchor_location: Genadendal, Ward 2, Theewaterskloof Municipality
 coordinator: Michael Haupt
 services:
@@ -29,8 +29,8 @@ The BioHub's services portfolio covers water yield through below-dam catchment r
 
 ## Key Instruments
 
-The primary financial instrument is the [Cape Water Performance-Based Bond (FR31PB)](/coordination-surface#shared-financial-instruments), with the Overberg below-dam tranche in development. Complementary funding pathways include the Globeleq Klipheuwel Wind Farm co-funding programme and mycelial patronage architecture.
+The primary financial instrument is the [[afrotropic/at12-vog/coordination-surface#shared-financial-instruments|Cape Water Performance-Based Bond (FR31PB)]], with the Overberg below-dam tranche in development. Complementary funding pathways include the Globeleq Klipheuwel Wind Farm co-funding programme and mycelial patronage architecture.
 
 ## Full Wiki
 
-For the Valley of Grace's complete identity, services, alignments, and coordination surface, see the [Valley of Grace BioHub wiki](https://at12-vog.bioconomy.earth).
+For the Valley of Grace's complete identity, services, alignments, and coordination surface, see the [[afrotropic/at12-vog/index|Valley of Grace BioHub wiki]].

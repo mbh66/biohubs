@@ -10,7 +10,7 @@ updated: 2026-09-05
 
 # Guardians of Earth (GoE)
 
-Biodiversity and stewardship platform on which BioHubs, protected-area managers, schools, and community groups host geofenced [Nature Realms](https://wiki.bioconomy.earth/glossary/nature-realm) associated with real-world places. Each Realm carries a [BioScore](https://wiki.bioconomy.earth/glossary/bioscore) composite index built from five sub-scores (species diversity, monitoring quantity, data quality, community engagement, and restoration evidence). Realms compete in biannual BioQuest competitions each April and October. Platform documentation: [docs.guardiansofearth.io/goe](https://docs.guardiansofearth.io/goe).
+Biodiversity and stewardship platform on which BioHubs, protected-area managers, schools, and community groups host geofenced [Nature Realms](https://wiki.bioconomy.earth/glossary/m-s/nature-realm) associated with real-world places. Each Realm carries a [BioScore](https://wiki.bioconomy.earth/glossary/a-e/bioscore) composite index built from five sub-scores (species diversity, monitoring quantity, data quality, community engagement, and restoration evidence). Realms compete in biannual BioQuest competitions each April and October. Platform documentation: [docs.guardiansofearth.io/goe](https://docs.guardiansofearth.io/goe).
 
 For the Valley of Grace BioHub, Guardians of Earth is the platform partner supplying the digital infrastructure of the Nature Realm activated in July 2026, and it is the specific candidate ecological legibility signal named in [Promises to the Valley of Grace](/research/promises-to-the-valley-of-grace) and in the wider BioConomy corpus.
 
@@ -34,16 +34,16 @@ Whether the platform's technical, governance, and financial architecture can hol
 
 ## Related pages
 
-- [Coordination Surface](/coordination-surface) — Where the BioHub's Realm work sits in the offer
-- [Data](/data/) — Monitoring baselines and structured metadata feeding the BioScore
+- [[afrotropic/at12-vog/coordination-surface|Coordination Surface]] — Where the BioHub's Realm work sits in the offer
+- [[afrotropic/at12-vog/data/index|Data]] — Monitoring baselines and structured metadata feeding the BioScore
 - [Significant Dates](/significant-dates) — Timeline including the July 2026 Realm activation
 - [Promises to the Valley of Grace](/research/promises-to-the-valley-of-grace) — Analytical reading placing the platform in the +E recovery
-- [BioConomy Wiki: Nature Realm (glossary)](https://wiki.bioconomy.earth/glossary/nature-realm)
-- [BioConomy Wiki: BioScore (glossary)](https://wiki.bioconomy.earth/glossary/bioscore)
+- [BioConomy Wiki: Nature Realm (glossary)](https://wiki.bioconomy.earth/glossary/m-s/nature-realm)
+- [BioConomy Wiki: BioScore (glossary)](https://wiki.bioconomy.earth/glossary/a-e/bioscore)
 - [BioConomy Wiki: Evolution of Coordination Nodes](https://wiki.bioconomy.earth/frameworks/evolution-of-coordination-nodes)
 
 ## Sources
 
 - Valley of Grace [Significant Dates](/significant-dates) timeline
 - Guardians of Earth platform documentation, [docs.guardiansofearth.io/goe](https://docs.guardiansofearth.io/goe)
-- BioConomy wiki glossary entries for [Nature Realm](https://wiki.bioconomy.earth/glossary/nature-realm) and [BioScore](https://wiki.bioconomy.earth/glossary/bioscore)
+- BioConomy wiki glossary entries for [Nature Realm](https://wiki.bioconomy.earth/glossary/m-s/nature-realm) and [BioScore](https://wiki.bioconomy.earth/glossary/a-e/bioscore)

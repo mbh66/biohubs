@@ -6,7 +6,7 @@ description: "External institutional actors engaged with the Valley of Grace Bio
 
 # Partners
 
-External institutional actors engaged with the Valley of Grace BioHub, whether as collaborative partners, statutory counterparties, platform providers, or historical process participants. Under the domicile convention documented in [How to Build a BioHub Wiki](https://wiki.bioconomy.earth/essays/how-to-build-a-biohub-wiki), a party belongs in Partners when its primary domicile sits outside the BioRegion. Parties domiciled inside the BioRegion sit in [Entities](/entities/) instead.
+External institutional actors engaged with the Valley of Grace BioHub, whether as collaborative partners, statutory counterparties, platform providers, or historical process participants. Under the domicile convention documented in [How to Build a BioHub Wiki](https://wiki.bioconomy.earth/essays/how-to-build-a-biohub-wiki), a party belongs in Partners when its primary domicile sits outside the BioRegion. Parties domiciled inside the BioRegion sit in [[afrotropic/at12-vog/entities/index|Entities]] instead.
 
 ## Active Pages
 

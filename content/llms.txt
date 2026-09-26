@@ -14,11 +14,11 @@ The directory currently documents one active BioRegion and one founding BioHub, 
 
 ## Active BioRegions
 
-- [Overberg BioRegion](https://at12-overberg.bioconomy.earth) (at12-overberg) — Mediterranean Forests, Woodlands and Scrub biome in the Western Cape, South Africa. Covers the Riviersonderend catchment and surrounding landscapes within the Overberg District Municipality.
+- [Overberg BioRegion](https://biohubs.bioconomy.earth/afrotropic/at12-overberg) (at12-overberg) — Mediterranean Forests, Woodlands and Scrub biome in the Western Cape, South Africa. Covers the Riviersonderend catchment and surrounding landscapes within the Overberg District Municipality.
 
 ## Active BioHubs
 
-- [Valley of Grace BioHub](https://at12-vog.bioconomy.earth) (at12-vog) — Founding BioHub, anchored at Genadendal in Ward 2, Theewaterskloof Municipality. Finance-and-Governance-first coordination with a Learning Hub, Leopard Corridor DMP, and FR31PB bond alignment.
+- [Valley of Grace BioHub](https://biohubs.bioconomy.earth/afrotropic/at12-vog) (at12-vog) — Founding BioHub, anchored at Genadendal in Ward 2, Theewaterskloof Municipality. Finance-and-Governance-first coordination with a Learning Hub, Leopard Corridor DMP, and FR31PB bond alignment.
 
 ## BioRegion standard structure
 

@@ -44,7 +44,7 @@ Van Wilgen et al. (2008) estimated total invasive-related runoff reductions in f
 
 Cape Water Performance-Based Bond (FR31PB), JSE-listed April 2026, ZAR 2.5 billion. The bond is designed as the first in a replicable series covering South Africa's Strategic Water Source Areas. Performance payment is contingent on independently verified invasive-clearing and water-yield outcomes.
 
-See [FR31PB Alignment](/alignments/fr31pb/) for the full alignment documentation.
+See [[afrotropic/at12-vog/alignments/fr31pb/index|FR31PB Alignment]] for the full alignment documentation.
 
 ## Readiness Status
 

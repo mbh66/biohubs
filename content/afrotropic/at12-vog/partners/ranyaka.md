@@ -32,11 +32,11 @@ The following summary draws on the [Significant Dates](/significant-dates) timel
 
 ## Position relative to the BioHub
 
-Ranyaka's community engagement work in the valley predates the formal launch of the Valley of Grace BioHub (September 2026) by more than two years. The three 2024 sessions established a community coordination surface the BioHub can now build on, though the relationship between Ranyaka's engagement architecture and the BioHub's coordination surface has not been documented in the wiki. Whether Ranyaka becomes a founding partner of the BioHub, a delivery partner on specific services (education, community development, coordination-as-employment), or a peer coordinator on a distinct track is an open question for the [Coordination Surface](/coordination-surface) and the [Founding Compact](/identity/founding-compact).
+Ranyaka's community engagement work in the valley predates the formal launch of the Valley of Grace BioHub (September 2026) by more than two years. The three 2024 sessions established a community coordination surface the BioHub can now build on, though the relationship between Ranyaka's engagement architecture and the BioHub's coordination surface has not been documented in the wiki. Whether Ranyaka becomes a founding partner of the BioHub, a delivery partner on specific services (education, community development, coordination-as-employment), or a peer coordinator on a distinct track is an open question for the [[afrotropic/at12-vog/coordination-surface|Coordination Surface]] and the [Founding Compact](/identity/founding-compact).
 
 ## Related pages
 
-- [Coordination Surface](/coordination-surface) — What the BioHub offers, seeks, and coordinates
+- [[afrotropic/at12-vog/coordination-surface|Coordination Surface]] — What the BioHub offers, seeks, and coordinates
 - [Founding Compact](/identity/founding-compact) — Governance document for the founding cohort
 - [Significant Dates](/significant-dates) — Full timeline including the 2024 engagement sessions
 
