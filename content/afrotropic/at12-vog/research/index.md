@@ -12,6 +12,8 @@ Analytical briefs that apply the [BioConomy wiki](https://wiki.bioconomy.earth) 
 
 - **[Promises to the Valley of Grace: Four Cycles from Independence to Dependence](/research/promises-to-the-valley-of-grace)** — Applies the [Promise Theory Across TIMN](https://wiki.bioconomy.earth/research/promise-theory-across-timn) diagnostic to the valley's documented timeline from 1737 to 2026. Traces four consecutive promise-to-imposition cycles (Moravian mission, British colonial reform, Union and apartheid state, democratic state) and reads the community's present coordination behavior as a substrate signal predicted by the Cheapest Available Behavior Thesis.
 
+- **[TIME Profile: Application to the Ward 2 Development Forum](/research/time-profile-w2df)**: Applies the [TIME Profile](https://wiki.bioconomy.earth/research/time-profile) brief to the W2DF. Recommends an unscored, anonymous Q-sort pilot built on the forum's five priorities, and sets out the POPIA, HPCSA, language and historical conditions any scored instrument would have to meet.
+
 ## Planned Briefs
 
 - Below-dam water yield service architecture — the coordination position the valley holds inside the Western Cape Water Supply System
