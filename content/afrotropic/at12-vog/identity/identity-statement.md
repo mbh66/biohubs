@@ -15,7 +15,7 @@ evidentiary_tags: "[MS] Mission-Sourced from Founding Brief unless otherwise not
 
 Valley of Grace BioHub.
 
-The name anchors the entity in the valley of the Riviersonderend River below the Theewaterskloof Dam, centred on Genadendal (literally "Valley of Grace"), and positions it within the global BioHub field as documented in Gladek et al. (2026). The BioHub operates within the [[afrotropic/at12-overberg/index|Overberg BioRegion]]. Subdomain: at12-vog.bioconomy.earth.
+The name anchors the entity in the valley of the Riviersonderend River below the Theewaterskloof Dam, centred on Genadendal (literally "Valley of Grace"), and positions it within the global BioHub field as documented in Gladek et al. (2026). The BioHub operates within the [[afrotropic/at12-overberg/index|Overberg BioRegion]]. Address: https://biohubs.bioconomy.earth/afrotropic/at12-vog.
 
 ## Founding Cohort
 

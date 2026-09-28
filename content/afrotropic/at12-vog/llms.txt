@@ -22,19 +22,19 @@ The Valley of Grace is the founding BioHub of the Overberg BioRegion, anchored a
 
 ## BioRegion
 
-This BioHub operates within the Overberg BioRegion. For regional-level coordination, ecological profiles, and shared governance, see [at12-overberg.bioconomy.earth](https://at12-overberg.bioconomy.earth).
+This BioHub operates within the Overberg BioRegion. For regional-level coordination, ecological profiles, and shared governance, see the [Overberg BioRegion](https://biohubs.bioconomy.earth/afrotropic/at12-overberg).
 
 ## Site Map
 
-- [Coordination Surface](/coordination-surface) — Offers, seeks, shared instruments, contact protocols
-- [Identity](/identity/) — Identity Statement, Field and Lineage Positioning, Founding Compact
-- [Services](/services/) — Tenderable Services Portfolio
-- [Alignments](/alignments/) — Financial instrument alignment documentation
-- [Data](/data/) — Monitoring baselines, BioScore, structured metadata
-- [Cohort](/cohort/) — Founding cohort members
-- [Partners](/partners/) — External partners and counterparties
-- [Journal](/journal/) — Coordination milestones
-- [Sources](/sources/) — References and bibliography
+- [Coordination Surface](https://biohubs.bioconomy.earth/afrotropic/at12-vog/coordination-surface) — Offers, seeks, shared instruments, contact protocols
+- [Identity](https://biohubs.bioconomy.earth/afrotropic/at12-vog/identity) — Identity Statement, Field and Lineage Positioning, Founding Compact
+- [Services](https://biohubs.bioconomy.earth/afrotropic/at12-vog/services) — Tenderable Services Portfolio
+- [Alignments](https://biohubs.bioconomy.earth/afrotropic/at12-vog/alignments) — Financial instrument alignment documentation
+- [Data](https://biohubs.bioconomy.earth/afrotropic/at12-vog/data) — Monitoring baselines, BioScore, structured metadata
+- [Cohort](https://biohubs.bioconomy.earth/afrotropic/at12-vog/cohort) — Founding cohort members
+- [Partners](https://biohubs.bioconomy.earth/afrotropic/at12-vog/partners) — External partners and counterparties
+- [Journal](https://biohubs.bioconomy.earth/afrotropic/at12-vog/journal) — Coordination milestones
+- [Sources](https://biohubs.bioconomy.earth/afrotropic/at12-vog/sources) — References and bibliography
 
 ## Shared Vocabulary
 

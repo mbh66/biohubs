@@ -8,9 +8,9 @@ The BioRegion holds four assets of national significance for the Western Cape Wa
 
 ## BioHubs
 
-- [Valley of Grace BioHub](/biohubs/valley-of-grace) (at12-vog) — Founding BioHub, anchored at Genadendal (Ward 2, Theewaterskloof Municipality). Finance-and-Governance-first coordination with Learning Hub, Leopard Corridor DMP, and FR31PB bond alignment. Wiki: https://at12-vog.bioconomy.earth
-- [Volmoed BioHub](/biohubs/volmoed) (at12-volmoed) — Placeholder. Anticipated coordination body in the Volmoed area.
-- [Witsand BioHub](/biohubs/witsand) (at12-witsand) — Placeholder. Anticipated coordination body at the Breede estuary.
+- [Valley of Grace BioHub](https://biohubs.bioconomy.earth/afrotropic/at12-overberg/biohubs/valley-of-grace) (at12-vog) — Founding BioHub, anchored at Genadendal (Ward 2, Theewaterskloof Municipality). Finance-and-Governance-first coordination with Learning Hub, Leopard Corridor DMP, and FR31PB bond alignment. Directory entry: https://biohubs.bioconomy.earth/afrotropic/at12-vog
+- [Volmoed BioHub](https://biohubs.bioconomy.earth/afrotropic/at12-overberg/biohubs/volmoed) (at12-volmoed) — Placeholder. Anticipated coordination body in the Volmoed area.
+- [Witsand BioHub](https://biohubs.bioconomy.earth/afrotropic/at12-overberg/biohubs/witsand) (at12-witsand) — Placeholder. Anticipated coordination body at the Breede estuary.
 
 ## Shared Financial Instruments
 
@@ -18,15 +18,15 @@ The BioRegion holds four assets of national significance for the Western Cape Wa
 
 ## Site Map
 
-- [Coordination Surface](/coordination-surface) — Region-level offers, seeks, shared instruments
-- [BioRegion Definition](/definition) — Boundaries, ecological-cultural reconciliation
-- [Atlas](/atlas/) — Nine ecological profiles
-- [Charter](/charter) — Governance principles and multi-BioHub coordination
-- [BioHubs](/biohubs/) — Directory of BioHubs within the Overberg
-- [Policy](/policy/) — Regulatory frameworks by jurisdiction and domain
-- [Data](/data/) — Regional baselines and monitoring
-- [Journal](/journal/) — Regional coordination milestones
-- [Sources](/sources/) — Shared bibliography
+- [Coordination Surface](https://biohubs.bioconomy.earth/afrotropic/at12-overberg/coordination-surface) — Region-level offers, seeks, shared instruments
+- [BioRegion Definition](https://biohubs.bioconomy.earth/afrotropic/at12-overberg/definition) — Boundaries, ecological-cultural reconciliation
+- [Atlas](https://biohubs.bioconomy.earth/afrotropic/at12-overberg/atlas) — Nine ecological profiles
+- [Charter](https://biohubs.bioconomy.earth/afrotropic/at12-overberg/charter) — Governance principles and multi-BioHub coordination
+- [BioHubs](https://biohubs.bioconomy.earth/afrotropic/at12-overberg/biohubs) — Directory of BioHubs within the Overberg
+- [Policy](https://biohubs.bioconomy.earth/afrotropic/at12-overberg/policy) — Regulatory frameworks by jurisdiction and domain
+- [Data](https://biohubs.bioconomy.earth/afrotropic/at12-overberg/data) — Regional baselines and monitoring
+- [Journal](https://biohubs.bioconomy.earth/afrotropic/at12-overberg/journal) — Regional coordination milestones
+- [Sources](https://biohubs.bioconomy.earth/afrotropic/at12-overberg/sources) — Shared bibliography
 
 ## Shared Vocabulary
 
