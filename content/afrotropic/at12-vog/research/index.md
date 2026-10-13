@@ -14,6 +14,10 @@ Analytical briefs that apply the [BioConomy wiki](https://wiki.bioconomy.earth) 
 
 - **[TIME Profile: Application to the Ward 2 Development Forum](/research/time-profile-w2df)**: Applies the [TIME Profile](https://wiki.bioconomy.earth/research/time-profile) brief to the W2DF. Recommends an unscored, anonymous Q-sort pilot built on the forum's five priorities, and sets out the POPIA, HPCSA, language and historical conditions any scored instrument would have to meet.
 
+- **[[afrotropic/at12-vog/research/wrl-fynbos-renosterveld-restoration|Water Retention Landscapes in Fynbos and Renosterveld Restoration]]**: A literature search for work that pairs water-slowing earthworks with fynbos or renosterveld restoration in the Cape Floristic Region. It found none, and maps the nearest work and the gaps.
+
+- **[[afrotropic/at12-vog/research/alien-clearing-soil-health-restoration|Alien Clearing and Soil Health Restoration: Water Yield and Flood Risk in the Cape Floristic Region]]**: Asks whether soil health restoration, added to alien clearing, raises water yield or reduces flood risk. It found no study of the combination, and sets out the nutrient risk and the verification problem.
+
 ## Planned Briefs
 
 - Below-dam water yield service architecture — the coordination position the valley holds inside the Western Cape Water Supply System
