@@ -5,10 +5,13 @@ description: Category B local municipality created in December 2000, absorbing G
 tags: ["entity", "municipality", "twkm", "wc031", "farm-39", "trancraa", "valley-of-grace"]
 aliases: ["TWKM", "WC031", "Theewaterskloof Municipality"]
 created: 2026-09-05
-updated: 2026-09-05
+updated: 2026-10-01
 ---
 
 # Theewaterskloof Local Municipality (TWKM)
+
+> [!info] Home page on the W2DF register
+> This page records the municipality's role as a Valley of Grace BioHub entity. The home page for the municipality is on the Ward 2 Development Forum register: [The Municipality](https://df.valleyofgrace.co.za/history/institutions/municipality) tells its history in the valley, and [The Rules the Valley Lives By](https://df.valleyofgrace.co.za/rules/) explains the municipality's by-laws and plans that apply in Ward 2.
 
 Category B local municipality with the code WC031, created in December 2000 under the Municipal Structures Act 117 of 1998 as part of the post-apartheid consolidation of local government. TWKM sits within the Overberg District Municipality (DC03) and covers the below-dam Riviersonderend corridor between the Theewaterskloof Dam wall and the river's confluence with the Breede, including the towns of Villiersdorp, Grabouw, Botrivier, Caledon, Riviersonderend, Greyton, and Genadendal, and Ward 2 in which the Valley of Grace BioHub is anchored.
 
@@ -51,6 +54,8 @@ In 2025 TWKM was placed under a Provincial Financial Recovery Plan. Recorded fig
 
 ## Related pages
 
+- [W2DF: The Municipality](https://df.valleyofgrace.co.za/history/institutions/municipality): The home page for the municipality's history in the valley
+- [W2DF: The Rules the Valley Lives By](https://df.valleyofgrace.co.za/rules/): The municipality's by-laws and plans that apply in Ward 2
 - [TRANCRAA](/trancraa) — The statute governing the Farm 39 transformation process
 - [Genadendal Transformation Committee](/entities/transformation-committee) — Beneficiary body opposite TWKM in the TRANCRAA process
 - [Significant Dates](/significant-dates) — Full timeline including every TWKM-related event

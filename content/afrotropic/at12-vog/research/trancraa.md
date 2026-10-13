@@ -4,11 +4,14 @@ type: reference
 description: The Transformation of Certain Rural Areas Act 94 of 1998, its application to Farm 39 in Genadendal, and the 27-year process that has not yet produced transfer.
 tags: ["reference", "legal", "tenure", "farm-39", "genadendal", "land-reform", "valley-of-grace"]
 created: 2026-09-05
-updated: 2026-09-05
+updated: 2026-10-01
 aliases: ["Transformation of Certain Rural Areas Act", "Act 94 of 1998"]
 ---
 
 # TRANCRAA
+
+> [!info] Home page on the W2DF register
+> This page is the BioHub's own research on TRANCRAA. The home page for the Act is on the Ward 2 Development Forum register: [Transformation of Certain Rural Areas Act](https://df.valleyofgrace.co.za/rules/trancraa) explains the law in plain language and what it means in the valley, and [TRANCRAA and Farm 39: The Land Transfer Process](https://df.valleyofgrace.co.za/civic/residents-association/trancraa-process-farm-39) tells the story of the process since 2002.
 
 The Transformation of Certain Rural Areas Act 94 of 1998, commonly referred to as TRANCRAA, is the South African statute that provides for the transfer of certain rural areas from state trust into locally chosen entities. It repealed the Rural Areas Act 9 of 1987, the "House of Representatives" statute that had established a parallel legal regime for coloured rural areas under apartheid. In the Valley of Grace, the Act governs Farm 39, the approximately 4,797-hectare land holding granted to the Moravian Church Missionary Institution in 1858 "for the use of and in trust for such persons as may from time to time be lawfully resident at the institution of Genadendal."
 
@@ -64,6 +67,8 @@ The AfriForum and Kaapse Forum alignment (2025) has not been analyzed against th
 
 ## Related pages
 
+- [W2DF: Transformation of Certain Rural Areas Act](https://df.valleyofgrace.co.za/rules/trancraa): The home page for the Act, with what it means in the valley
+- [W2DF: TRANCRAA and Farm 39](https://df.valleyofgrace.co.za/civic/residents-association/trancraa-process-farm-39): The full history of the Farm 39 process, with sources
 - [Valley of Grace Significant Dates](/significant-dates) — Full chronological timeline including every TRANCRAA process event
 - [Promises to the Valley of Grace: Four Cycles from Independence to Dependence](/research/promises-to-the-valley-of-grace) — Analytical reading of the TRANCRAA collapse as the Cycle 4 imposition event
 - [[afrotropic/at12-vog/coordination-surface|Coordination Surface]] — What the BioHub offers, what it seeks, how to engage
