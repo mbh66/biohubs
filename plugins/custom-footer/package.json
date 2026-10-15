@@ -1,7 +1,7 @@
 {
   "name": "custom-footer",
-  "version": "1.0.0",
-  "description": "Custom footer for the BioConomy wiki with copyright attribution",
+  "version": "1.1.0",
+  "description": "Shared footer for the Quartz network: copyright, licence and links",
   "type": "module",
   "license": "MIT",
   "exports": {
@@ -18,7 +18,7 @@
     "name": "custom-footer",
     "displayName": "Custom Footer",
     "category": "component",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "quartzVersion": ">=5.0.0",
     "dependencies": [],
     "defaultOrder": 50,
@@ -36,7 +36,16 @@
     },
     "optionSchema": {
       "copyrightHolder": {
-        "type": "string"
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "licence": {
+        "type": [
+          "object",
+          "null"
+        ]
       },
       "links": {
         "type": "object"

@@ -1,3 +1,7 @@
 @use "./variables.scss" as *;
+@use "./network";
 
-// put your custom CSS here!
+// The shared look (fonts, palette, callouts) lives in network.scss, copied from
+// quartz-hub/styles/network.scss by tools/network-sync.py. Edit it there, not here.
+//
+// Anything below this line applies to this site only. Keep it short.

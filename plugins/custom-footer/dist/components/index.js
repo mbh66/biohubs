@@ -55,7 +55,9 @@ var Footer_default = ((opts) => {
   const Footer = ({ displayClass, cfg }) => {
     const year = new Date().getFullYear();
     const links = opts?.links ?? {};
-    const holder = opts?.copyrightHolder ?? "Michael Haupt & Associates";
+    // copyrightHolder: null hides the copyright line; licence: null hides the licence line.
+    const holder = opts?.copyrightHolder === undefined ? "Michael Haupt & Associates" : opts.copyrightHolder;
+    const licence = opts?.licence === undefined ? { name: "CC BY-SA 4.0", url: "https://creativecommons.org/licenses/by-sa/4.0/" } : opts.licence;
     return u2("footer", { class: `${displayClass ?? ""}`, children: [
       u2("p", { children: [
         "Created with ",
@@ -63,13 +65,13 @@ var Footer_default = ((opts) => {
           "Quartz",
           version ? ` v${version}` : ""
         ] }),
-        ` © ${holder} ${year}`
+        holder ? ` © ${holder} ${year}` : ""
       ] }),
-      u2("p", { class: "licence", children: [
+      licence ? u2("p", { class: "licence", children: [
         "Content licensed under ",
-        u2("a", { href: "https://creativecommons.org/licenses/by-sa/4.0/", rel: "license", children: "CC BY-SA 4.0" }),
+        u2("a", { href: licence.url, rel: "license", children: licence.name }),
         " unless otherwise noted."
-      ] }),
+      ] }) : null,
       u2("ul", { children: Object.entries(links).map(([text, link]) => u2("li", { children: u2("a", { href: link, children: text }) })) })
     ] });
   };
