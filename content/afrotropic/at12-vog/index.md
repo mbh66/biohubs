@@ -9,19 +9,18 @@ slug: at12-vog
 founding_date: 2026-09
 coordinator: Michael Haupt
 status: founding
+updated: 2026-10-26
 ---
-
-# Valley of Grace BioHub
 
 The Valley of Grace is the founding BioHub of the [[valley-of-grace|Overberg BioRegion]] , anchored at Genadendal in Ward 2 of Theewaterskloof Municipality, Western Cape, South Africa. It convenes residents, practitioners, farmers, conservation bodies, water users, tourism operators, faith communities, and collaborators around a specific proposition: the below-dam Riviersonderend corridor holds geographic assets, ecological services, and heritage capacity that Cape Town and the broader market now need, and no existing entity coordinates them at the scale required.
 
-The BioHub occupies a coordination layer that no single municipality, catchment authority, tourism association, or conservation organisation currently holds. Its work is landscape-scale, watershed-scale, and cross-jurisdictional by design.
+The BioHub occupies a coordination layer that no single municipality, catchment authority, tourism association, or conservation organization currently holds. Its work is landscape-scale, watershed-scale, and cross-jurisdictional by design.
 
 ## What the BioHub Coordinates
 
 The Valley of Grace holds the below-dam position on the Riviersonderend River, between the Theewaterskloof Dam wall and the river's confluence with the Breede. This position converts demand-side catchment coordination into measurable water-yield service for Cape Town's Western Cape Water Supply System.
 
-The BioHub coordinates landscape-scale activity that increases usable water yield, reduces water demand in the below-dam catchment, maintains the Cape Mountain Leopard corridor through landowner stewardship, generates biodiversity data through the Guardians of Earth Nature Realm, anchors regenerative tourism at heritage sites, supports producers' cooperatives, and runs educational programmes from the Learning Hub at Genadendal.
+The BioHub coordinates landscape-scale activity that increases usable water yield, reduces water demand in the below-dam catchment, maintains the Cape Mountain Leopard corridor through landowner stewardship, generates biodiversity data through the Guardians of Earth Nature Realm, anchors regenerative tourism at heritage sites, supports producers' cooperatives, and runs educational programs from the Learning Hub at Genadendal.
 
 ## The Bankable Service
 
@@ -35,7 +34,7 @@ Genadendal was founded in 1738 as the first Moravian mission station in Southern
 
 The Valley of Grace enters the global BioHub field as a Finance-paired-with-Governance-first initiative in a post-colonial context with contested tenure and below-dam positioning to a major reservoir. It publishes its methodology and findings as open contribution to the field.
 
-The BioHub is recognised within three convergent framings: the Metabolic BioHub field (152 initiatives globally), Michel Bauwens's Archipelago of Regenerative Projects, and Benjamin Life's emerging discipline of bioregional economics.
+The BioHub is recognized within three convergent framings: the Metabolic BioHub field (152 initiatives globally), Michel Bauwens's Archipelago of Regenerative Projects, and Benjamin Life's emerging discipline of bioregional economics.
 
 ## Operating Vocabulary
 
@@ -43,21 +42,25 @@ The operating vocabulary is the [TIME framework](https://wiki.bioconomy.earth/fr
 
 ## Navigate This Wiki
 
-- **[[afrotropic/at12-vog/coordination-surface|Coordination Surface]]** — What we offer, what we seek, how to engage
-- **[[afrotropic/at12-vog/identity/index|Identity]]** — Who the BioHub is, its lineage and governance
-- **[[afrotropic/at12-vog/services/index|Services]]** — Tenderable services and readiness status
-- **[[afrotropic/at12-vog/alignments/index|Alignments]]** — Financial instrument alignment
-- **[[afrotropic/at12-vog/cohort/index|Cohort]]** — Founding cohort members
-- **[[afrotropic/at12-vog/partners/index|Partners]]** — External partners and counterparties
-- **[[afrotropic/at12-vog/data/index|Data]]** — Monitoring baselines and structured metadata
-- **[[afrotropic/at12-vog/journal/index|Journal]]** — Milestones and coordination log
-- **[[afrotropic/at12-vog/research/index|Research]]** — Analytical briefs applying BioConomy frameworks to the valley
-- **[Significant Dates](/significant-dates)** — Chronological timeline of the valley from c. 200,000 BP to 2038, tagged by TIMN form and evidentiary status
-- **[TRANCRAA](/trancraa)** — The Transformation of Certain Rural Areas Act 94 of 1998 and the 27-year Farm 39 process
-- **[[afrotropic/at12-vog/entities/index|Entities]]** — Reference pages for the institutional parties named in the historical record
-- **[[afrotropic/at12-vog/sources/index|Sources]]** — References and bibliography
+- **[[afrotropic/at12-vog/coordination-surface|Coordination Surface]]**: What we offer, what we seek, how to engage
+- **[[afrotropic/at12-vog/identity/index|Identity]]**: Who the BioHub is, its lineage and governance
+- **[[afrotropic/at12-vog/services/index|Services]]**: Tenderable services and readiness status
+- **[[afrotropic/at12-vog/alignments/index|Alignments]]**: Financial instrument alignment
+- **[[afrotropic/at12-vog/cohort/index|Cohort]]**: Founding cohort members
+- **[[afrotropic/at12-vog/partners/index|Partners]]**: External partners and counterparties
+- **[[afrotropic/at12-vog/data/index|Data]]**: Monitoring baselines and structured metadata
+- **[[afrotropic/at12-vog/journal/index|Journal]]**: Milestones and coordination log
+- **[[afrotropic/at12-vog/research/index|Research]]**: Analytical briefs applying BioConomy frameworks to the valley
+- **[Significant Dates](/significant-dates)**: Chronological timeline of the valley from c. 200,000 BP to 2038, tagged by TIMN form and evidentiary status
+- **[TRANCRAA](/trancraa)**: The Transformation of Certain Rural Areas Act 94 of 1998 and the 27-year Farm 39 process
+- **[[afrotropic/at12-vog/entities/index|Entities]]**: Reference pages for the institutional parties named in the historical record
+- **[[afrotropic/at12-vog/sources/index|Sources]]**: References and bibliography
 
-- **[Licence](https://creativecommons.org/licenses/by-sa/4.0/)** — CC BY-SA 4.0
+- **[License](https://creativecommons.org/licenses/by-sa/4.0/)**: CC BY-SA 4.0
+
+## Federation along the river
+
+The Valley of Grace is a single BioHub for the Riviersonderend downstream of the Theewaterskloof Dam and upstream of Swellendam [MS]. It engages with the BioHubs upstream of the dam and downstream of Swellendam, such as the anticipated [[afrotropic/at12-overberg/biohubs/witsand|Witsand BioHub]] at the Breede estuary, as a federation [MS]. In the terms of the BioConomy wiki, each BioHub in the federation carries the [Bioregional Development Organization](https://wiki.bioconomy.earth/glossary/a-e/bioregional-development-organization-bdo) functions for its own reach of the river, and the BioHubs federate across the Overberg BioRegion through shared infrastructure and reconciled Terms of Engagement. The [[afrotropic/at12-overberg/charter|Overberg Charter]] will record the arrangement when the founding cohort produces it.
 
 ## The Overberg BioRegion
 
