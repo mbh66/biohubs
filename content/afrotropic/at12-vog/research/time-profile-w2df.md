@@ -9,7 +9,7 @@ source_documents: ["TIME Profile deep research report (2026-09-26)", "W2DF inaug
 epistemic_status: "mixed"
 ---
 
-A companion to the wiki brief [A TIME Profile for Multi-Perspective Governance](https://wiki.bioconomy.earth/research/time-profile), applying its findings to the Ward 2 Business and Community Development Forum (W2DF) in Theewaterskloof Municipality. The wiki brief concludes that no validated TIME profile exists and that the credible first step is an unscored card sort. This page sets out what that step would look like in the Valley of Grace, what South African law requires if the forum later wants a scored instrument, and what the valley's history asks of anyone who brings a sorting tool into it.
+A companion to the wiki brief [A TIME Profile for Multi-Perspective Governance](https://wiki.bioconomy.earth/research/time-profile), applying its findings to the Ward 2 Development Forum (W2DF) in Theewaterskloof Municipality. The wiki brief concludes that no validated TIME profile exists and that the credible first step is an unscored card sort. This page sets out what that step would look like in the Valley of Grace, what South African law requires if the forum later wants a scored instrument, and what the valley's history asks of anyone who brings a sorting tool into it.
 
 The recommendation is to offer the forum an unscored pilot and let the forum decide. A scored, named profile is not recommended at this stage.
 

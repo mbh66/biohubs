@@ -53,7 +53,7 @@ Field ancestors: Schumacher, Daly, Meadows, Berry, Ostrom. [IC]
 
 ### 2.4 The Coordinator's Published Work
 
-- "Mycelial Consciousness" (April 2025) — the fifth Cognitive Major Evolutionary Transition
+- "Mycelial Consciousness" (April 2025) — the fourth Cognitive Major Evolutionary Transition
 - "The Cheapest Available Behavior" (April 2026) — substrate hypothesis and TIMN-mycelial overlay
 - "Mycelial Patronage: The (R)evolution Will Be Funded" (July 2026) — funding architecture
 - "Sawalmem: Watershed Governance" (16 August 2026) — below-dam positioning and FR31PB engagement
